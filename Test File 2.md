@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 
 [[Test File 1]]
 
