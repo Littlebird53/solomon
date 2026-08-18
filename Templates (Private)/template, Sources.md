@@ -7,6 +7,7 @@ date:
 publish:
 title:
 level:
+open: false
 ---
 ## Citation
 
