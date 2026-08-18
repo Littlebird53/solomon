@@ -1,0 +1,11 @@
+## Textual Criticism
+- Bruce, F. F. The New Testament Documents Are They Reliable? Grand Rapids: Eerdmans, 2003.
+- Barr, James. The Semantics of Biblical Language. Wipf and Stock, 2004.
+- Comfort, Philip Wesley. Encountering the Manuscripts. Nashville: B&H, 2005.
+- Comfort, Philip W. and David P. Barrett. The Text of the Earliest New Testament Greek Manuscripts. Nashville: B&H, 2001.
+- Epp, Eldon Jay, and Gordon D Fee. Studies in the Theory and Method of New Testament Textual Criticism. Studies and Documents, vol. 45. Grand Rapids: Eerdmans, 1993.
+- Greenlee, J. Harold. An Introduction to New Testament Textual Criticism. 2nd ed. Peabody, MA: Hendrickson, 1995. 
+- Metzger, B. M. The Text of the New Testament: Its Transmission, Corruption and Restoration. 4th ed. Oxford: Oxford University Press, 2005.
+- Metzger, Bruce M. A Textual Commentary on the New Testament. 2nd ed. London: UBS, 1994.
+- Wegner, Paul D. Journey from Texts to Translations: The Origin and Development of the Bible. Baker Academic, 2004. 
+- Wegner, Paul D. A Student's Guide to Textual Criticism of the Bible: Its History, Methods and Results. IVP Academic, 2006. 
