@@ -33,9 +33,6 @@ Upon the successful completion of this course the student should be able to:
 (summary table of each type and weight from above, with total & 100% in final row)
 
 
-| A   |     |
-| --- | --- |
-|     |     |
 
 
 # Bibliography
