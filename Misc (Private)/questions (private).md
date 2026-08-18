@@ -5,3 +5,4 @@
 - can I autofill links to notes based on complex criteria? e.g. "all notes linking to this note with type = learning objective appear in a list here" -- I totally think this is a dataview query that I can write.
 - can I display the contents of a note which is not visible to students inside one that is? e.g. for the grading scale, the visual appearance of the embedded note is unnecessary and I don't want students to be able to click on it.
 - can I display just links in the bibliography section of the syllabus, with citation info in the source note itself? will need to substitute the bibliographic reference before printing.
+- do I need to control source a
