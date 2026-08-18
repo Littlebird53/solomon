@@ -12,5 +12,9 @@ Upon the successful completion of this course the student should be able to:
 6. [[S2.1 - Apply these Scriptures to modern situations in the local church using good hermeneutics.]]
 
 # Required Resources
-1. 1 of the following commentaries on the Book of Acts: [[Acts, New American Commentary - John B. Polhill]]
-2. 
+1. 1 of the following commentaries on the Book of Acts: 
+	1. [[Acts; New American Commentary - John B. Polhill]]
+	2. [[The Message of Acts; The Bible Speaks Today - John Stott]]
+2.  1 of the following commentaries on the book of 1 Corinthians:
+	1. [[The First Epistle to the Corinthians; New International Commentary on the New Testament - Gordon Fee]]
+	2. [[1 Corinthians; NIV Application Commentary - Craig L. Blomberg]]
