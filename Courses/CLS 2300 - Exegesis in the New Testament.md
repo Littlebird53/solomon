@@ -49,13 +49,10 @@ Upon the successful completion of this course the student should be able to:
 
 
 ## Commentaries 
-Bock, Darrell L. Acts. The Baker Exegetical Commentary on the New Testament. Baker Academic, 2007.
-
-Bock, Darrell L. A Theology of Luke and Acts: God’s Promised Program, Realized for All Nations. A Biblical Theology of the New Testament. Zondervan, 2012.  
-
-Bruce, F. F. Commentary on the Book of Acts. Rev. ed. The New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1988.   
-
-Bruce, F. F. 1 and 2 Corinthians.  New Century Bible Commentary. Grand Rapids: Eerdmans, 1980.
+- Bock, Darrell L. Acts. The Baker Exegetical Commentary on the New Testament. Baker Academic, 2007.
+- Bock, Darrell L. A Theology of Luke and Acts: God’s Promised Program, Realized for All Nations. A Biblical Theology of the New Testament. Zondervan, 2012.  
+- Bruce, F. F. Commentary on the Book of Acts. Rev. ed. The New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1988.   
+- Bruce, F. F. 1 and 2 Corinthians.  New Century Bible Commentary. Grand Rapids: Eerdmans, 1980.
 
 Gardner, Paul D. 1 Corinthians. Zondervan Exegetical Commentary on the New Testament Edited by Clinton E. Arnold. Zondervan, 2018.
 
@@ -93,17 +90,10 @@ Erickson, Richard J. A Beginner’s Guide to New Testament Exegesis. Taking the 
 
 Köstenberger Andreas J. and Richard D. Patterson. For the Love of God's Word: An Introduction to Biblical Interpretation. Abridged and revised ed. Grand Rapids: Kregel Academic, 2015.
 
-  
-
-Textual Criticism
-
+## Textual Criticism
 Bruce, F. F. The New Testament Documents Are They Reliable? Grand Rapids: Eerdmans, 2003.
 
-  
-
 Barr, James. The Semantics of Biblical Language. Wipf and Stock, 2004.
-
-  
 
 Comfort, Philip Wesley. Encountering the Manuscripts. Nashville: B&H, 2005.
 
@@ -111,50 +101,25 @@ Comfort, Philip W. and David P. Barrett. The Text of the Earliest New Testament 
 
 Epp, Eldon Jay, and Gordon D Fee. Studies in the Theory and Method of New Testament Textual Criticism. Studies and Documents, vol. 45. Grand Rapids: Eerdmans, 1993.
 
-  
-
 Greenlee, J. Harold. An Introduction to New Testament Textual Criticism. 2nd ed. Peabody, MA: Hendrickson, 1995. 
-
-  
 
 Metzger, B. M. The Text of the New Testament: Its Transmission, Corruption and Restoration. 4th ed. Oxford: Oxford University Press, 2005.
 
-  
-
 Metzger, Bruce M. A Textual Commentary on the New Testament. 2nd ed. London: UBS, 1994.
-
-  
 
 Wegner, Paul D. Journey from Texts to Translations: The Origin and Development of the Bible. Baker Academic, 2004. 
 
-  
-
 Wegner, Paul D. A Student's Guide to Textual Criticism of the Bible: Its History, Methods and Results. IVP Academic, 2006. 
 
-  
-
-Theological Dictionaries 
-
-  
-
+## Theological Dictionaries 
 Balz, Horst and Gerhard Schneider, eds. Exegetical Dictionary of the New Testament, 3 vols. Grand Rapids: Eerdmans, 1990, 1993.
-
-  
 
 Brown, Colin, ed. New International Dictionary of New Testament Theology, 4 vols. Grand Rapids: Zondervan, 1976-1984.
 
-  
-
 Kittel, Gerhard and Gerhard Friedrich, eds. Theological Dictionary of the New Testament, 10 vols. Translated by G. W. Bromiley. Grand Rapids: Eerdmans, 1964-76.
-
-  
 
 Silva, Moisés. Biblical Words and Their Meaning. An Introduction to Lexical Semantics. 2nd ed. Grand Rapids: Zondervan, 1995.
 
 Silva, Moisés, ed. The New International Dictionary of New Testament Theology and Exegesis. Grand Rapids: Zondervan, 2014.
 
-  
-
 Spicq, Ceslas. Theological Lexicon of the New Testament, 3 vols. Translated and edited by James D. Ernest. Peabody, MA: Hendrickson, 1994.
-
-**
