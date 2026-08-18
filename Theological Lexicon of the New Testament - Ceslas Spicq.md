@@ -6,6 +6,7 @@ pages:
 date:
 publish:
 title:
+level:
 ---
 ## Citation
 
