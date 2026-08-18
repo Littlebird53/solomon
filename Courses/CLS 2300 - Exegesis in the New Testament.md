@@ -20,7 +20,7 @@ Upon the successful completion of this course the student should be able to:
 	-  [[1 Corinthians; NIV Application Commentary - Craig L. Blomberg]]
 
 
-# Grading & Assignments
+# Assignments
 ## Assignment Type 1
 
 ## Assignment Type 2
@@ -29,6 +29,13 @@ Upon the successful completion of this course the student should be able to:
 
 ## Assignment Type 4
 
+# Grades
+(summary table of each type and weight from above, with total & 100% in final row)
+
+
+| A   |     |
+| --- | --- |
+|     |     |
 
 
 # Bibliography
