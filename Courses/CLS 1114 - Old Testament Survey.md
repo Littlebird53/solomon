@@ -5,7 +5,7 @@ Upon the successful completion of this course the student should be able to:
 
 
 # Required Resources
-
+[[How to Read a Book ]]
 
 # Assignments
 ## Assignment Type 1
