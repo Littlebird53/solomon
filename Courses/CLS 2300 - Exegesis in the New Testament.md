@@ -5,6 +5,9 @@ subtype:
   - syllabus
 publish:
 title:
+open: true
+department:
+  - Biblical Studies
 ---
 
 # Course Description

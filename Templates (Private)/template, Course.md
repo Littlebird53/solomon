@@ -1,3 +1,13 @@
+---
+type:
+  - resource
+subtype:
+  - syllabus
+publish:
+title:
+department:
+open: true
+---
 # Course Description
 
 # Course Objectives
