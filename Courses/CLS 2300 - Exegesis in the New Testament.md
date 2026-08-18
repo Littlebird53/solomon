@@ -30,7 +30,17 @@ Upon the successful completion of this course the student should be able to:
 ## Assignment Type 4
 
 # Grades
-(summary table of each type and weight from above, with total & 100% in final row)
+(probably need data view query that displays property:weight in the next column)
+
+| Assignment | % of Grade |
+| ---------- | ---------- |
+| (1)        |            |
+|            |            |
+|            |            |
+|            |            |
+|            |            |
+|            |            |
+
 
 ![[Grading Scale]]
 
