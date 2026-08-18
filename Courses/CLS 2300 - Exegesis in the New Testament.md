@@ -49,5 +49,5 @@ Upon the successful completion of this course the student should be able to:
 [[Bibliography, Commentaries for CLS 2300 - New Testament Exegesis]]
 [[Bibliography, NT Studies]]
 [[Bibliography, Exegetical Method]]
-
+[[Bibliography, Theological Dictionaries]]
 
