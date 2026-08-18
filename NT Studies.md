@@ -1,0 +1,11 @@
+## NT Studies
+- Carson, D.A. and Douglas J. Moo. An Introduction to the New Testament. Zondervan Academic, 2005.  
+- Carson, D.A. and G.K. Beale. Commentary on the New Testament Use of the Old Testament. Baker Academic, 2007.
+- DeSilva, David A. An Introduction to the New Testament: Contexts, Methods & Ministry Formation. 2nd ed. IVP Academic, 2018. 
+- Dunn, James D.G. The Theology of Paul the Apostle. Eerdmans, 2006.
+- Guthrie, Donald. New Testament Introduction. 4th ed. IVP Academic, 2015. 
+- Elwell, Walter A. and Robert W. Yarbrough. Encountering the New Testament: A Historical and Theological Survey. 3rd ed. Encountering Biblical Studies. Baker Academic, 2013. 
+- Schreiner, Thomas R. Handbook on Acts and Paul’s Letters. Handbooks on the New Testament. Baker Academic, 2019. 
+- Schreiner, Thomas R. Interpreting the Pauline Epistles. 2nd ed. Baker Academic, 2011. 
+- Schreiner, Thomas R. New Testament Theology: Magnifying God in Christ. Baker Academic, 2008.
+- Wright, N.T. and Michael F. Bird. The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians. Zondervan Academic, 2019. 
