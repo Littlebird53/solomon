@@ -32,7 +32,7 @@ Upon the successful completion of this course the student should be able to:
 # Grades
 (summary table of each type and weight from above, with total & 100% in final row)
 
-
+![[Grading Scale]]
 
 
 # Bibliography
