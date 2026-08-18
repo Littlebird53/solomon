@@ -4,5 +4,5 @@
 - Kittel, Gerhard and Gerhard Friedrich, eds. Theological Dictionary of the New Testament, 10 vols. Translated by G. W. Bromiley. Grand Rapids: Eerdmans, 1964-76. // [[Theological Dictionary of the New Testament - Gerhard Kittel and Gerhard Friedrich, eds.]]
 - Silva, Moisés. Biblical Words and Their Meaning. An Introduction to Lexical Semantics. 2nd ed. Grand Rapids: Zondervan, 1995. // [[Biblical Words and Their Meaning. An Introduction to Lexical Semantics - Moises Silva]]
 - Silva, Moisés, ed. The New International Dictionary of New Testament Theology and Exegesis. Grand Rapids: Zondervan, 2014. // [[The New International Dictionary of New Testament Theology and Exegesis - Moises Silva, ed.]]
-- Spicq, Ceslas. Theological Lexicon of the New Testament, 3 vols. Translated and edited by James D. Ernest. Peabody, MA: Hendrickson, 1994. // ![[Theological Lexicon of the New Testament - Ceslas Spicq#Spicq, Ceslas. Theological Lexicon of the New Testament, 3 vols. Translated and edited by James D. Ernest. Peabody, MA Hendrickson, 1994.]]
+- Spicq, Ceslas. Theological Lexicon of the New Testament, 3 vols. Translated and edited by James D. Ernest. Peabody, MA: Hendrickson, 1994. // ![[Theological Lexicon of the New Testament - Ceslas Spicq#^0b59bb]]
 
