@@ -1,7 +1,6 @@
 ---
 type:
-  - source
-subtype: book
+subtype:
 pages:
 date:
 publish:
