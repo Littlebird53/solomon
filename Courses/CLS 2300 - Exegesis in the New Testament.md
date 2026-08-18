@@ -34,15 +34,15 @@ Upon the successful completion of this course the student should be able to:
 
 | Assignment | % of Grade |
 | ---------- | ---------- |
-| (1)        |            |
-|            |            |
-|            |            |
-|            |            |
-|            |            |
-|            |            |
-
-
+| (1)        | 10%        |
+| (2)        | 10%        |
+| (3)        | 20%        |
+| (4)        | 40%        |
+| (5)        | 20%        |
+| Total      | 100%       |
 ![[Grading Scale]]
+
+# Course Schedule
 
 
 # Bibliography
