@@ -10,3 +10,7 @@ Upon the successful completion of this course the student should be able to:
 4. [[S1.4 - Account for the successful witness and missionary zeal of early believers.]]
 5. [[S1.5 - Isolate and explain the major problems encountered and the solutions offered.]]
 6. [[S2.1 - Apply these Scriptures to modern situations in the local church using good hermeneutics.]]
+
+# Required Resources
+1. 1 of the following commentaries on the Book of Acts: [[Acts, New American Commentary - John B. Polhill]]
+2. 
