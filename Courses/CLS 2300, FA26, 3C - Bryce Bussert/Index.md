@@ -62,12 +62,15 @@ longform:
     - Class 14 (Meeting)
     - - The Third Missionary Journey (Topic)
       - - Acts Ch. 18-24 (Bible)
+        - Stott, Ch. 10-11 (Reading)
+        - Polhill, Ch. 14-15 (Reading)
       - The Voyage to Rome (Topic)
       - - Acts, Ch. 25-28 (Bible)
     - Class 15 (Meeting)
     - - 1 Corinthians Paper Due (Deadline)
+      - Blomberg, Ch. 4-5 (Reading)
+      - Fee, Ch. 6-7 (Reading)
     - Summary Doc
-    - Stott, Ch. 10-11 (Reading)
   ignoredFiles:
     - Introduction
     - Text Criticism
