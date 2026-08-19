@@ -11,25 +11,22 @@ longform:
         - Meet the Instructor Presentation
         - CLS2300, Syllabus
     - Class 2 (Meeting)
-    - - The Church in Jerusalem
-      - Bible Reading - The Church in Jerusalem
-      - - TC HW
+    - - Intro to Matthew's Gospel
+      - - One Big Question - Matthew's Gospel
+        - Matthew Lecture Slides
+        - Matthew Bibliography
+        - Matthew Book Outline
+      - The Church in Jerusalem
+      - - Bible Reading - The Church in Jerusalem
+        - TC HW
     - Class 3 (Meeting)
-    - - HB Lecture Notes
-      - HB HW
-      - HB Quiz
-    - Intro to Matthew's Gospel
-    - - One Big Question - Matthew's Gospel
-      - Matthew Lecture Slides
-      - Matthew Book Outline
-      - Matthew Bibliography
-      - Mid-term Study Guide
-      - Mid-term
     - Class 4 (Meeting)
     - Class 5 (Meeting)
     - Class 6 (Meeting)
     - Class 7 (Meeting)
+    - - Mid-term Study Guide
     - Class 8 (Meeting)
+    - - Mid-term
     - Class 9 (Meeting)
     - Class 10 (Meeting)
     - Class 11 (Meeting)
