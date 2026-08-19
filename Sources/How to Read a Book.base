@@ -13,9 +13,10 @@ views:
       - open
       - publish
       - title
-  - type: list
+  - type: cards
     name: Table View
     filters:
       and:
         - file.inFolder("Sources/How to Read a Book - Mortimer & Van Adler")
     indentProperties: true
+    cardSize: 490
