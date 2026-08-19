@@ -8,3 +8,5 @@
 - what is the best way to add properties to non-md files? -- currently, I can do this through Bases Spotlight, which works decently well, but the properties don't display their values according to the type limitations, only straight text. I see it mentioned that Bases operates with a separate set of properties for non-md files anyways so perhaps I can leverage that. Alt, embed each pdf in its own note.
 
 - set up alternate CSS class for |no-toolbar option for embedded Bases
+- should schedule/meetings or topic be the largest level of organization for a course? -- schedule seems natural, but when topics are too large for a single meeting, this gets clunky. Does this dividing pressure help us break down topics into smaller groups?
+- 
