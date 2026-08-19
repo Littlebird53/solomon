@@ -11,7 +11,9 @@ The first part of your syllabus (after the name & course code) is the course des
 The next part of your syllabus is the Course Learning Objectives. These can be wordy but describe the specific skills that students should gain in your course. Your syllabus only includes the highest level learning objectives to keep things simple, but you can click any of them to access more information about these and related skills. For example, what do we mean when we say students should demonstrate an "advanced knowledge" of something? As you dive into this learning objective, you will find a list of specific skills which we think constitute "advanced knowledge" of this topic. 
 We recognize that some skills must be mastered sequentially and others need to be exercised and refined together. Thus, each learning objective has other objectives which it builds on, towards, or with simultaneously. 
 Each learning objective should have instruction, class discussion, reading, and other learning activities that help develop it throughout the course. This short list tells students in precise terms what they should expect to learn from this course.
-In general, these high-level learning objectives listed on your syllabus should not require modification in order to properly contextualize a course. Rather, you will need to contextualize your approach to teaching these skills and the specific sub-skills that make up each learning objective. E.g. 
+In general, these high-level learning objectives listed on your syllabus should not require modification in order to properly contextualize a course. Rather, you will need to contextualize your approach to teaching these skills and the specific sub-skills that make up each learning objective.
+
+
 
 ![[CLS 2300 - Exegesis in the New Testament#Course Objectives]]
 
