@@ -11,7 +11,8 @@ level:
 ---
 
 # Description
-This introductory chapter describes the task of reading, which is the central topic of this book. The goal is to practice reading that is active, intended to gain bot
+This introductory chapter describes the task of reading, which is the central topic of this book. The goal is to practice reading that is active, intended to gain both information and understanding, and part of a learning process.
 # Access
+Full pdf access to this chapter is available for ADVANCE Students/Instructors.
 
 ![[Sources/How to Read a Book - Mortimer & Van Adler/1. The Activity and Art of Reading.pdf|1. The Activity and Art of Reading.pdf]]
