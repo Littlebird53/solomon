@@ -13,6 +13,7 @@ We recognize that some skills must be mastered sequentially and others need to b
 Each learning objective should have instruction, class discussion, reading, and other learning activities that help develop it throughout the course. This short list tells students in precise terms what they should expect to learn from this course.
 In general, these high-level learning objectives listed on your syllabus should not require modification in order to properly contextualize a course. Rather, you will need to contextualize your approach to teaching these skills and the specific sub-skills that make up each learning objective.
 
+%%> Example %% 
 
 
 ![[CLS 2300 - Exegesis in the New Testament#Course Objectives]]
