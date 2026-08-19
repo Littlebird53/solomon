@@ -19,7 +19,7 @@ longform:
     - Intro to Matthew's Gospel
     - - One Big Question - Matthew's Gospel
       - Matthew Lecture Slides
-      - Matthew Outline
+      - Matthew Book Outline
       - Matthew Bibliography
       - Mid-term Study Guide
       - Mid-term
