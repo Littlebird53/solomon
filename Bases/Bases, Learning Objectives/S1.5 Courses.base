@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Learning Objectives/S1.5 - Isolate and explain the major problems encountered and the solutions offered..md")
+        - type == ["course"]

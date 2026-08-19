@@ -4,4 +4,4 @@ views:
     filters:
       and:
         - type == ["resource"]
-        - file.hasLink("Learning Objectives/S1.3 - Understand and explain the work of the Holy Spirit and the prominence of prayer in the life and development of the early church..md")
+        - file.hasLink("Learning Objectives/S1.4 - Account for the successful witness and missionary zeal of early believers..md")

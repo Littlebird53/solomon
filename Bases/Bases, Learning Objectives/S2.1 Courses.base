@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Learning Objectives/S2.1 - Apply these Scriptures to modern situations in the local church using good hermeneutics..md")
+        - type == ["course"]
