@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Learning Objectives/S1.3 - Understand and explain the work of the Holy Spirit and the prominence of prayer in the life and development of the early church..md")
+        - type == ["course"]

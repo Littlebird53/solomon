@@ -3,5 +3,5 @@ views:
     name: Table
     filters:
       and:
+        - type == ["resource"]
         - file.hasLink("Learning Objectives/S1.2 - Give an account of the methodology, theology and organizational development of the early church..md")
-        - type == ["course"]
