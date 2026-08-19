@@ -8,4 +8,3 @@ views:
       - file.name
       - file.tags
       - pages
-    hyperlink_property: note.pages
