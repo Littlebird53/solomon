@@ -7,12 +7,14 @@ longform:
   scenes:
     - Class 1
     - - Introduction
-      - Welcome Activity
-      - Meet the Instructor Presentation
-      - CLS2300, Syllabus
-    - Text Criticism (TC)
-    - - TC Lecture Notes
-      - TC HW
+      - - Welcome Activity
+        - Meet the Instructor Presentation
+        - CLS2300, Syllabus
+    - Class 2
+    - - Bible Reading - The Church in Jerusalem
+      - - TC Lecture Notes
+        - TC HW
+    - Class 3
     - Historical Background (HB)
     - - HB Lecture Notes
       - HB HW
@@ -24,8 +26,6 @@ longform:
       - Matthew Bibliography
       - Mid-term Study Guide
       - Mid-term
-    - Class 2
-    - Class 3
     - Class 4
     - Class 5
     - Class 6
