@@ -1,10 +1,9 @@
 ---
 type:
-  - resource
-subtype:
   - syllabus
-publish:
-title:
+subtype:
+publish: "true"
+title: CLS 2300 - Exegesis in the New Testament
 open: true
 department:
   - Biblical Studies
