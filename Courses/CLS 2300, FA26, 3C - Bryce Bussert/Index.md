@@ -11,12 +11,12 @@ longform:
         - Meet the Instructor Presentation
         - CLS2300, Syllabus
     - Class 2 (Meeting)
-    - - Intro to Matthew's Gospel
+    - - Intro to Matthew's Gospel (Topic)
       - - One Big Question - Matthew's Gospel
         - Matthew Lecture Slides
         - Matthew Bibliography
         - Matthew Book Outline
-      - The Church in Jerusalem
+      - The Church in Jerusalem (Topic)
       - - Bible Reading - The Church in Jerusalem
         - TC HW
     - Class 3 (Meeting)
