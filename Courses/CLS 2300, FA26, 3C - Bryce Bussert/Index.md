@@ -12,10 +12,10 @@ longform:
         - CLS2300, Syllabus
     - Class 2 (Meeting)
     - - Intro to Matthew's Gospel (Topic)
-      - - One Big Question - Matthew's Gospel
-        - Matthew Lecture Slides
-        - Matthew Bibliography
-        - Matthew Book Outline
+      - - Why This Gospel (Opener)
+        - Matthew Lecture (Slideshow)
+        - Matthew (Bibliography)
+        - Matthew in 3 Parts (Outline)
       - The Church in Jerusalem (Topic)
       - - Bible Reading - The Church in Jerusalem
         - TC HW
