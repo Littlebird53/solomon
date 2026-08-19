@@ -4,9 +4,9 @@
 - ![[An Introduction to the New Testament; Context, Methods & Ministry Formation - David A. DeSilva#^58b671]]
 - ![[The Theology of Paul the Apostle - James D. G. Dunn#^ef4ee6]]
 - ![[New Testament Introduction - Donald Guthrie#^d12781]]
-- Elwell, Walter A. and Robert W. Yarbrough. Encountering the New Testament: A Historical and Theological Survey. 3rd ed. Encountering Biblical Studies. Baker Academic, 2013. 
-- Schreiner, Thomas R. Handbook on Acts and Paul’s Letters. Handbooks on the New Testament. Baker Academic, 2019. 
-- Schreiner, Thomas R. Interpreting the Pauline Epistles. 2nd ed. Baker Academic, 2011. 
+- ![[Encountering the New Testament; A historical and theological survey - Walter A. Elwell and Robert W. Yarbrough#^e9b91b]]
+- ![[Handbook on Acts and Paul's Letters - Thomas R. Schreiner#^a4390b]]
+- ![[Interpreting the Pauline Epistles - Thomas R. Schreiner#^26a292]]
 - Schreiner, Thomas R. New Testament Theology: Magnifying God in Christ. Baker Academic, 2008.
 - Wright, N.T. and Michael F. Bird. The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians. Zondervan Academic, 2019. 
 ## Exegetical Method
