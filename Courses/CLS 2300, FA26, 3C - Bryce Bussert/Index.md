@@ -52,12 +52,16 @@ longform:
       - Lawsuits
       - Sexual Immorality
       - Singleness, Marriage, and Divorce
+      - Acts Exegesis Paper Due (Deadline)
     - Class 11 (Meeting)
     - Class 12 (Meeting)
     - Class 13 (Meeting)
     - Class 14 (Meeting)
     - Class 15 (Meeting)
+    - - 1 Corinthians Paper Due (Deadline)
     - Summary Doc
+    - The Resurrection (Topic)
+    - The Collection (Topic)
   ignoredFiles:
     - Introduction
     - Text Criticism
