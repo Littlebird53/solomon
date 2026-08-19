@@ -13,3 +13,9 @@ views:
       - open
       - publish
       - title
+  - type: list
+    name: Table View
+    filters:
+      and:
+        - file.inFolder("Sources/How to Read a Book - Mortimer & Van Adler")
+    indentProperties: true
