@@ -4,7 +4,7 @@ type:
 subtype: book
 pages:
 date:
-publish:
+publish: "true"
 title:
 level:
 open:
