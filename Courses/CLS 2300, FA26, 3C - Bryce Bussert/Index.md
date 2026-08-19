@@ -38,6 +38,8 @@ longform:
     - Class 13 (Meeting)
     - Class 14 (Meeting)
     - Class 15 (Meeting)
+    - Stott, Ch. 7-12 (Reading)
+    - Polhill, Ch. 7-12 (Reading)
   ignoredFiles:
     - Introduction
     - Text Criticism
