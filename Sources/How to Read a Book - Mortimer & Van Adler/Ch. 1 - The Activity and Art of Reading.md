@@ -15,4 +15,4 @@ This introductory chapter describes the task of reading, which is the central to
 # Access
 Full pdf access to this chapter is available for ADVANCE Students/Instructors.
 
-![[Sources/How to Read a Book - Mortimer & Van Adler/1. The Activity and Art of Reading.pdf|1. The Activity and Art of Reading.pdf]]
+![[1. The Activity and Art of Reading.pdf|1. The Activity and Art of Reading.pdf]]
