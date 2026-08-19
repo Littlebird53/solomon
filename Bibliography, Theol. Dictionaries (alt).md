@@ -1,3 +1,0 @@
-
-
-![[bib, theol dict.base]]
