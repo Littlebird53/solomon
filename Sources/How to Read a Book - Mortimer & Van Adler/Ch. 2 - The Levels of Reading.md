@@ -3,8 +3,8 @@ type:
   - source
 subtype:
   - chapter
-title:
-publish:
+title: Ch. 2 - The Levels of Reading
+publish: "true"
 open:
 level:
 pages: 3

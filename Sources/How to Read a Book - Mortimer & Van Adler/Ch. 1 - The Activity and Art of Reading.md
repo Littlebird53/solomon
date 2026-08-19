@@ -4,7 +4,7 @@ type:
 subtype:
   - chapter
 title: Ch. 1 - The Activity and Art of Reading
-publish:
+publish: "true"
 pages: 7
 open: true
 level:
