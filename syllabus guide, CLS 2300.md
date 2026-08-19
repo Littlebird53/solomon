@@ -6,10 +6,10 @@ Now, let's begin:
 The first part of your syllabus (after the name & course code) is the course description. This should give a very general description of the course, but gives you and students a basic idea of what kinds of topics we are trying to cover in this course. 
    ![[CLS 2300 - Exegesis in the New Testament#Course Description]]
 - If you would like, you can add to this course description by supplementing your own description below:
+  (               )
 
+The next part of your syllabus is the Course Learning Objectives. These can be wordy but describe the specific skills that students should gain in your course. Your syllabus only includes the highest level learning objectives to keep things simple, but you can click any of them to access more information about these and related skills. 
 
-
-The next part of your syllabus is the Course Learning Objectives. These can be wordy but describe the specific skills that students should gain in your course.
 ![[CLS 2300 - Exegesis in the New Testament#Course Objectives]]
 
 
