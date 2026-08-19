@@ -11,9 +11,11 @@ longform:
         - Meet the Instructor Presentation
         - CLS2300, Syllabus
       - Exegetical and Hermeneutical Methods (Topic)
+      - - Brief Hermeneutics Summary (Slideshow)
+        - Brief Hermeneutics Summary (Lecture Notes)
     - Class 2 (Meeting)
     - - Intro to Matthew's Gospel (Topic)
-      - - Why This Gospel (Opener)
+      - - Why Did Matthew Write a Gospel (Opener)
         - Matthew Lecture (Slideshow)
         - Matthew (Bibliography)
         - Matthew in 3 Parts (Outline)
