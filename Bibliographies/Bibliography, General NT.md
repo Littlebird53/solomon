@@ -7,23 +7,12 @@
 - ![[Encountering the New Testament; A historical and theological survey - Walter A. Elwell and Robert W. Yarbrough#^e9b91b]]
 - ![[Handbook on Acts and Paul's Letters - Thomas R. Schreiner#^a4390b]]
 - ![[Interpreting the Pauline Epistles - Thomas R. Schreiner#^26a292]]
-- Schreiner, Thomas R. New Testament Theology: Magnifying God in Christ. Baker Academic, 2008.
-- Wright, N.T. and Michael F. Bird. The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians. Zondervan Academic, 2019. 
+- ![[New Testament Theology; Magnifying God in Christ - Thomas R. Schreiner#^b1fc9e]]
+- ![[The New Testament in Its World; An introduction to the history, literature, and theology of the first Christians - N. T. Wright and Michael F. Bird#^a7fee8]]
 ## Exegetical Method
 - ![[A Handbook of New Testament Exegesis - Craig L. Blomberg, and Jennifer Foutz Markley#^c632f3]]
 - ![[A Beginner’s Guide to New Testament Exegesis. Taking the Fear out of the Critical Method - Richard J. Erickson#^98951e]]
 - ![[For the Love of God's Word; An introduction to biblical interpretation - Andreas J. Köstenberger and Richard D. Patterson#^b6a0b6]]
-## Textual Criticism
-- Bruce, F. F. The New Testament Documents Are They Reliable? Grand Rapids: Eerdmans, 2003.
-- Barr, James. The Semantics of Biblical Language. Wipf and Stock, 2004.
-- Comfort, Philip Wesley. Encountering the Manuscripts. Nashville: B&H, 2005.
-- Comfort, Philip W. and David P. Barrett. The Text of the Earliest New Testament Greek Manuscripts. Nashville: B&H, 2001.
-- Epp, Eldon Jay, and Gordon D Fee. Studies in the Theory and Method of New Testament Textual Criticism. Studies and Documents, vol. 45. Grand Rapids: Eerdmans, 1993.
-- Greenlee, J. Harold. An Introduction to New Testament Textual Criticism. 2nd ed. Peabody, MA: Hendrickson, 1995. 
-- Metzger, B. M. The Text of the New Testament: Its Transmission, Corruption and Restoration. 4th ed. Oxford: Oxford University Press, 2005.
-- Metzger, Bruce M. A Textual Commentary on the New Testament. 2nd ed. London: UBS, 1994.
-- Wegner, Paul D. Journey from Texts to Translations: The Origin and Development of the Bible. Baker Academic, 2004. 
-- Wegner, Paul D. A Student's Guide to Textual Criticism of the Bible: Its History, Methods and Results. IVP Academic, 2006. 
 ## Theological Dictionaries 
 - ![[Exegetical Dictionary of the New Testament - Horst Balz and Gerhard Schneider, eds.#^73f721]]
 - ![[New International Dictionary of New Testament Theology - Colin Brown, ed.#^c7df42]]
