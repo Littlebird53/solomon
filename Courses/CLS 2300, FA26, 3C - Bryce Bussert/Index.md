@@ -6,7 +6,16 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - - Welcome Activity
+      - Meet the Instructor Presentation
+    - Text Criticism
+    - - TC HW
+    - Historical Background
+  ignoredFiles:
+    - Introduction
     - Text Criticism
     - Historical Background
-  ignoredFiles: []
+    - Introduction
+    - Text Criticism
+    - Historical Background
 ---
