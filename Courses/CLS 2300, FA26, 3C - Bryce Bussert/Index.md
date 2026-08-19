@@ -5,17 +5,16 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Class 1
-    - - Introduction
+    - Class 1 (Meeting)
+    - - Introduction (Topic)
       - - Welcome Activity
         - Meet the Instructor Presentation
         - CLS2300, Syllabus
-    - Class 2
-    - - Bible Reading - The Church in Jerusalem
-      - - TC Lecture Notes
-        - TC HW
-    - Class 3
-    - Historical Background (HB)
+    - Class 2 (Meeting)
+    - - The Church in Jerusalem
+      - Bible Reading - The Church in Jerusalem
+      - - TC HW
+    - Class 3 (Meeting)
     - - HB Lecture Notes
       - HB HW
       - HB Quiz
@@ -26,18 +25,18 @@ longform:
       - Matthew Bibliography
       - Mid-term Study Guide
       - Mid-term
-    - Class 4
-    - Class 5
-    - Class 6
-    - Class 7
-    - Class 8
-    - Class 9
-    - Class 10
-    - Class 11
-    - Class 12
-    - Class 13
-    - Class 14
-    - Class 15
+    - Class 4 (Meeting)
+    - Class 5 (Meeting)
+    - Class 6 (Meeting)
+    - Class 7 (Meeting)
+    - Class 8 (Meeting)
+    - Class 9 (Meeting)
+    - Class 10 (Meeting)
+    - Class 11 (Meeting)
+    - Class 12 (Meeting)
+    - Class 13 (Meeting)
+    - Class 14 (Meeting)
+    - Class 15 (Meeting)
   ignoredFiles:
     - Introduction
     - Text Criticism
