@@ -42,6 +42,7 @@ longform:
     - Class 13 (Meeting)
     - Class 14 (Meeting)
     - Class 15 (Meeting)
+    - Summary Doc
   ignoredFiles:
     - Introduction
     - Text Criticism

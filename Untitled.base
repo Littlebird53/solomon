@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Courses/CLS 2300, FA26, 3C - Bryce Bussert")
