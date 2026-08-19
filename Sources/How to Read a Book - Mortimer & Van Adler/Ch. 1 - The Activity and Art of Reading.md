@@ -15,4 +15,4 @@ This introductory chapter describes the task of reading, which is the central to
 # Access
 Full pdf access to this chapter is available for ADVANCE Students/Instructors.
 
-![[1. The Activity and Art of Reading.pdf|1. The Activity and Art of Reading.pdf]]
+![[ow to Read a Book - Adler and Van Doren, ch. 1.pdf|1. The Activity and Art of Reading.pdf]]

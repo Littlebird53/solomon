@@ -15,5 +15,5 @@ This chapter describes 4 different levels of reading which the subsequent chapte
 # Access
 Full pdf access to this chapter is available for ADVANCE Students & Instructors.
 
-![[2. The Levels of Reading.pdf]]
+![[ow to Read a Book - Adler and Van Doren, ch. 2.pdf]]
 
