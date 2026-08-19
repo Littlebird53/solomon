@@ -44,6 +44,10 @@ longform:
     - - The Centrality of the Cross (Topic)
       - Divisions in the Body (Topic)
     - Class 10 (Meeting)
+    - - Church Discipline (Topic)
+      - Lawsuits
+      - Sexual Immorality
+      - Singleness, Marriage, and Divorce
     - Class 11 (Meeting)
     - Class 12 (Meeting)
     - Class 13 (Meeting)
