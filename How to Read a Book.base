@@ -1,9 +1,10 @@
 views:
   - type: bases-spotlight-view
-    name: Table
+    name: PDF Viewer
     filters:
       and:
         - file.inFolder("Sources/How to Read a Book - Mortimer & Van Adler")
     order:
       - file.name
       - file.tags
+    hyperlink_property: note.pages
