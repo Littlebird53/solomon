@@ -10,6 +10,7 @@ longform:
       - - Welcome Activity
         - Meet the Instructor Presentation
         - CLS2300, Syllabus
+      - Exegetical and Hermeneutical Methods (Topic)
     - Class 2 (Meeting)
     - - Intro to Matthew's Gospel (Topic)
       - - Why This Gospel (Opener)
@@ -17,7 +18,8 @@ longform:
         - Matthew (Bibliography)
         - Matthew in 3 Parts (Outline)
     - Class 3 (Meeting)
-    - - The Church in Jerusalem (Topic)
+    - - The Book of Acts, Intro & Overview (Topic)
+      - The Church in Jerusalem (Topic)
       - - The Church in Jerusalem (Slideshow)
         - The Church in Jerusalem (Lecture Notes)
         - The Church in Jerusalem (Bible)
@@ -48,7 +50,6 @@ longform:
     - Class 14 (Meeting)
     - Class 15 (Meeting)
     - Summary Doc
-    - Exegetical and Hermeneutical Methods (Topic)
   ignoredFiles:
     - Introduction
     - Text Criticism
