@@ -4,6 +4,9 @@ longform:
   title: CLS 2300, FA26, 3C - Bryce Bussert
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Introduction
+    - Text Criticism
+    - Historical Background
   ignoredFiles: []
 ---
