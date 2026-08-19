@@ -64,7 +64,7 @@ Upon the successful completion of this course the student should be able to:
 
 ![[Bibliography, Exegetical Method#Exegetical Method#]]
 
- ![[Bibliography, Theological Dictionaries#Theological Dictionaries#]]
+ ![[Bibliography, General NT#Theological Dictionaries#]]
  
 
 
