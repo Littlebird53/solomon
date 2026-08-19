@@ -17,7 +17,9 @@ longform:
         - Matthew (Bibliography)
         - Matthew in 3 Parts (Outline)
       - The Church in Jerusalem (Topic)
-      - - Bible Reading - The Church in Jerusalem
+      - - The Church in Jerusalem (Bible Reading)
+        - Stott, Ch 1-6 (Reading)
+        - Polhill, Ch 1-6 (Reading)
         - TC HW
     - Class 3 (Meeting)
     - Class 4 (Meeting)
@@ -34,6 +36,7 @@ longform:
     - Class 13 (Meeting)
     - Class 14 (Meeting)
     - Class 15 (Meeting)
+    - The Church in Jerusalem (Slideshow)
   ignoredFiles:
     - Introduction
     - Text Criticism
