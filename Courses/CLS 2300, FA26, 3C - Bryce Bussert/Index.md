@@ -16,9 +16,13 @@ longform:
     - - HB Lecture Notes
       - HB HW
       - HB Quiz
-    - Mid-term Study Guide
-    - Mid-term
-    - Intro to Matthew
+    - Intro to Matthew's Gospel
+    - - One Big Question - Matthew's Gospel
+      - Matthew Lecture Slides
+      - Matthew Outline
+      - Matthew Bibliography
+      - Mid-term Study Guide
+      - Mid-term
   ignoredFiles:
     - Introduction
     - Text Criticism
