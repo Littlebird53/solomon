@@ -1,9 +1,9 @@
 ## NT Studies
 - ![[An Introduction to the New Testament - D. A. Carson and Douglas J. Moo#^a1d87d]]
 - ![[Commentary on the New Testament Use of the Old Testament - D. A. Carson and G. K. Beale#^3c49ca]]
-- ![[An Introduction to the New Testament; Context, Methods & Ministry Formation - David A. DeSilva^]]
-- Dunn, James D.G. The Theology of Paul the Apostle. Eerdmans, 2006.
-- Guthrie, Donald. New Testament Introduction. 4th ed. IVP Academic, 2015. 
+- ![[An Introduction to the New Testament; Context, Methods & Ministry Formation - David A. DeSilva#^58b671]]
+- ![[The Theology of Paul the Apostle - James D. G. Dunn#^ef4ee6]]
+- ![[New Testament Introduction - Donald Guthrie#^d12781]]
 - Elwell, Walter A. and Robert W. Yarbrough. Encountering the New Testament: A Historical and Theological Survey. 3rd ed. Encountering Biblical Studies. Baker Academic, 2013. 
 - Schreiner, Thomas R. Handbook on Acts and Paul’s Letters. Handbooks on the New Testament. Baker Academic, 2019. 
 - Schreiner, Thomas R. Interpreting the Pauline Epistles. 2nd ed. Baker Academic, 2011. 
