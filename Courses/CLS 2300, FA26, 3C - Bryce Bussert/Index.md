@@ -16,15 +16,19 @@ longform:
         - Matthew Lecture (Slideshow)
         - Matthew (Bibliography)
         - Matthew in 3 Parts (Outline)
-      - The Church in Jerusalem (Topic)
+    - Class 3 (Meeting)
+    - - The Church in Jerusalem (Topic)
       - - The Church in Jerusalem (Slideshow)
         - The Church in Jerusalem (Lecture Notes)
-        - The Church in Jerusalem (Bible Reading)
+        - The Church in Jerusalem (Bible)
         - Stott, Ch 1-6 (Reading)
         - Polhill, Ch 1-6 (Reading)
         - TC HW
-    - Class 3 (Meeting)
     - Class 4 (Meeting)
+    - - Foundations for World Mission (Topic)
+      - - Foundations for World Mission (Bible)
+        - Stott, Ch. 7-12 (Reading)
+        - Polhill, Ch. 7-12 (Reading)
     - Class 5 (Meeting)
     - Class 6 (Meeting)
     - Class 7 (Meeting)
@@ -38,8 +42,6 @@ longform:
     - Class 13 (Meeting)
     - Class 14 (Meeting)
     - Class 15 (Meeting)
-    - Stott, Ch. 7-12 (Reading)
-    - Polhill, Ch. 7-12 (Reading)
   ignoredFiles:
     - Introduction
     - Text Criticism
