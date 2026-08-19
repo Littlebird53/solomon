@@ -8,12 +8,17 @@ longform:
     - Introduction
     - - Welcome Activity
       - Meet the Instructor Presentation
-      - CLS 2300 - Exegesis in the New Testament 1
+      - CLS2300, Syllabus
     - Text Criticism (TC)
     - - TC Lecture Notes
       - TC HW
     - Historical Background (HB)
     - - HB Lecture Notes
+      - HB HW
+      - HB Quiz
+    - Mid-term Study Guide
+    - Mid-term
+    - Intro to Matthew
   ignoredFiles:
     - Introduction
     - Text Criticism
