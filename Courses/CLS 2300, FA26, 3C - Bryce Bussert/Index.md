@@ -56,12 +56,18 @@ longform:
     - Class 11 (Meeting)
     - Class 12 (Meeting)
     - Class 13 (Meeting)
+    - - The Resurrection (Topic)
+      - The Collection (Topic)
+      - Travel Plans (Topic)
     - Class 14 (Meeting)
+    - - The Third Missionary Journey (Topic)
+      - - Acts Ch. 18-24 (Bible)
+      - The Voyage to Rome (Topic)
+      - - Acts, Ch. 25-28 (Bible)
     - Class 15 (Meeting)
     - - 1 Corinthians Paper Due (Deadline)
     - Summary Doc
-    - The Resurrection (Topic)
-    - The Collection (Topic)
+    - Stott, Ch. 10-11 (Reading)
   ignoredFiles:
     - Introduction
     - Text Criticism
