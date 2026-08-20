@@ -3,7 +3,7 @@ views:
     name: PDF Viewer
     filters:
       and:
-        - file.inFolder("Sources/How to Read a Book - Mortimer & Van Adler")
+        - file.inFolder("Sidecar Notes/How to Read a Book - Mortimer & Van Adler")
     order:
       - file.name
       - file.tags
