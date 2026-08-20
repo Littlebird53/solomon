@@ -6,5 +6,15 @@ subtype:
 publish: "true"
 level:
   - easy
-open:
+open: true
 ---
+# Description
+
+## Requirements
+
+# Purpose
+
+# Adaptations
+
+
+# Examples
