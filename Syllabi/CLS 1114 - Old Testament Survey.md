@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 # Course Description
 
 # Course Objectives

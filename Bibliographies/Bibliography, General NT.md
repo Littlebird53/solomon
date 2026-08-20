@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 ## NT Studies
 - ![[📕 An Introduction to the New Testament - D. A. Carson and Douglas J. Moo#^a1d87d]]
 - ![[📕 Commentary on the New Testament Use of the Old Testament - D. A. Carson and G. K. Beale#^3c49ca]]

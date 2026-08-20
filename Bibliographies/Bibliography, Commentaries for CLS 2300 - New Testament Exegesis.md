@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 ## Commentaries 
 - ![[📕 Acts (BECNT) - Darrell Bock#^73cb61]]
 - ![[📕 A Theology of Luke and Acts; God’s Promised Program, Realized for All Nations - Darrell L. Bock#^67bc3e]]
