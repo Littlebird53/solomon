@@ -9,4 +9,5 @@
 
 - set up alternate CSS class for |no-toolbar option for embedded Bases
 - should schedule/meetings or topic be the largest level of organization for a course? -- schedule seems natural, but when topics are too large for a single meeting, this gets clunky. Does this dividing pressure help us break down topics into smaller groups?
-- should create a star ranking system for difficult rather than jus
+- should create a star ranking system for difficult rather than just words
+- 
