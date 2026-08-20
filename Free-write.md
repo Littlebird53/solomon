@@ -10,9 +10,9 @@ open: true
 ---
 # Description (What)
 
-## Requirements
+## Requirements (With)
 
-# Purpose (When to use)
+# Purpose (Who & When)
 
 # Adaptations
 
