@@ -8,11 +8,11 @@ level:
   - easy
 open: true
 ---
-# Description
+# Description (What)
 
 ## Requirements
 
-# Purpose
+# Purpose (When to use)
 
 # Adaptations
 

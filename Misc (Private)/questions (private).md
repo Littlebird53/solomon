@@ -10,4 +10,4 @@
 - set up alternate CSS class for |no-toolbar option for embedded Bases
 - should schedule/meetings or topic be the largest level of organization for a course? -- schedule seems natural, but when topics are too large for a single meeting, this gets clunky. Does this dividing pressure help us break down topics into smaller groups?
 - should create a star ranking system for difficult rather than just words
-- 
+- there is not enough variation between header levels to distinguish between many levels of similar division. We could reduce the number and make larger jumps between sizes, or make use of more formatting options to distinguish them. E.g. could I make all 3rd level headings Cornell margin notes?
