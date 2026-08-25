@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 
 # General Description in Plain Language
 I need something that will accomplish several different external functions all possible with a very similar database structure. The use cases are: (1) a curated collection of educational resources suitable for general student and instructor research, (2) a guided syllabus designer which coaches the user to construct a syllabus by selecting resources from a variety of categories according to a predetermined process and a set of appropriately tagged learning objects, and (3) a system for managing program documentation (operations manual, software documentation) and educational resources that supports multiple versions of the same core documents which differ based on intended context and language.
