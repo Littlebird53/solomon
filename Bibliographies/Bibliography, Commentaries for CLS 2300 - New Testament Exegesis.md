@@ -1,5 +1,9 @@
 ---
 publish: "true"
+type:
+  - "[[resource]]"
+subtype:
+  - "[[bibliography]]"
 ---
 ## Commentaries 
 - ![[📕 Acts (BECNT) - Darrell Bock#^73cb61]]

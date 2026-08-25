@@ -1,5 +1,6 @@
 ---
 type:
+  - "[[learning activity]]"
 subtype:
   - intro
 publish: "true"

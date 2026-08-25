@@ -1,5 +1,9 @@
 ---
 publish: "true"
+type:
+  - "[[resource]]"
+subtype:
+  - "[[bibliography]]"
 ---
 ## NT Studies
 - ![[📕 An Introduction to the New Testament - D. A. Carson and Douglas J. Moo#^a1d87d]]
