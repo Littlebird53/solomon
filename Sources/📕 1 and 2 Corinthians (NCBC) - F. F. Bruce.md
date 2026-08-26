@@ -1,6 +1,8 @@
 ---
 publish: "true"
-topic: "[[1 Corinthians]] [[2 Corinthians]]"
+topic:
+  - "[[1 Corinthians]]"
+  - "[[2 Corinthians]]"
 type:
   - source
 ---
