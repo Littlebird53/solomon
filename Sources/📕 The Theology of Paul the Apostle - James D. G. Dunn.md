@@ -1,5 +1,12 @@
 ---
 publish: "true"
+topic:
+  - "[[Biblical Theology]]"
+  - "[[Pauline Epistles]]"
+type:
+  - source
+subtype:
+  - book
 ---
 Dunn, James D.G. *The Theology of Paul the Apostle*. Eerdmans, 2006. ^ef4ee6
 # Description

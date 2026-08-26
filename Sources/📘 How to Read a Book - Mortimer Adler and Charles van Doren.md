@@ -1,5 +1,11 @@
 ---
 publish: "true"
+topic:
+  - "[[Hermeneutics]]"
+type:
+  - source
+subtype:
+  - book
 ---
 Adler, Mortimer, and Charles van Doren. *How to Read a Book.* .
 # Description
