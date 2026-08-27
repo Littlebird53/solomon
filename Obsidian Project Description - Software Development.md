@@ -195,5 +195,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Speech Kit: allows natural, speech-to-text
 - Handwriting:
 - Story Line: could be rigged for super creative maps, graphs, views between learning activities, objectives, resources, etc. -- FOR SYLLABUS BUILDER
-- Single File Section Cards: allows viewing each header of a document in a spatial, card, view with edit and rearrange power. Can make kanban boards within a single note, rather than as separate things. -- This could come in handy for other projects where we don't have to create separate notes, but I expect separat
+- Single File Section Cards: allows viewing each header of a document in a spatial, card, view with edit and rearrange power. Can make kanban boards within a single note, rather than as separate things. -- This could come in handy for other projects where we don't have to create separate notes, but I expect separate files is good most of the time.
+- Lazy Loader: delays plugin loading to make the main program load quicker
+- Mermaid Tools / Kroki / 
 
