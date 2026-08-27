@@ -192,4 +192,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Templater
 - Tag Wrangler
 - Possible to upload ADVANCE logo in every vault, see [here](https://tfthacker.com/experiment-vault-logo).
+- Speech Kit: allows natural, speech-to-text
+- Handwriting:
+- Story Line: could be rigged for super creative maps between
 
