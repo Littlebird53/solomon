@@ -198,5 +198,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Single File Section Cards: allows viewing each header of a document in a spatial, card, view with edit and rearrange power. Can make kanban boards within a single note, rather than as separate things. -- This could come in handy for other projects where we don't have to create separate notes, but I expect separate files is good most of the time.
 - Lazy Loader: delays plugin loading to make the main program load quicker
 - Mermaid Tools / Kroki / : markdown diagram tools, not sure which is best. Don't seem to offer easy editing (w/o accessing source code) which would be great for centers. Static (pdf, svg, etc.) and component export would be great.
+- Slideshow: 
+- Flash Cards: 
 - Excalibrain: mindmap tool using links from notes, replaces Breadcrumbs
 
