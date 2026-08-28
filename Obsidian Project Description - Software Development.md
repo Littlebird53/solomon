@@ -202,5 +202,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Flash Cards: 
 - Excalibrain: mindmap tool using links from notes, replaces Breadcrumbs
 - Callout Tracker: collect matching type callouts in a single list while preserving their location throughout the note, e.g. for discussion questions, research topics, definitions, big ideas, etc. // Super helpful!
-- Mix Folders and Files: allow sorting equally by modifie
+- Mix Folders and Files: allow sorting equally by name.
+- : document conversion tools
+- Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, 
 
