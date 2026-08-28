@@ -178,6 +178,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [Bible Search](https://community.obsidian.md/plugins/bible-search): public domain Bible text readable, cross-references, Bible maps, church history family tree, some Greek/Hebrew support (details unknown), 
 - [The Scripture Injecter](https://community.obsidian.md/plugins/the-scripture-injector): Inserts Bible text as callout, supports ESV if you request your own API key (5000 requests/day)
 - [RTL Support](https://community.obsidian.md/plugins/obsidian-rtl): sets individual documents to LTR/RTL.
+- [Wordbook Layout](https://community.obsidian.md/plugins/wordbook-layout): not entirely sure but for vocab lists
 #### In Use 
 (just don't interfere with these, might be able to incorporate)
 - Breadcrumbs:
