@@ -217,4 +217,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Hover Editor: allows preview-editing
 - Dragger: allow drag/drop paragraphs, blocks, etc.
 - Tracker: creates visual graphs/charts from queries across your vault -- great for visualizing occurences of learning objectives, type of activities, course/reading distributions, etc.
+- Metaedit: allow bulk editing properties, selection from list, hide certain properties, 
+- Update modified date: self-explanatory
+- Vault Changelog: self-explanatory
 
