@@ -222,5 +222,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Vault Changelog: self-explanatory
 - Time Things: records time spent editing each doc
 - Pomodoro Timer:
-- 
+- Full Calendar Remastered: syncs with Google Calendar and CalDAV, also pulls from journals and daily notes, ICS files, and more. 
+- Yearly Glance: annual calendar view for events only. -- Could be helpful for office planning.
 
