@@ -228,4 +228,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Goto Position: creates a short-cut for top or bottom of page. -- Useful for docs with navigation/structure at the top, or when jumping to backlinks maybe?
 - Authorship Tracker: 
 - Wizard: inserts text/choices directly into the note, which is directly editable after the wizard is completed. -- SYLLABUS BUILDER!
+- Knowledge Regression: allows specifying tests for the vault that must pass or an error is thrown. Can identify broken links, orphans, etc.
+- Fold Properties by Default: 
+- Markdown Chat Blocks: for creating artificial conversations, make speaker tracking clear, simulate
 
