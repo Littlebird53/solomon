@@ -224,4 +224,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Pomodoro Timer:
 - Full Calendar Remastered: syncs with Google Calendar and CalDAV, also pulls from journals and daily notes, ICS files, and more. 
 - Yearly Glance: annual calendar view for events only. -- Could be helpful for office planning.
+- Goto Position: creates a short-cut for top or bottom of page. -- Useful for docs with navigation/structure at the top, or when jumping to backlinks maybe?
+- 
 
