@@ -240,4 +240,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Virtual Footer: put results of dataview/bases at the bottom or other window of notes
 - Vault Badge:
 - Variable Links: allows linking to an unspecified object which is defined only once, e.g. like LaTex's /ref{John2020}
+- Imagine / Gallery Hub / Image Layouts / : 
 
