@@ -227,4 +227,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Yearly Glance: annual calendar view for events only. -- Could be helpful for office planning.
 - Goto Position: creates a short-cut for top or bottom of page. -- Useful for docs with navigation/structure at the top, or when jumping to backlinks maybe?
 - Authorship Tracker: 
+- Wizard: inserts text/choices directly into the note, which is directly editable after the wizard is completed. -- SYLLABUS BUILDER!
 
