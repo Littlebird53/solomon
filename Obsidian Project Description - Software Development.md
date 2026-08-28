@@ -180,6 +180,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [The Scripture Injecter](https://community.obsidian.md/plugins/the-scripture-injector): Inserts Bible text as callout, supports ESV if you request your own API key (5000 requests/day)
 - [RTL Support](https://community.obsidian.md/plugins/obsidian-rtl): sets individual documents to LTR/RTL.
 - [Wordbook Layout](https://community.obsidian.md/plugins/wordbook-layout): not entirely sure but for vocab lists
+- [Makarios Studio](https://community.obsidian.md/plugins/makarios-studio): smart book mapper, auto-complete verse references, side-by-side Bible versions, 
 #### In Use 
 (just don't interfere with these, might be able to incorporate)
 - Breadcrumbs:
@@ -225,5 +226,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Full Calendar Remastered: syncs with Google Calendar and CalDAV, also pulls from journals and daily notes, ICS files, and more. 
 - Yearly Glance: annual calendar view for events only. -- Could be helpful for office planning.
 - Goto Position: creates a short-cut for top or bottom of page. -- Useful for docs with navigation/structure at the top, or when jumping to backlinks maybe?
-- 
+- Authorship Tracker: 
 
