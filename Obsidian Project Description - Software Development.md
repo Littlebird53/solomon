@@ -216,4 +216,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Creases: allows designated collapses outside of heading levels and auto-collapsing on command
 - Hover Editor: allows preview-editing
 - Dragger: allow drag/drop paragraphs, blocks, etc.
+- Tracker: creates visual graphs/charts from queries across your vault -- great for visualizing occurences of learning objectives, type of activities, course/reading distributions, etc.
 
