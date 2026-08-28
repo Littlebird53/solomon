@@ -236,5 +236,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Colorful Folders:
 - Pandoc Plugin: 
 - Omni Book Reader: optimized epub reader environment, could replace default embedded pdf viewer to remember reading position, table of contents, page/scroll reading, bookmarks, notes attached to highlights
-- Paper PDF Translator: AI-assisted forma
+- Paper PDF Translator: AI-assisted format-aware translation for academic papers
+- Virtual Footer: put results of dataview/bases at the bottom or other window of notes
+- 
 
