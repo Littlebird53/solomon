@@ -204,5 +204,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Callout Tracker: collect matching type callouts in a single list while preserving their location throughout the note, e.g. for discussion questions, research topics, definitions, big ideas, etc. // Super helpful!
 - Mix Folders and Files: allow sorting equally by name.
 - : document conversion tools
-- Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, 
+- Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, tables, slides, etc. easier for centers. Context-aware.
+- Periodic Calendar: could be used for journals for TFE
+- 
 
