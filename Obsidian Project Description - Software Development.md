@@ -235,5 +235,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Ribbon Groups: allows grouping ribbon buttons, adding colors, labels, etc.
 - Colorful Folders:
 - Pandoc Plugin: 
-- 
+- Omni Book Reader: optimized epub reader environment, could replace default embedded pdf viewer to remember reading position, table of contents, page/scroll reading, bookmarks, notes attached to highlights
+- Paper PDF Translator: AI-assisted forma
 
