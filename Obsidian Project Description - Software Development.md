@@ -220,4 +220,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Metaedit: allow bulk editing properties, selection from list, hide certain properties, 
 - Update modified date: self-explanatory
 - Vault Changelog: self-explanatory
+- Time Things: records time spent editing each doc
+- Pomodoro Timer:
+- 
 
