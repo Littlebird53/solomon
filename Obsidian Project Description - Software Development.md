@@ -213,5 +213,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - CosmoGraph 3D: replaces the unbounded canvas of OEM Graph view with a planet shape which limits total surface area. Groups notes by folders (wouldn't work for Zettelkasten). Creates arbitrary but permanent geographic features on the planet to aid spatial memorization -- need to replace this with something else but the idea is huge!
 - Waypoint: automatically create/update a Map-of-Content (MOC) based on folders, adds folders to graph view, but allows treating folders differently by specification. Waypoints all things to appear in folders or as-if in folders they don't actually live in. -- THIS would actually work for Zettelkasten. Also, folders nest unlike tags and properties (type/subtype)
 - JustFTables: allows merging cells in tables
-- Creases: allows designated collapses outside of heading levels and auto-collapsing on co
+- Creases: allows designated collapses outside of heading levels and auto-collapsing on command
+- Hover Editor: allows preview-editing
+- Dragger: allow drag/drop paragraphs, blocks, etc.
 
