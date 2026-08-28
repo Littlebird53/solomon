@@ -210,5 +210,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Tabs: allow displaying note material in tabs for examples, more content without scrolling, hide/reveal options, tab alternation between different queries/bases like a switch or for comparison
 - Find Unlinked Files: for identifying unlinked, broken links, orphans, etc.
 - CosmoGraph 3D: replaces the unbounded canvas of OEM Graph view with a planet shape which limits total surface area. Groups notes by folders (wouldn't work for Zettelkasten). Creates arbitrary but permanent geographic features on the planet to aid spatial memorization -- need to replace this with something else but the idea is huge!
-- 
+- Waypoint: automatically create/update a Map-of-Content (MOC) based on folders, adds folders to graph view, but allows treating folders differently by specification. Waypoints all things to appear in folders or as-if in folders they don't actually live in. -- THIS would actually work for Zettelkasten.
 
