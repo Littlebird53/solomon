@@ -190,7 +190,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Charts View
 - Charted Roots
 - Share Note
-- Maps
+- Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 - Citations
 - Templater
 - Tag Wrangler
