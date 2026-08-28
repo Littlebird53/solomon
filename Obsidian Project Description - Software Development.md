@@ -238,5 +238,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Omni Book Reader: optimized epub reader environment, could replace default embedded pdf viewer to remember reading position, table of contents, page/scroll reading, bookmarks, notes attached to highlights
 - Paper PDF Translator: AI-assisted format-aware translation for academic papers
 - Virtual Footer: put results of dataview/bases at the bottom or other window of notes
-- 
+- Vault Badge:
+- Variable Links: allows linking to an unspecified object which is defined only once, e.g. like LaTex's /ref{John2020}
 
