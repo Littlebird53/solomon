@@ -230,5 +230,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Wizard: inserts text/choices directly into the note, which is directly editable after the wizard is completed. -- SYLLABUS BUILDER!
 - Knowledge Regression: allows specifying tests for the vault that must pass or an error is thrown. Can identify broken links, orphans, etc.
 - Fold Properties by Default: 
-- Markdown Chat Blocks: for creating artificial conversations, make speaker tracking clear, simulate
+- Markdown Chat Blocks: for creating artificial conversations, make speaker tracking clear, simulated dialogues, responses, etc.
+- Living Mindmap: turns headers into editable mindmaps 
+- Ribbon Groups: allows grouping ribbon buttons, adding colors, labels, etc.
+- Colorful Folders:
+- 
 
