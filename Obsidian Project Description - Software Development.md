@@ -243,5 +243,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Imagine / Gallery Hub / Image Layouts / : 
 - Supercharged Links: format links differently based on the metadata of the notes. Could be used to supplement formatting differences of the names with emojis without complicating file names but wouldn't appear in the navigation bar... -- Pretty sure X uses this.
 - Commander: allows modifying commands, setting macros, etc. within the hamburger and other default menus of Obsidian
-- Multi Properties: allows e
+- Multi Properties: allows editing properties across entire folders, etc. Bulk edit.
+- Front Matter Title: allows setting a display name that does not change the underlying file name. Could be useful for auto-named but not disambiguated files, duplicated versions separated by ID#, timestamp, or other computer-oriented metadata
+- 
 
