@@ -253,5 +253,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Influx: add context, and smart default and customizable sorting of backlinks
 - Colored Bases Properties:
 - Badges: sort of combo emoji+label things that look like colored tags I guess. Kinda like an inline callout. -- Add to list of all formatting options to sort out their uses.
+- Wikilink Types: allows editing YAML relationships like those used in Breadcrumbs from the link by following it with @ and choosing from a list of kinds of links/relationships, e.g. supersedes, contradicts, supports, alternative, etc.
 - 
 
