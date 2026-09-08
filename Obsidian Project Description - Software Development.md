@@ -254,5 +254,5 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Colored Bases Properties:
 - Badges: sort of combo emoji+label things that look like colored tags I guess. Kinda like an inline callout. -- Add to list of all formatting options to sort out their uses.
 - Wikilink Types: allows editing YAML relationships like those used in Breadcrumbs from the link by following it with @ and choosing from a list of kinds of links/relationships, e.g. supersedes, contradicts, supports, alternative, etc.
-- 
+- Juggl: extends local graph towards a canvas view, allowing edge types, images, CSS formatting control and other features. Represents graph in text form in a note. Not exactly sure where the line between graph and canvas is here, but perhaps local graph is basically canvas where the contents is the result of a Base. -- This could all
 
