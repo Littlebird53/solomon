@@ -250,5 +250,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Front Matter Title: allows setting a display name that does not change the underlying file name. Could be useful for auto-named but not disambiguated files, duplicated versions separated by ID#, timestamp, or other computer-oriented metadata
 - Neighboring Files: allows easy arrow key and other navigation to move up, down, earlier, later, or other movements within the folder. Could be useful for sequential files in courses, chapters of pdfs, compare/contrast, or grading assignments. Could be wrapped into a button at the bottom of each page that says "Go to next page"
 - Grid Explorer: allows searching and scrolling notes, images, pdfs, and other files in a full grid, or grid-preview list. Could make a library book shelf but would need to compare with card view in Bases. -- I guess it doesn't need to be the results of a query and might display non-notes if I have pdfs without sidecar notes... Book covers, learning activity options, persons/organizations for research topics...
+- Influx: add context, and smart default and customizable sorting of backlinks
 - 
 
