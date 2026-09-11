@@ -189,7 +189,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Omnisearch:
 - Dataview
 - Charts View
-- Charted Roots: allow genealogy-style tree display, 
+- Charted Roots: allow genealogy-style tree display, charted movements on maps, and timeline creation. VERY cool and VERY useful for lots of different activities.
 - Share Note
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 - Citations
