@@ -265,6 +265,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Notebook Navigator: allows pinning files in folders, hide/reveal notes in subfolders, preview other files in folder or by shared tag in an additional side pane, allows keyboard navigation of sidebars, allow drag/drop changing properties as if they are folders, navigation side bar is also BOOLEAN operator search query (ctrl + click to combine searches), set sort order by folder, allows creating "group headers" within a folder to organize & allows expand/collapse which can display sum word-counts,  -- Separate file and folder panes allows easier moving files into folders. Could add linked learning objects to a search option in the first pane, allowing easy toolbar (non-note) navigation between related assignments. You could make the course a series of nested folders for each week, which could be viewed as an unified scroll of files from beginning to end, with a visible status color that tracks progress and (?) auto-open the first incomplete file? 
 
 
+Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
+
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): autoextracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
 - 
