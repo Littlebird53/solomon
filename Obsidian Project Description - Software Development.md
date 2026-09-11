@@ -258,10 +258,10 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Typewrite Mode: combines a bunch of writing focus tools: Hemingway mode, typewriter scroll, active line highlight, minimal toolbar, etc. -- Could be useful for our admin side or instructor authoring, possibly for students who find digital writing difficult.
 - Consistent Attachment & Links / Better Markdown Links / Advanced Rename and Delete Handler / Custom Attachment Location: prevents links to attachments from breaking inside Obsidian and outside it, automatically names and places attachment files in a folder next to the note and moves them as the note is moved. Some features of Consistent Attachment & Links were phased out and replaced with other plugins. ==(This author maintains a bunch of different Obsidian tools [here](https://github.com/mnaoumov/obsidian-resources))==
 - Obsidian Auto Link Title: pulls webpage title using the link and displays instead of link text
-- Obsidian Link Embed: not sure what this does that iframe cannot. Also this approach seems to be limited to the use limits of free APIs. See also: Obsidian Rich Links for a less robust option that still provides some preview info.
+- Obsidian Link Embed: not sure what this does that iframe cannot. Also this approach seems to be limited to the use limits of free APIs. See also: Obsidian Rich Links for a less robust option that still provides some preview info, and Auto Card Link for a VERY similar option.
 - Image Captions: allows formattable captions for images alongside alignment or resizing, plus supports links, auto-naming from file name with regex modifications/exclusions. -- Might be easiest to import captions as file names and do this.
 - Pretty Properties: allows adding banner images, color-coding properties, setting date color based on today's date or relative measure (deadline), supports quick search for properties, hiding properties, progress bar
-- Dynamic Views: allows more flexibility in Bases card view, with variable length/width, text preview, wrap titles, property preview, change how images display/interact with text (thumbnail, background, etc), allow card shu
+- Dynamic Views: allows more flexibility in Bases card view, with variable length/width, text preview, wrap titles, property preview, change how images display/interact with text (thumbnail, background, etc), allow card shuffle randomizer, clickable check-box from Bases view, 
 
 
 #### Non-obsidian
