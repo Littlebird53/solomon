@@ -181,14 +181,15 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [RTL Support](https://community.obsidian.md/plugins/obsidian-rtl): sets individual documents to LTR/RTL.
 - [Wordbook Layout](https://community.obsidian.md/plugins/wordbook-layout): not entirely sure but for vocab lists
 - [Makarios Studio](https://community.obsidian.md/plugins/makarios-studio): smart book mapper, auto-complete verse references, side-by-side Bible versions, 
-#### In Use 
-(just don't interfere with these, might be able to incorporate)
+
+
+
 - Breadcrumbs:
 - Cornell Marginalia:
 - Omnisearch:
 - Dataview
 - Charts View
-- Charted Roots
+- Charted Roots: allow genealogy-style tree display, 
 - Share Note
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 - Citations
@@ -263,6 +264,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Pretty Properties: allows adding banner images, color-coding properties, setting date color based on today's date or relative measure (deadline), supports quick search for properties, hiding properties, progress bar
 - Dynamic Views: allows more flexibility in Bases card view, with variable length/width, text preview, wrap titles, property preview, change how images display/interact with text (thumbnail, background, etc), allow card shuffle randomizer, clickable check-box from Bases view, 
 - Notebook Navigator: allows pinning files in folders, hide/reveal notes in subfolders, preview other files in folder or by shared tag in an additional side pane, allows keyboard navigation of sidebars, allow drag/drop changing properties as if they are folders, navigation side bar is also BOOLEAN operator search query (ctrl + click to combine searches), set sort order by folder, allows creating "group headers" within a folder to organize & allows expand/collapse which can display sum word-counts, folder notes (MOC) can display in sidebar, includes calendar, folder/note icons and colors, copy/paste folder style to tags, extensive customizable views in nav sidebar, allows "vault profiles" which are pseudo-vaults inside a vault,  -- Separate file and folder panes allows easier moving files into folders. Could add linked learning objects to a search option in the first pane, allowing easy toolbar (non-note) navigation between related assignments. You could make the course a series of nested folders for each week, which could be viewed as an unified scroll of files from beginning to end, with a visible status color that tracks progress and (?) auto-open the first incomplete file? Sidebar folder notes could easily auto-display cheat-sheets/guides
+- TTRPG Tools Maps: make an image a zoomable map and add pointers, markers, etc. -- Could create an artificial geography for ministry fields and map topics, schools of thought, etc. on it
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
