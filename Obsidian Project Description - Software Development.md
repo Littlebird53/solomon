@@ -261,7 +261,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Obsidian Link Embed: not sure what this does that iframe cannot. Also this approach seems to be limited to the use limits of free APIs. See also: Obsidian Rich Links for a less robust option that still provides some preview info.
 - Image Captions: allows formattable captions for images alongside alignment or resizing, plus supports links, auto-naming from file name with regex modifications/exclusions. -- Might be easiest to import captions as file names and do this.
 - Pretty Properties: allows adding banner images, color-coding properties, setting date color based on today's date or relative measure (deadline), supports quick search for properties, hiding properties, progress bar
-- 
+- Dynamic Views: allows more flexibility in Bases card view, with variable length/width, text preview, wrap titles, property preview, change how images display/interact with text (thumbnail, background, etc), allow card shu
 
 
 #### Non-obsidian
