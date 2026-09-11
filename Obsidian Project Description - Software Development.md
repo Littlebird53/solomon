@@ -262,7 +262,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Image Captions: allows formattable captions for images alongside alignment or resizing, plus supports links, auto-naming from file name with regex modifications/exclusions. -- Might be easiest to import captions as file names and do this.
 - Pretty Properties: allows adding banner images, color-coding properties, setting date color based on today's date or relative measure (deadline), supports quick search for properties, hiding properties, progress bar
 - Dynamic Views: allows more flexibility in Bases card view, with variable length/width, text preview, wrap titles, property preview, change how images display/interact with text (thumbnail, background, etc), allow card shuffle randomizer, clickable check-box from Bases view, 
-- Notebook Navigator: allows pinning files in folders, hide/reveal notes in subfolders, preview other files in folder or by shared tag in an additional side pane, allows keyboard navigation of sidebars, Separate file and folder panes allows easier moving files into folders.
+- Notebook Navigator: allows pinning files in folders, hide/reveal notes in subfolders, preview other files in folder or by shared tag in an additional side pane, allows keyboard navigation of sidebars, allow drag/drop changing properties as if they are folders,  -- Separate file and folder panes allows easier moving files into folders. Could add linked learning objects to a search option in the first pane, allowing easy toolbar (non-note) navigation between related assignments. 
 
 
 #### Non-obsidian
