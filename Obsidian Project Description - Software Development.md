@@ -259,6 +259,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Consistent Attachment & Links / Better Markdown Links / Advanced Rename and Delete Handler / Custom Attachment Location: prevents links to attachments from breaking inside Obsidian and outside it, automatically names and places attachment files in a folder next to the note and moves them as the note is moved. Some features of Consistent Attachment & Links were phased out and replaced with other plugins. ==(This author maintains a bunch of different Obsidian tools [here](https://github.com/mnaoumov/obsidian-resources))==
 - Obsidian Auto Link Title: pulls webpage title using the link and displays instead of link text
 - Obsidian Link Embed: not sure what this does that iframe cannot. Also this approach seems to be limited to the use limits of free APIs. See also: Obsidian Rich Links for a less robust option that still provides some preview info.
+- Image Captions: allows formattable captions for images alongside alignment or resizing, plus supports links, auto-naming from file name with regex modifications/exclusions. -- Might be easiest to import captions as file names and do this.
 - 
 
 
