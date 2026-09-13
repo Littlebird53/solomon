@@ -287,7 +287,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Scholar: downloads pdf from a link and creates a sidecar note with metadata, integrates with Semantic Scholar via API, pairs with PDF++ for annotations
 - Researcher Library: 
 - RSS Dashboard: could I just use this for notifications? Link the ADVANCE YouTube page or Vimeo? Create a dummy/private blog somewhere that sends posts here?
-- OCR AI / Text Extractor: turns pdf into markdown! AI one uses Marker or MistralAI, promises to handle formulas, images, auto place material in the folder with a shared name, batch processing
+- OCR AI: turns pdf into markdown! uses Marker or MistralAI, promises to handle formulas, images, auto place material in the folder with a shared name, batch processing
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
