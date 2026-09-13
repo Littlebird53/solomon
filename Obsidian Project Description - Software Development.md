@@ -274,7 +274,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Flexplorer: adds pinning, hiding, custom sort, and drag-and-drop movement within folders -- this is a feature from Longform that I want, but in a much simpler approach.
 - Multi Properties: bulk edit properties
 - File Tree Alternative: separates folders/files in different panes like Evernote & Notebook Navigator
-- Bases CMS: combine Dynamic Views & Multi-Properties into a CMS spin on Bases. 
+- Bases CMS: combine Dynamic Views & Multi-Properties into a CMS spin on Bases. see Vault CMS earlier.
+- NosyGraph: 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
