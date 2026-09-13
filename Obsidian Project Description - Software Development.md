@@ -276,7 +276,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - File Tree Alternative: separates folders/files in different panes like Evernote & Notebook Navigator
 - Bases CMS: combine Dynamic Views & Multi-Properties into a CMS spin on Bases. see Vault CMS earlier.
 - NosyGraph: build graphs in canvas from properties, LinkType notes, and Bases. Supports typed edges, expandable links, groups, etc. Still in BETA. -- Could easily provide another way of navigating resources without any additional configuration from existing Bases and can display nuanced additional information through formatting of colors, border types/shapes, etc. This could better display multiple/complex relationships between assignments, learning objectives, course schedules, etc. than a straight list with items appearing in multiple places each.
-- 
+- Linksmith Pro: suggest links to notes and headings as you type and find missing links.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
