@@ -289,7 +289,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - RSS Dashboard: could I just use this for notifications? Link the ADVANCE YouTube page or Vimeo? Create a dummy/private blog somewhere that sends posts here?
 - OCR AI: turns pdf into markdown! uses Marker or MistralAI, promises to handle formulas, images, auto place material in the folder with a shared name, batch processing
 - Yanki: integration with Anki flashcards
-- Tome Connector: integrates with Tome server for TTRPG tracking. Creates notes, campaigns, encounters, records, etc. and prints into 1 big pdf file. -- IDRK what Tome is but this is starting to get close to my "Seminary Skyrim"
+- Tome Connector: integrates with Tome server for TTRPG tracking. Creates notes, campaigns, encounters, records, etc. and prints into 1 big pdf file. -- IDRK what Tome is but this is starting to get close to my "Seminary Skyrim" idea as it tracks class, XP, quests, etc.
+- 
 - 
 
 
