@@ -283,7 +283,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Books and Comics Tracker / Global Book Search / Easy Bookshelf / Book Search + Covers / Book Tracker / Library Shelf / ISBN Bulk Import Bookshelf Builder / Tome / Ebook Library / Shelf / : search ISBN, Google Books, Open Library and download covers, total series/episode reading progress, duplicate detection
 - Lorebase: card-view media library with overlaid badges and hover previews, includes nice statistics page, 
 - Linked Data Vocabularies: add Library of Congress Subject Headings as metadata!
-- SideCard:
+- SideCard: creates a sidebar card view from tabs (notes, pdf, images) for easy movement between multiple notes with some open in tab view and some in card. Inspired by Heptabase. -- 
 - Scholar:
 - Researcher Library: 
 
