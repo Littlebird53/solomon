@@ -290,7 +290,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - OCR AI: turns pdf into markdown! uses Marker or MistralAI, promises to handle formulas, images, auto place material in the folder with a shared name, batch processing
 - Yanki: integration with Anki flashcards
 - Tome Connector: integrates with Tome server for TTRPG tracking. Creates notes, campaigns, encounters, records, etc. and prints into 1 big pdf file. -- IDRK what Tome is but this is starting to get close to my "Seminary Skyrim" idea as it tracks class, XP, quests, etc.
-- Awesome Image / Pixel Perfect Image / Imagine : image management plugins
+- Awesome Image / Pixel Perfect Image / Imagine : image management plugins, view all links/embeds of images, insert images in coverless notes, 
 - Lottie: plays Lottie animations like images, insert .json just like anything else, specify size, renderer, etc. -- How do I even make small animations like this?
 - Property Suggester Enhanced: allow creating rules that limit what values a property can take, better guidance for selecting properties -- something like this is what I want for building a course template from some intro questions, e.g. if "
 - Datacore: query and render Mk notes 2-10 faster using an index an React based JavaScript API
