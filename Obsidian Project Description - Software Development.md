@@ -304,7 +304,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - PDF Scholia Scribe: uses a citation format when annotating pdfs with PDF++ rather than the usual link format. Allows annotating Google Docs or MS Word files. -- auto-Turabian footnotes for citations would be cool
 - Scholia: imports pdf papers, converts to Markdown (only pre-OCRed files), creates a glossary and defines suspected key terms using AI, highlights key sentences using AI
 - Scholar Quest: gamify academic work with XP & levels, milestones, tiered avatars, etc. Prefills level from ORCID iD or wizard completion
-- Etymology Lookup: for demo of interaction with external dictionary
+- Etymology Lookup / Etymology Multilingual: for demo of interaction with external dictionary
 - Library Search: places an automatic search result next to each note when opened based on title, aliases, and select metadata; handles transliterated text, can extract ToC from Pdf to allow searching. Allows grouping search results by category/type, can search note titles, headings, callouts, properties, lists, or entire notes (slowest) -- this is like the "related plugins" result at the bottom of Obsidian plugin pages. Could be useful to aid serendipitous discovery of new resources. Could also quickly create finding aids from pdfs for our entire project.
 
 
