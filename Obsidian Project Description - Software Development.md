@@ -304,6 +304,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - PDF Scholia Scribe: uses a citation format when annotating pdfs with PDF++ rather than the usual link format. Allows annotating Google Docs or MS Word files. -- auto-Turabian footnotes for citations would be cool
 - Scholia: imports pdf papers, converts to Markdown (only pre-OCRed files), creates a glossary and defines suspected key terms using AI, highlights key sentences using AI
 - Scholar Quest: gamify academic work with XP & levels, milestones, tiered avatars, etc. Prefills level from ORCID iD or wizard completion
+- Etymology Lookup: for demo of interaction with external dictionary
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
