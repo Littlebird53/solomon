@@ -295,7 +295,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Property Suggester Enhanced: allow creating rules that limit what values a property can take, better guidance for selecting properties -- something like this is what I want for building a course template from some intro questions, e.g. if "
 - Datacore: query and render Mk notes 2-10 faster using an index an React based JavaScript API
 - Vault in Vault: add password lock to files -- comparable to permissions in Obsidian?
-- 
+- Simple Reminder: create reminders with dates, ranges, recurring, nag mode, etc.
 - 
 
 
