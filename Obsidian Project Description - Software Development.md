@@ -280,7 +280,10 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Better Links: allows modifying links and link display text in a pop-over window like in other editors, rather than having both appear in normal syntax
 - Draw Steel Rule Term Linker: builds a glossary for pre-determined words so they always link to the master doc and provide relevant definitions and other info -- is a basic glossary demonstration. Not sure I need this to be limited to certain words though.
 - Draw Steel Elements: very advanced TTRPG plugin that supports wizard negotiation functions, tracking party members, fight participants, etc.
-- Books and Comics Tracker / Global Book Search: search ISBN, Google Books, Open Library and download covers
+- Books and Comics Tracker / Global Book Search / Easy Bookshelf / Book Search + Covers / Book Tracker / : search ISBN, Google Books, Open Library and download covers
+- Lorebase: 
+- Linked Data Vocabularies: add Library of Congress Subject Headings as metadata!
+- SideCard
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
