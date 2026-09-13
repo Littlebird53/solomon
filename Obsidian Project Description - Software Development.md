@@ -284,8 +284,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Lorebase: card-view media library with overlaid badges and hover previews, includes nice statistics page, 
 - Linked Data Vocabularies: add Library of Congress Subject Headings as metadata!
 - SideCard: creates a sidebar card view from tabs (notes, pdf, images) for easy movement between multiple notes with some open in tab view and some in card. Inspired by Heptabase. -- Possibly could make reference cards visible like the Notebook Navigator's folder note, but not sure when we would need multiple and when default multi-tasking/split windows wouldn't work.
-- Scholar:
+- Scholar: downloads pdf from a link and creates a sidecar note with metadata, integrates with Semantic Scholar via API, pairs with PDF++ for annotations
 - Researcher Library: 
+- RSS Dashboard: could I just use this for notifications? Link the ADVANCE YouTube page or Vimeo? Create a dummy blo
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
