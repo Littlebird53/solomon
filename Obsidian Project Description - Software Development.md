@@ -267,7 +267,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - TTRPG Tools - Maps: make an image a zoomable map and add pointers, markers, etc. -- Could create an artificial geography for ministry fields and map topics, schools of thought, etc. on it to aid navigation. Could also create a map for the parts of a class like a journey, or depart the free movement and just plot markers on a pyramid or other more directional graph like a simple road or branching tree. -- Can I just upload a canvas background image and embed notes themselves? Does canvas auto resize or is it always unbounded in ways that limit this? -- Windrose MD is a much more involved map designer using hex/cell structure, overlays, pre-set images, fog, terrain, multiple levels of design, etc. Probably overkill for us, but good to keep in mind.
 - Image Layouts: allows masonry, multi-column, and other ways of displaying images (within a note?) including links, captions, text overlay, etc. -- 
 - Iconoir Icons: allows inserting and modifying various icons in callouts, headers, tables, text, etc.
-- 
+- Colored Tags
+- Tags Overview
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
