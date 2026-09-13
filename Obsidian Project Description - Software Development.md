@@ -292,6 +292,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Tome Connector: integrates with Tome server for TTRPG tracking. Creates notes, campaigns, encounters, records, etc. and prints into 1 big pdf file. -- IDRK what Tome is but this is starting to get close to my "Seminary Skyrim" idea as it tracks class, XP, quests, etc.
 - Awesome Image / Pixel Perfect Image / Imagine : image management plugins
 - Lottie: plays Lottie animations like images, insert .json just like anything else, specify size, renderer, etc. -- How do I even make small animations like this?
+- Property Suggester Enhanced: 
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
