@@ -298,7 +298,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Simple Reminder: create reminders with dates, ranges, recurring, nag mode, etc.
 - Window Title: allows changing the title of windows in Obsidian but not renaming files, saving windows, etc...? Allows setting 1 format for vault and different windows inside that -- I'm not exactly certain what this does but being able to modify the design of windows based on their properties could be super useful as it would let us make custom windows for different types (courses, sources, learning activities, etc.) that would help users feel which mode they were in better
 - Wikipedia: pulls the first section of Wikipedia for note titles, could be a decent default description
-- 
+- Reference Map: seems to separate other links from citations using distinct syntax, displays only citation references in their own graph and verifies via various API options.
+- Weave Deck: spaced-repetition flash cards, FSRS6 spacing
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
