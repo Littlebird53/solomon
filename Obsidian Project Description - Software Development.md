@@ -268,7 +268,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Image Layouts: allows masonry, multi-column, and other ways of displaying images (within a note?) including links, captions, text overlay, etc. -- 
 - Iconoir Icons: allows inserting and modifying various icons in callouts, headers, tables, text, etc.
 - Colored Tags
-- Tags Overview
+- Tags Overview: creates a new sidebar menu that allows sorting, filtering, searching across tags and properties -- this feature is baked inside Notebook Navigator but would be super helpful for letting people find things without having to write a new query in Bases for everything and without anticipating all of the searches they might want
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
