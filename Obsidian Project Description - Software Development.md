@@ -293,7 +293,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Awesome Image / Pixel Perfect Image / Imagine : image management plugins
 - Lottie: plays Lottie animations like images, insert .json just like anything else, specify size, renderer, etc. -- How do I even make small animations like this?
 - Property Suggester Enhanced: allow creating rules that limit what values a property can take, better guidance for selecting properties -- something like this is what I want for building a course template from some intro questions, e.g. if "
-- 
+- Datacore: query and render Mk notes 2-10 faster using an ind
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
