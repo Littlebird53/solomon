@@ -296,7 +296,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Datacore: query and render Mk notes 2-10 faster using an index an React based JavaScript API
 - Vault in Vault: add password lock to files -- comparable to permissions in Obsidian?
 - Simple Reminder: create reminders with dates, ranges, recurring, nag mode, etc.
-- Window Title: allows changing the title of windows in Obsidian but not renaming files, saving windows, etc...? Allows setting 1 format for vault and different windows inside that -- I'm not exactly certain what this does but being able to modify the design of windows based on their properties co
+- Window Title: allows changing the title of windows in Obsidian but not renaming files, saving windows, etc...? Allows setting 1 format for vault and different windows inside that -- I'm not exactly certain what this does but being able to modify the design of windows based on their properties could be super useful as it would let us make custom windows for different types (courses, sources, learning activities, etc.) that would help users feel which mode they were in better
 - 
 
 
