@@ -306,6 +306,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Scholar Quest: gamify academic work with XP & levels, milestones, tiered avatars, etc. Prefills level from ORCID iD or wizard completion
 - Etymology Lookup / Etymology Multilingual: for demo of interaction with external dictionary
 - Library Search: places an automatic search result next to each note when opened based on title, aliases, and select metadata; handles transliterated text, can extract ToC from Pdf to allow searching. Allows grouping search results by category/type, can search note titles, headings, callouts, properties, lists, or entire notes (slowest) -- this is like the "related plugins" result at the bottom of Obsidian plugin pages. Could be useful to aid serendipitous discovery of new resources. Could also quickly create finding aids from pdfs for our entire project.
+- Advanced Graph View: for vaults with >5k notes, the default graph fails. This 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
