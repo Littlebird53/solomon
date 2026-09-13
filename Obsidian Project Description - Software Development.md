@@ -301,8 +301,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Reference Map: seems to separate other links from citations using distinct syntax, displays only citation references in their own graph and verifies via various API options.
 - Weave: spaced-repetition flash cards, FSRS6 spacing (?), create test questions, analytics, sync with Anki. Blends 3 plugins: Weave Deck, EPUB reader, and incremental reading. Some features only available for 1-time payment of Pro. Test banks.
 - Weave Incremental Reading: allows scheduling and tracking reading -- could be nice for allowing students to build their own reading calendar
-- PDF Scholia Scribe: uses a citation format when annotating pdfs with PDF++ rather than the usual link format -- This is a nice feature! auto-Turabian footnotes
-- 
+- PDF Scholia Scribe: uses a citation format when annotating pdfs with PDF++ rather than the usual link format. Allows annotating Google Docs or MS Word files. -- auto-Turabian footnotes for citations would be cool
+- Scholia: imports pdf papers, converts to Markdown, creates a glossary and defines suspected key terms using AI, highlights key sentences using AI
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
