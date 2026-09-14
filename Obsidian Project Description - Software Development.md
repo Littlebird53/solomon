@@ -313,7 +313,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Cite Wide: assigns unique hexcodes to every footnote so they can be managed vault-wide in a consistent fashion. -- This would allow separating citations from other links by making all citations be a hex code in a footnote, to allow queries of citations separately from other links that also allows management of single citation formats where just the page number can change. Possibly better than Link Types for citation tracking, but would need to cooperate to incorporate the different relationships of citations (support, contradict, develop, etc.)
 - Lookalike: finds related notes by frequency of shared words -- could be useful for suggesting related notes to centers, could also help minimize reduplication for admin
 - Narrative Provenance: tracks authorship, copyright, sources, verification status, etc. Based on a larger system for making sure rights are respected and interpretation does not become evidence or fact. -- Is mostly just metadata which we could create on our own.
-- 
+- Social Network Analysis: performs more detailed analysis on graph view: eigenvector, closeness, PageRank, harmonic, etc.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
