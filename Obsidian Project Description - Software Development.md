@@ -320,7 +320,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Standing Questions: track open questions across your vault, suggest notes with possible answers
 - Patina: scores notes "staleness" using 4 measures and ranks the most important ones for updates -- useful for admin 
 - Markwhen: allows creating timelines -- great for Bible and other history
-- Timeline: create vertical timelines within notes -- useful for smaller stuff probably, less visual
+- Timeline: create vertical timelines within notes -- useful for smaller stuff probably, less visual, more text
+- Radial Timeline: track chronological progression of many different events simultaneously, designed for tracking acts, scenes, plots, subplots, etc. in novels -- curriculum design?
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
