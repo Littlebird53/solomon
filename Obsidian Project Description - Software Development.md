@@ -342,7 +342,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Bookshelf Base: book view with cover images, auto-generated spines for no cover books, etc.
 - Dataview Serializer: converts dataview stuff into markdown so you can use with Obsidian Publish! 
 - Note Village: creates a 2-D village with characters based on tags in your vault and allows them to speak about their expertise using AI, your avatar physically moves between parts of town
-- 
+- Triggers: run Obsidian commands upon opening different files, folders, views, etc. -- auto change side-bar for each note type (assignments), 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
