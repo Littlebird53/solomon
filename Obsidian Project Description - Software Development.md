@@ -336,6 +336,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - DataLoom: create Notion-style databases, format column data types, sort, reorder, import CSV, 
 - Table to CSV Exporter: export .md tables to .csv
 - CSV Editor: 
+- Meld Encrypt: password encryption -- possible auto-satisfy based on user account access
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
