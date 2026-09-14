@@ -334,6 +334,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - SQLite to Markdown: run SQLite in codeblocks using local SQL database, 
 - CSV Table: display csv files as tables in Obsidian
 - DataLoom: create Notion-style databases, format column data types, sort, reorder, import CSV, 
+- Table to CSV Exporter: export .md tables to .csv
+- CSV Editor: 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
