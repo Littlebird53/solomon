@@ -344,7 +344,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Note Village: creates a 2-D village with characters based on tags in your vault and allows them to speak about their expertise using AI, your avatar physically moves between parts of town
 - Triggers: run Obsidian commands upon opening different files, folders, views, etc. -- auto change side-bar for each note type (assignments), 
 - Sidebar Layouts: allows arranging multiple sidebars simultaneously at different orders, dimensions, etc. Allows moving without closing/reopening to preserve entered data
-- 
+- Editor Breadcrumbs: displays the current file and header location within a note inside the editor for easy movement, styled like Windows File Explorer
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
