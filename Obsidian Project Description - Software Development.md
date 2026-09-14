@@ -338,6 +338,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - CSV Editor: 
 - Meld Encrypt: password encryption -- possible auto-satisfy based on user account access
 - Bases Charts / Charts View: bar, scatter, line, multiple-charts from a single base, import from csv, radar, 
+- Life Tracker: chart/data visualization plugin with new data visualization wizard -- could be useful for guided assignment creation. Can also pull goal creation from properties of various notes j
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
