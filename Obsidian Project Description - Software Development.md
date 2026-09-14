@@ -337,7 +337,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Table to CSV Exporter: export .md tables to .csv
 - CSV Editor: 
 - Meld Encrypt: password encryption -- possible auto-satisfy based on user account access
-- 
+- Bases Charts / Charts View: bar, scatter, line, multiple-charts from a single base, import from csv, radar, 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
