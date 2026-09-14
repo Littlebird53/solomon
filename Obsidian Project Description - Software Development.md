@@ -327,6 +327,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Grape Clusters: modifies graph to draw links within a folder bolder and closer -- wouldn't work for Zettelkasten, but could be useful for other stuff
 - Relay: another live collaboration plugin, available for free self-hosting or monthly subscription fee with possible educational discount
 - Vault Arcade: allows playing minesweeper, snake, 2048, and blocks in vault, saves high scores
+- Release Timeline Base View: vertical timeline display in bases, allow click to open notes -- could actually display course elements if arranged correctly
 - 
 
 
