@@ -322,6 +322,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Markwhen: allows creating timelines -- great for Bible and other history
 - Timeline: create vertical timelines within notes -- useful for smaller stuff probably, less visual, more text
 - Radial Timeline: track chronological progression of many different events simultaneously, designed for tracking acts, scenes, plots, subplots, etc. in novels -- curriculum design? Could probably treat other things as visual status or type rather than concurrent event, but the radial probably does work for at least multiple time factors moving together, otherwise a bar graph or something else would work.
+- Visual Feed: collects all images in vault in a single IG-style feed, or masonry Pinterest-style feed -- it seem some people use Obsidian to organize their professional photography images, with local file viewer this could work for IA at Gateway
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
