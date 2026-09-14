@@ -326,6 +326,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Campaignitz: creates interactive timeline for TTRPG - could be super useful for history activities and self-guided courses
 - Grape Clusters: modifies graph to draw links within a folder bolder and closer -- wouldn't work for Zettelkasten, but could be useful for other stuff
 - Relay: another live collaboration plugin, available for free self-hosting or monthly subscription fee with possible educational discount
+- Vault Arcade: allows playing minesweeper, snake, 2048, and blocks in vault, saves high scores
 - 
 
 
