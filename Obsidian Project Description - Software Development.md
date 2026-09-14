@@ -329,7 +329,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Vault Arcade: allows playing minesweeper, snake, 2048, and blocks in vault, saves high scores
 - Release Timeline Base View: vertical timeline display in bases, allow click to open notes -- could actually display course elements if arranged correctly
 - Merlay: adds a visual editor to Mermaid diagrams combining the ease-of-use of Canvas/Excalidraw diagrams, with the stable markdown structure of Mermaid diagrams. Also lighter than canvas packages.
-- 
+- Properties to Graph: allows property-bas
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
