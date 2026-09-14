@@ -319,7 +319,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Pseudonymizer Tool: designed for linguistics researchers, converts various file formats into markdown.
 - Standing Questions: track open questions across your vault, suggest notes with possible answers
 - Patina: scores notes "staleness" using 4 measures and ranks the most important ones for updates -- useful for admin 
-- 
+- Markwhen: allows creating timelines -- great for Bible and other history
+- Timeline: create vertical timelines within notes -- useful for smaller stuff probably, less visual
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
