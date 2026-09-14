@@ -324,6 +324,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Radial Timeline: track chronological progression of many different events simultaneously, designed for tracking acts, scenes, plots, subplots, etc. in novels -- curriculum design? Could probably treat other things as visual status or type rather than concurrent event, but the radial probably does work for at least multiple time factors moving together, otherwise a bar graph or something else would work.
 - Visual Feed: collects all images in vault in a single IG-style feed, or masonry Pinterest-style feed -- it seem some people use Obsidian to organize their professional photography images, with local file viewer this could work for IA at Gateway
 - Campaignitz: creates interactive timeline for TTRPG - could be super useful for history activities and self-guided courses
+- Grape Clusters: modifies graph to draw links within a folder bolder and closer -- wouldn't work for Zettelkasten, but could be useful for other stuff
 - 
 
 
