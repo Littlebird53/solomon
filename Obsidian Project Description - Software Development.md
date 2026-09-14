@@ -311,6 +311,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - European Law Lookup: opens a pop-up search bar with law names and text previews for easy insertion into notes with citation info. -- Not directly relevant, but this functionality is interesting.
 - Sprint Familiar: a small wizard guides setting research sprint goals, then adds a timer, and follows up with a review that covers what you learned, links you added, claims you debunked, etc. Produces daily and weekly summaries of sprint results. Draws on epistemic notes approach which groups them by info status/reliability. -- Not sure if this uses AI but it could work manually by asking people to describe it in their own terms.
 - Cite Wide: assigns unique hexcodes to every footnote so they can be managed vault-wide in a consistent fashion. -- This would allow separating citations from other links by making all citations be a hex code in a footnote, to allow queries of citations separately from other links that also allows management of single citation formats where just the page number can change. Possibly better than Link Types for citation tracking, but would need to cooperate to incorporate the different relationships of citations (support, contradict, develop, etc.)
+- Lookalike: finds related notes by frequency of shared words -- could be useful for suggesting related notes to centers, could also help minimize reduplication for admin
 - 
 
 
