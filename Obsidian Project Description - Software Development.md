@@ -314,7 +314,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Lookalike: finds related notes by frequency of shared words -- could be useful for suggesting related notes to centers, could also help minimize reduplication for admin
 - Narrative Provenance: tracks authorship, copyright, sources, verification status, etc. Based on a larger system for making sure rights are respected and interpretation does not become evidence or fact. -- Is mostly just metadata which we could create on our own.
 - Social Network Analysis: performs more detailed analysis on graph view: eigenvector, closeness, PageRank, harmonic, etc.
-- Discourse Graph: organizes all notes into types and logical relationships and then creates canvases that illustrate these using customizable graphics, e.g. Claim, Question, Source, Evidence; 
+- Discourse Graph: organizes all notes into types and logical relationships and then creates canvases that illustrate these using customizable graphics, e.g. Claim, Question, Source, Evidence; supports, develops, derivative of, opposes, etc.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
