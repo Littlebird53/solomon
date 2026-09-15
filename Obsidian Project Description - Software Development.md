@@ -410,6 +410,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - TTRPG Tools - Soundboard: 
 - Storyteller Suite: manage characters, locations, events, galleries, map, timeline, graph view, etc.
 - Nested Ordered Numbering: gives 1.1. not just 1. on indented line
+- Explorer Categories: allows formatting folders and notes together in similar ways -- can use for metadata-defined formatting without constraining folder location
 - 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
