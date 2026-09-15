@@ -351,7 +351,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Cursor Smith: adds various zany effects to the cursor
 - Custom Font Loader: easily add different fonts
 -  Class Timetable: auto create notes for each class meeting based on property value of class schedule and list each note on the calendar which displays in the sidebar. Opens the folders for a class when you click on it: assignments, class notes, readings, etc. Calendar also allows non-note schedules (like non-note insertions in canvas). 
-- Inline Conversions: changes units to your preferred values, reveals original or alternate on hover -- Great for international contexts, 
+- Inline Conversions: changes units to your preferred values, reveals original or alternate on hover -- Great for international contexts, but also could be cool for ancient units!
+- Library Shelf: create a vis
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
