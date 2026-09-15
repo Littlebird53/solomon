@@ -401,6 +401,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - WordFolio: hover English words for definitions + pronunciation, add to vocab note with spaced repetition -- GREEK/HEBREW
 - Ledge: customizable navigation dock (palette menu) that sits on top of every window; create up to 8 depending on the location, shortcuts, commands, auto-hide
 - Note Hub: download/import folders of files into your vault from a shared community site
+- Mobile-Translate: Google Translation, no API required
 - 
 
 
