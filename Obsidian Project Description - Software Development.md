@@ -386,7 +386,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Custom Folder Links: wikilink to folders without creating folder notes, expands folder in nav sidebar and highlights it
 - Story Map: product development and release timeline, project management; create categories of tasks broken down, assigned, described, ordered, etc.
 - Dragon Glass: creates campaign and game indices for TTRPG, recognizes other user-created aspects according to various criteria and tracks them as well -- an enrollment index and class index styled like this could work great. All your classes display with some info, then every class meeting/unit with the class index, which could expand to include the activities of each week, drawn from any file placed in that folder
-- 
+- Conflict Resolver: for sync conflicts
+- Awesome Format Bar: like MS Word, 
+- Rowbase: nt
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
