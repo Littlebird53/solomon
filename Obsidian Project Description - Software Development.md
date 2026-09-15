@@ -399,7 +399,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Chapter Diff: compare current note version with previous Git commit side-by-side with highlighting -- needed for translation workflow!
 - Wireframy: wire-frame (draft UI design elements) using template shapes, figures, designs, etc. and supports comments
 - WordFolio: hover English words for definitions + pronunciation, add to vocab note with spaced repetition -- GREEK/HEBREW
-- 
+- Ledge: customizable navigation dock ()
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
