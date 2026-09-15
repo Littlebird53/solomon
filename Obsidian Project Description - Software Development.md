@@ -347,6 +347,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Editor Breadcrumbs: displays the current file and header location within a note inside the editor for easy movement, styled like Windows File Explorer
 - In-place Diff View: displays suggestions, corrections, edits, etc. as color-coded inside the note itself, with a pop-up to accept/reject changes. -- Useful for translation side, but want to display the master language parallel version too.
 - Style Tweaker: no CSS style updates, live preview, 
+- Contextual Typography: allows setting different style settings based on note properties so each font and visual feel fits the content of the note -- this might be a useful way to reinforce the different kinds of interactions available within The Solomon Project...
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
