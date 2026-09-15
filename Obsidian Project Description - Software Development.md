@@ -365,7 +365,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - External Rename Handler: updates links to external files when renamed outside of Obsidian as long as Obsidian is running during the rename 
 - File Bundles: prevent moving related files (embedded images, note, form/submissions, etc.) separately
 - Insert Multiple Attachments: allow batch selection of images to be inserted
-- Link Picker: find notes to link by navigating folders rather than just fuzzy name searches, can create a command for linking into a common folder (e.g. source, learning objective) -- this could be really nice to make "Link Learning Objective" with guidance sepa
+- Link Picker: find notes to link by navigating folders rather than just fuzzy name searches, can create a command for linking into a common folder (e.g. source, learning objective) -- this could be really nice to make "Link Learning Objective" with guidance separate from "Link to Reading Material"
 - 
 
 
