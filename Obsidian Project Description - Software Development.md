@@ -404,7 +404,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Mobile-Translate: Google Translation, no API required
 - Facet Folders: allows treating properties and tags like folders in a sidebar nav menu just like 1 part of Notebook Navigator
 - File Name History: add previous file names to properties
-- Foldable Frontmatter Groups: allows folding grouped properties 
+- Foldable Frontmatter Groups: allows folding grouped properties to manage massive proliferation of properties with various plugins -- alternative to nested properties that doesn't require a surface-level property
+- Markdown Trip Planner: in a trip code block add a start, stops, and a destination that each contain location, date, and descriptions -- This could easily be the course structure with work hour calculation
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
