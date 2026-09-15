@@ -372,7 +372,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Obsidian Dev Utils: 
 - Base Path Updater: allow moving files from folder edits in Bases
 - Dependent Properties: update/sync properties from a master doc to all children. E.g. Event links to location and places its location value as a separate property within the event note. -- might need to combine with link/relationship types to limit this, but could be really great so derivatives, responses, or examples all have the same topic, learning objectives, etc. Useful when the property of a linked note contains information that needs to be displayed in another note.
-- Notelets: allow embedding HTML, CSS, and JavaScript directly in Markdown -- this could embed Loder's learning activities! Need to figure out how to make things editable, saved, logged, shareable, etc.
+- Notelets (also, JS Engine): allow embedding HTML, CSS, and JavaScript directly in Markdown -- this could embed Loder's learning activities! Need to figure out how to make things editable, saved, logged, shareable, etc.
 - Tab Candy: custom new tab landing page with recent files, bookmarks, clock, background, custom quotes, etc. -- I think this is part of what I was thinking a Home page would do...
 - Auto Move File: move based on names or properties
 - Media Recorder: 
