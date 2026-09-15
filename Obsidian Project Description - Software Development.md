@@ -349,6 +349,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Style Tweaker: no CSS style updates, live preview, 
 - Contextual Typography: allows setting different style settings based on note properties so each font and visual feel fits the content of the note -- this might be a useful way to reinforce the different kinds of interactions available within The Solomon Project...
 - Cursor Smith: adds various zany effects to the cursor
+- Custom Font Loader: easily add different fonts
+-  
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
