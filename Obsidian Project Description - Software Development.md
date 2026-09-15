@@ -397,6 +397,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - File Folder Status Icons: use traffic-light style emojis for folders based on properties -- not great for users, but could make publish status visible for admin // Probably, some minor alternation between prefixed logo is better and won't require a modification for the published version.
 - HTML Gallery: browse all HTML files as a grid of live thumbnails, search by title/content, open notes that link to them! -- GREAT for hosting Loder's learning exercises & I think Geniallys can be saved as HTML too!
 - Chapter Diff: compare current note version with previous Git commit side-by-side with highlighting -- needed for translation workflow!
+- Wireframy: wire-frame (draft UI design elements) using template shapes, figures, designs, etc. and supports comments
+- WordFolio: hover English words for definitions + pronunciation, add to vocab note with spaced repetition -- GREEK/HEBREW
 - 
 
 
