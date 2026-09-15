@@ -376,6 +376,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Tab Candy: custom new tab landing page with recent files, bookmarks, clock, background, custom quotes, etc. -- I think this is part of what I was thinking a Home page would do...
 - Auto Move File: move based on names or properties
 - Media Recorder: allow video, audio, and screenshare capture directly in Obsidian for note demonstration and easy storage -- super easy for recording class/assignment instructions, easy for instructors using slides to record videos, 
+- Media Extended: inserts timestamps for note from embedded video player, 
 - Chronobars: time-based progress bars, for traditional course completion
 - Regen: gamified work balance, lose stamina points slowly, gain it by taking breaks and eating snacks
 
