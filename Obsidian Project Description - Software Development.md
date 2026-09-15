@@ -357,6 +357,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Trolls Printing Press: turns .md files into printable pdfs using various pre-sets for books, booklets, pamphlets, reference and index cards, brochures, etc. 
 - Advanced Exclude: truly hide excluded notes from all areas -- needed for attachment files with sidecar notes?
 - Alias Quick Switcher: allows searching aliases in file paths 
+- Backlink Cache: speeds up backlink view, can be helpful for plugins that rely on this
+- Backlink Full Path: for differentiating notes with the same name in different locations from the Backlink viewer
+- Edit Link Alias: windowed option that works in reading view to avoid messing with link syntax, easier for keyboard navi
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
