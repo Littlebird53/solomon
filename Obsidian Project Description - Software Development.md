@@ -366,6 +366,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - File Bundles: prevent moving related files (embedded images, note, form/submissions, etc.) separately
 - Insert Multiple Attachments: allow batch selection of images to be inserted
 - Link Picker: find notes to link by navigating folders rather than just fuzzy name searches, can create a command for linking into a common folder (e.g. source, learning objective) -- this could be really nice to make "Link Learning Objective" with guidance separate from "Link to Reading Material"
+- Nested Properties: allows editing nested properties in properties viewer, not just YAML -- I didn't even know nested properties were a thing! Could be useful for different kinds of data validation within a single purpose for data, could group/simplify properties from getting too crazy...
 - 
 
 
