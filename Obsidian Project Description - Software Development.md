@@ -384,6 +384,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Bases Paginator: limits results on single page, add multiple pages
 - Unique Suite: university toolkit with calendar integration, timetable, etc. (in Spanish)
 - Custom Folder Links: wikilink to folders without creating folder notes, expands folder in nav sidebar and highlights it
+- Story Map: product development and release timeline, project management; create categories of tasks broken down, assigned, described, ordered, etc.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
