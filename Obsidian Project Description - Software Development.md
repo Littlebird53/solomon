@@ -370,6 +370,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Smart Rename: does not change file names backwards but updates link to not disturb in-sentence links, sets original name as the display value and makes it an alias for the new note title
 - Create Obsidian Plugin: wizard tool for modifying existing plugins for custom purposes
 - Obsidian Dev Utils: 
+- Base Path Updater: allow moving files from folder edits in Bases
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
