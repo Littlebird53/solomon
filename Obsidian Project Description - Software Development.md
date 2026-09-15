@@ -383,7 +383,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Feed Bases: displays notes with editable text so you can scroll through all your notes and interact with them easily, for to-do's, maybe even a single view of all class activities without having to leave a note, 
 - Bases Paginator: limits results on single page, add multiple pages
 - Unique Suite: university toolkit with calendar integration, timetable, etc. (in Spanish)
-- Custom Folder Links: wikilink to folders without creating 
+- Custom Folder Links: wikilink to folders without creating folder notes, expands folder in nav sidebar and highlights it
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
