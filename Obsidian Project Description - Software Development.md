@@ -392,7 +392,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - ScrollStream: scroll 2 separate notes in tandem through linked headings -- like LOGOS feature for Bible versions
 - Klomimory: language learning flashcard app that tracks attempts, success, etc.
 - Repeat: review notes with periodic or spaced repetition
-- Come Through: 
+- Come Through: FSRS spaced repetition flashcards with simple syntax
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
