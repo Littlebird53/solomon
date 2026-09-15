@@ -359,7 +359,11 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Alias Quick Switcher: allows searching aliases in file paths 
 - Backlink Cache: speeds up backlink view, can be helpful for plugins that rely on this
 - Backlink Full Path: for differentiating notes with the same name in different locations from the Backlink viewer
-- Edit Link Alias: windowed option that works in reading view to avoid messing with link syntax, easier for keyboard navi
+- Edit Link Alias: windowed option that works in reading view to avoid messing with link syntax, easier for keyboard navigation
+- Email to Vault: create an email address to creates notes directly
+- Embed HTML:
+- External Rename Handler: updates links to external files when renamed outside of Obsidian as long as Obsidian is running during the rename 
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
