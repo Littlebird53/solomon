@@ -409,8 +409,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - RPG Manager: extensive toolbox for TTRPG, uses HTML UI to guide editing of code block info in user-friendly way, manages nested locations, campaigns, scenes, characters, NPC & monster generation, etc. -- Lots of potential here. 
 - TTRPG Tools - Soundboard: 
 - Storyteller Suite: manage characters, locations, events, galleries, map, timeline, graph view, etc.
+- Nested Ordered Numbering: gives 1.1. not just 1. on indented line
 - 
-
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
