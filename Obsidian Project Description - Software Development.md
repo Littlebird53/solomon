@@ -368,7 +368,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Link Picker: find notes to link by navigating folders rather than just fuzzy name searches, can create a command for linking into a common folder (e.g. source, learning objective) -- this could be really nice to make "Link Learning Objective" with guidance separate from "Link to Reading Material"
 - Nested Properties: allows editing nested properties in properties viewer, not just YAML -- I didn't even know nested properties were a thing! Could be useful for different kinds of data validation within a single purpose for data, could group/simplify properties from getting too crazy...
 - Smart Rename: does not change file names backwards but updates link to not disturb in-sentence links, sets original name as the display value and makes it an alias for the new note title
-- 
+- Create Obsidian Plugin: wizard tool for modifying existing plugins for custom purposes
+- Obsidian Dev Utils: 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
