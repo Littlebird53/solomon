@@ -402,7 +402,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Ledge: customizable navigation dock (palette menu) that sits on top of every window; create up to 8 depending on the location, shortcuts, commands, auto-hide
 - Note Hub: download/import folders of files into your vault from a shared community site
 - Mobile-Translate: Google Translation, no API required
-- 
+- Facet Folders: allows treating properties and tags like folders in a sidebar nav menu just like 1 part of Notebook Navigator
+- File Name History: add previous file names to properties
+- Foldable Frontmatter Groups: allows folding grouped properties 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
