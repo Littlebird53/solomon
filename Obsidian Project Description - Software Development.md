@@ -393,6 +393,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Klomimory: language learning flashcard app that tracks attempts, success, etc.
 - Repeat: review notes with periodic or spaced repetition
 - Come Through: FSRS spaced repetition flashcards with simple syntax
+- DND Wiki: autocomplete search tool that pulls formatted text from the DND Wiki page so you can search for level 1-3 fire damage spells for wizards, etc. -- Any source I would want I can probably put straight in Obsidian, but I would like to have a wizard for searching for relevant info. This works because the searcher knowns the terms and specifications they want to look for. Some conditions that might work for us l
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
