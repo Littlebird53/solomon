@@ -379,6 +379,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Media Extended: inserts timestamps for note from embedded video player, easy screenshot from video into notes, simplified play/pause hotkeys, create clickable timestamp notes for your own videos, -- super useful for aiding video lecture note taking, creating instructional videos, and more (most recent version is close source, previous versions are open-source)
 - Chronobars: time-based progress bars, for traditional course completion
 - Regen: gamified work balance, lose stamina points slowly, gain it by taking breaks and eating snacks
+- Code Space: code editor in Obsidian
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
