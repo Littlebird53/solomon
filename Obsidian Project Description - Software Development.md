@@ -345,6 +345,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Triggers: run Obsidian commands upon opening different files, folders, views, etc. -- auto change side-bar for each note type (assignments), 
 - Sidebar Layouts: allows arranging multiple sidebars simultaneously at different orders, dimensions, etc. Allows moving without closing/reopening to preserve entered data
 - Editor Breadcrumbs: displays the current file and header location within a note inside the editor for easy movement, styled like Windows File Explorer
+- In-place Diff View: displays suggestions, corrections, edits, etc. as color-coded inside the note itself, with a pop-up to accept/reject changes. -- Useful for translation side, but want to display the master language parallel version too.
+- Style Tweaker: no CSS style updates, live preview, 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
