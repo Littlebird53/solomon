@@ -376,6 +376,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Tab Candy: custom new tab landing page with recent files, bookmarks, clock, background, custom quotes, etc. -- I think this is part of what I was thinking a Home page would do...
 - Auto Move File: move based on names or properties
 - Media Recorder: 
+- Chronobars: time-based progress bars, for traditional course completion
+- Regen: gamified work balance, lose stamina points slowly, gain it by taking breaks and eating snacks
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
