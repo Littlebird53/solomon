@@ -375,10 +375,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Notelets (also, JS Engine): allow embedding HTML, CSS, and JavaScript directly in Markdown -- this could embed Loder's learning activities! Need to figure out how to make things editable, saved, logged, shareable, etc.
 - Tab Candy: custom new tab landing page with recent files, bookmarks, clock, background, custom quotes, etc. -- I think this is part of what I was thinking a Home page would do...
 - Auto Move File: move based on names or properties
-- Media Recorder: 
+- Media Recorder: allow video, audio, and screenshare capture directly in Obsidian for note demonstration and easy storage -- super easy for recording class/assignment instructions, easy for instructors using slides to record videos, 
 - Chronobars: time-based progress bars, for traditional course completion
 - Regen: gamified work balance, lose stamina points slowly, gain it by taking breaks and eating snacks
-- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
