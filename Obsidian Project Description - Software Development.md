@@ -352,7 +352,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Custom Font Loader: easily add different fonts
 -  Class Timetable: auto create notes for each class meeting based on property value of class schedule and list each note on the calendar which displays in the sidebar. Opens the folders for a class when you click on it: assignments, class notes, readings, etc. Calendar also allows non-note schedules (like non-note insertions in canvas). 
 - Inline Conversions: changes units to your preferred values, reveals original or alternate on hover -- Great for international contexts, but also could be cool for ancient units!
-- Library Shelf: create a visual shelf of books without creating a note for each book, uses fenced YAML/JSON block
+- Library Shelf: create a visual shelf of books without creating a note for each book, uses fenced YAML/JSON block // looks pretty nice and embeds inside notes well, which could be nice for bite-size book reccs for related content.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
