@@ -389,7 +389,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Conflict Resolver: for sync conflicts
 - Awesome Format Bar: like MS Word, 
 - Rowbase: Notion-style databases, interactive, kanban, timeline, etc.
-- 
+- ScrollStream: scroll 2 separate notes in tandem through linked headings -- like LOGOS feature for Bible versions
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
