@@ -355,7 +355,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Library Shelf: create a visual shelf of books without creating a note for each book, uses fenced YAML/JSON block // looks pretty nice and embeds inside notes well, which could be nice for bite-size book reccs for related content.
 - Matrix List Planner: allows drag-and-drop editing of list-type properties across multiple notes, unassigned values live in their own space -- could be an interesting way to assign learning objectives and reveal which ones haven't been placed yet, but would need to support duplicate placement
 - Trolls Printing Press: turns .md files into printable pdfs using various pre-sets for books, booklets, pamphlets, reference and index cards, brochures, etc. 
-- Advanced Exclude: truly hide excl
+- Advanced Exclude: truly hide excluded notes from all areas -- needed for attachment files with sidecar notes?
+- Alias Quick Switcher: allows searching aliases in file paths 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
