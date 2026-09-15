@@ -363,7 +363,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Email to Vault: create an email address to creates notes directly
 - Embed HTML:
 - External Rename Handler: updates links to external files when renamed outside of Obsidian as long as Obsidian is running during the rename 
-- 
+- File Bundles: prevent moving related files (embedded images, note, form/submissions, etc.) separately
+- Insert Multiple Attachments: allow batch selection of images to be inserted
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
