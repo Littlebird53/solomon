@@ -371,7 +371,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Create Obsidian Plugin: wizard tool for modifying existing plugins for custom purposes
 - Obsidian Dev Utils: 
 - Base Path Updater: allow moving files from folder edits in Bases
-- 
+- Dependent Properties: update/sync properties from a master doc to all children. E.g.  -- might need to combine with link/relationship types to limit this, but could be really great so derivatives, responses, or examples all have the same topic, learning objectives, etc.
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
