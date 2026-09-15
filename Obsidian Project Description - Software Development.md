@@ -372,7 +372,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Obsidian Dev Utils: 
 - Base Path Updater: allow moving files from folder edits in Bases
 - Dependent Properties: update/sync properties from a master doc to all children. E.g. Event links to location and places its location value as a separate property within the event note. -- might need to combine with link/relationship types to limit this, but could be really great so derivatives, responses, or examples all have the same topic, learning objectives, etc. Useful when the property of a linked note contains information that needs to be displayed in another note.
-- Notelets: allow embedding HTML, CSS, and JavaScript directly in Markdown -- this could embed
+- Notelets: allow embedding HTML, CSS, and JavaScript directly in Markdown -- this could embed Loder's learning activities! Need to figure out how to make things editable, saved, logged, shareable, etc.
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
