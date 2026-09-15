@@ -394,7 +394,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Repeat: review notes with periodic or spaced repetition
 - Come Through: FSRS spaced repetition flashcards with simple syntax
 - DND Wiki: autocomplete search tool that pulls formatted text from the DND Wiki page so you can search for level 1-3 fire damage spells for wizards, etc. -- Any source I would want I can probably put straight in Obsidian, but I would like to have a wizard for searching for relevant info. This works because the searcher knowns the terms and specifications they want to look for. Some conditions that might work for us like that would be grammar/parsing/vocab in biblical languages, definitions of specific terms (Church History dictionary with names, ideas, places, etc.), possibly assignment types could work this way, where the instructor searches for learning activity/resources in the midst of doing their own writing...?
-- File Folder Status Icons: use traffic-light style emojis for
+- File Folder Status Icons: use traffic-light style emojis for folders based on properties -- not great for users, but could make publish status visible for admin // Probably, some minor alternation between prefixed logo is better and won't require a modification for the published version.
+- HTML Gallery: browse all HTML files as a grid of live thumbnails, search by title/content, open notes that link to them! -- GREAT for hosting Loder's learning exercises & I think Geniallys can be saved as HTML too!
+- 
 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
