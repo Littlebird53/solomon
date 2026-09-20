@@ -412,8 +412,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Nested Ordered Numbering: gives 1.1. not just 1. on indented line
 - Explorer Categories: allows formatting folders and notes together in similar ways -- can use for metadata-defined formatting without constraining folder location
 - Resume Editor: form-driven document designer intended for non-markdown format -- this could be useful for making completion or recognition certificates (can I auto-fill instances of names/courses/instructors from JOSEPH?). 
-- Fingerprint Lock: add fingerprint lock to vault for Mac/Windows, or hardware lock, or fallback password
-- 
+- Fingerprint Lock: add fingerprint lock to vault for Mac/Windows, or hardware lock, or fallback password. Allows per-note locking and pulling keys from Web-Auth. -- Possible account permissions proof of concept
+- Global Proxy: configure network proxies for users in areas with restricted networks
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
