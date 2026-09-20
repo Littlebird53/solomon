@@ -420,7 +420,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Floating TOC: floating, clickable, cursor-aware highlighting table-of-contents; includes various tick-mark style indicators when minimized, 
 - Mouse Navigation: hold right click and drag mouse to draw navigation gestures -- sorta like touchpad gestures or Apple mouse, is there a disability effect here?
 - Brain Atlas: turns graph view into a 3-D shape, but a brain rather than a map. Allowing assigning tags/folders/properties to a zone of the brain for logical clustering. Also has a 2D version that keeps the clusters. -- also see, Cerebro Mycelium, for a fungus garden themed version that highlights recently edited files.
-
+- Orrery: galaxy-themed 3D colored graph view with stars
+- 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
 - I should use "display title" workaround for file names to include colons, ?, and other punctuation not allowed in titles.
