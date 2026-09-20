@@ -411,7 +411,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Storyteller Suite: manage characters, locations, events, galleries, map, timeline, graph view, etc.
 - Nested Ordered Numbering: gives 1.1. not just 1. on indented line
 - Explorer Categories: allows formatting folders and notes together in similar ways -- can use for metadata-defined formatting without constraining folder location
-- Resume Editor: form-driven document designer intended for non-markdown format -- this could be useful for making completion or 
+- Resume Editor: form-driven document designer intended for non-markdown format -- this could be useful for making completion or recognition certificates (can I auto-fill instances of names/courses/instructors from JOSEPH?). 
+- 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
