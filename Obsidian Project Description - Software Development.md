@@ -429,6 +429,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Better Heading Hierarchy: adds vertical guidelines to show heading hierarchy better (like Reddit forum markers) -- this is another way to make the deeply nested headers readable but clutters the margin for Cornell-notes and I'm not sure how much a well-designed document has 6 levels of embedded headers anyways
 - Abstract Folder: another virtual folder option for allowing a single file to live in multiple locations, it uses properties to set virtual folders which is almost identical to repurposing tags for this, but would keep it a separate category if you had a separate use for tags (which I don't). -- I guess tags as folders could display a separate file structure rather than a blended one. You could let people select which way they want to explore their file structure: by single locations (using 1 of multiple hierarchies), or through combined structures (notes appear in multiple locations, a hybrid between traditional file structure & search options which might be the best of both worlds and might be too confusing to do either well). Supports a kind of copy/move drag-and-drop option so you can drag something virtually. Groups seems like just a preset filter for folders. Any file can become a virtual folder without needing a sidecar note.
 - Notion VIP Charts: create auto-updated charts from Google Sheets link designed to embed inside Obsidian, can stick in Cards in canvas to create custom dashboards!
+- Canvas Send to Front/Back: 
+- Simple CanvaSearch: 
+- 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
