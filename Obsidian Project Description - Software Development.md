@@ -418,6 +418,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Obelisk: suggestion/comment plugin for collaborative editing but stores comments in the frontmatter so they live and move inside a single note
 - Note Definitions: a personal dictionary that underlines defined words wherever it finds them and allows mouse-over reading the definition, plus you can add non-definition notes to each definition if there is ambiguity or discussion about things -- this could work for easy to read instructions as an alternative to linking
 - Floating TOC: floating, clickable, cursor-aware highlighting table-of-contents; includes various tick-mark style indicators when minimized, 
+- Mouse Navigation: hold right click and drag mouse to draw navigation gestures -- sorta like touchpad gestures or Apple mouse, is there a disability effect here?
+- Brain Atlas: turns graph view into a 3-D shar
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
