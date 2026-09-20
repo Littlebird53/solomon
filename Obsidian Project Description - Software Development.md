@@ -424,7 +424,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Canvas Link to Group: allow linking to a group in a canvas, just like a header link -- This is super interesting idea! It could replace folder linking if I don't use folders and might be easier to navigate spatially than creating a note with vertically embedded options, plus it keeps using default Obsidian features. Masonry view of notes is another option for this but we would probably need to link to a Base displaying the various options, which might be easier to auto-create and manage than individual canvases, but would provide less context/nuance.
 - Canvas Links: 
 - Next TOC: floating toc, reading progress bar, jump to headings
-- Insta TOC: auto-generate and update TOC, omit headings; created by simple codeblock, not commands, include HTML or symbols in headings, allows skipping hierarchical steps, support markdown/wikilink in headings -- 
+- Insta TOC: auto-generate and update TOC, omit headings; created by simple codeblock, not commands, include HTML or symbols in headings, allows skipping hierarchical steps, support markdown/wikilink in headings, regex exclude headers with shared features, change bullet style of ToC, limit heading level included. May not export well yet. -- this looks pretty nice but doesn't display in a sidebar, not sure what features this has that those don't. The sidebar view might be nice, but also could be more complicated than needed. The question is whether 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
