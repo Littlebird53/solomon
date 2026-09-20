@@ -431,7 +431,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Notion VIP Charts: create auto-updated charts from Google Sheets link designed to embed inside Obsidian, can stick in Cards in canvas to create custom dashboards!
 - Canvas Send to Front/Back: 
 - Simple CanvaSearch: 
-- 
+- Advanced Slides: add some features to slide creation within obsidian, less is more approach with limited text, headers, themes; Vertical slide option, chalkboard, annotation, and arial view
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
