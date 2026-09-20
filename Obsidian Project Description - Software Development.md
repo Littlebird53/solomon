@@ -416,7 +416,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Global Proxy: configure network proxies for users in areas with restricted networks
 - Sync Engine: claims to be a super optimized syncing option for vaults that is way faster, incremental, indexed, etc.
 - Obelisk: suggestion/comment plugin for collaborative editing but stores comments in the frontmatter so they live and move inside a single note
-- Note Definitions: a personal dictionary that underlines defined words wherever it finds them and allows mouse-over reading the definition, plus you can add non-definition notes to each definition i
+- Note Definitions: a personal dictionary that underlines defined words wherever it finds them and allows mouse-over reading the definition, plus you can add non-definition notes to each definition if there is ambiguity or discussion about things -- this could work for easy to read instructions as an alternative to linking
+- Floating TOC: floating, clickable, cursor-aware highlighting table-of-contents
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
