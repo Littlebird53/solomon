@@ -422,6 +422,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Brain Atlas: turns graph view into a 3-D shape, but a brain rather than a map. Allowing assigning tags/folders/properties to a zone of the brain for logical clustering. Also has a 2D version that keeps the clusters. -- also see, Cerebro Mycelium, for a fungus garden themed version that highlights recently edited files.
 - Orrery: galaxy-themed 3D colored graph view with stars and nebula background
 - Canvas Link to Group: allow linking to a group in a canvas, just like a header link -- This is super interesting idea! It could replace folder linking if I don't use folders and might be easier to navigate spatially than creating a note with vertically embedded options, plus it keeps using default Obsidian features. Masonry view of notes is another option for this but we would probably need to link to a Base displaying the various options, which might be easier to auto-create and manage than individual canvases, but would provide less context/nuance.
+- Canvas Links: 
 - Next TOC: 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
