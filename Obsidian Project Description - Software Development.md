@@ -415,6 +415,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Fingerprint Lock: add fingerprint lock to vault for Mac/Windows, or hardware lock, or fallback password. Allows per-note locking and pulling keys from Web-Auth. -- Possible account permissions proof of concept. -- Technically, we could probably set up 3 different vaults which sync increasing portions of the master vault and just give everyone access to the correct one. This seems more complicated (having 3 mostly same vaults) but could work, and if the end-user vaults are really just selected portions of the Master vault, theoretically it could not increase work.
 - Global Proxy: configure network proxies for users in areas with restricted networks
 - Sync Engine: claims to be a super optimized syncing option for vaults that is way faster, incremental, indexed, etc.
+- Obelisk: suggestion/comment plugin for collaborative editing but stores comments in the frontmatter so they live and move inside a single note
+- 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 
