@@ -434,6 +434,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Advanced Slides: add some features to slide creation within obsidian, less is more approach with limited text, headers, themes; Vertical slide option, chalkboard, annotation, and arial view of all slides -- Could probably be repurposed for a Game, jeopardy style, or creative maze if you could lock people into a particular view or hide embedded text.
 - Current View: sets view mode (reading preview, source) based on folder, properties, etc. just like Workspaces sets the window setup. Auto-adds book or pen logo to file name to communicate which view is default. -- Not sure how often I actually want to leave preview or how often students will need to leave Reading, but could be useful.
 - Canvas CSS Class: allows adding CSS files to canvas
+- My Snippets: makes toggling CSS files available in side-menu
+- Snippetor: a UI way to modify CSS files
 
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
