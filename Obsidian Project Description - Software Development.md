@@ -439,6 +439,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - I should use "display title" workaround for file names to include colons, ?, and other punctuation not allowed in titles.
 
 #### Non-obsidian
-- Pengram ([here](https://github.com/penfieldlabs/pengram)): autoextracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
+- Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
 - 
 
