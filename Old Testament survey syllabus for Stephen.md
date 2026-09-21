@@ -2,7 +2,7 @@
 
 
 # Philosophy
-
+- build on previous skills (summarized well, struggle to outline, beginning to grasp larger structure and purposes of writing, established motivation and some basic assignment repetitions, confidenc)
 
 # ATP Lecture Topics
 
@@ -42,7 +42,7 @@ similar to before, 2-3 sentences describing what is happening in each chapter. L
 
 
 ## Old Testament Timeline
-be able to give a basic oral description of the major events of the Old Testament (creation, Abraham, Jacob, Joseph, Moses, Joshua, Judges, in chronological order with a few major dates. Describe the chronological history primarily in terms of biblical books but supplement additional history and context as needed.
+be able to give a basic oral description of the major events of the Old Testament (creation, Abraham, Jacob, Joseph, Moses, Joshua, Judges, Saul, David, Solomon, divided kingdom, exile, return, gap til New Testament) in chronological order with a few major dates. Describe the chronological history primarily in terms of biblical books but supplement additional history and context as needed.
 
 
 # Reading
@@ -62,4 +62,4 @@ Joel 1-4
 Jonah 1-4
 Lamentations 1-5
 Esther 1-10 (extreme irony)
-
+(read Daniel?)
