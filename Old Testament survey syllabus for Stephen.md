@@ -42,7 +42,7 @@ similar to before, 2-3 sentences describing what is happening in each chapter. L
 
 
 ## Old Testament Timeline
-be able to give a basic oral description of the major events of the Old Te
+be able to give a basic oral description of the major events of the Old Testament (creation, Abraham, Jacob, Joseph, Moses, Joshua, Judges, in chronological order with a few major dates. Describe the chronological history primarily in terms of biblical books but supplement additional history and context as needed.
 
 
 # Reading
