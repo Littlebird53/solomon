@@ -447,6 +447,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Armillary: 3D graph view without WebGL -- presumably faster/lighter than other options.
 - Better Embedded Canvas: allows full panning of embedded canvases, embedding canvas in a note, 
 - Navigate Headings: add headings to the file navigator, highlight current location as you scroll -- This gives the outline feature without adding a new sidebar. It would require opening the nav sidebar, and is possibly less useful than having it at the top of a note. It also could clutter the nav bar, but headings only expand after selecting a note.
+- Minimap: adds a minimap of notes -- this seems navigational overkill for just scrolling through a long note and less precise/useful directions than using outlines.
 
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
