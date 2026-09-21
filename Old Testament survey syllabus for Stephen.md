@@ -32,14 +32,14 @@ read Enuma Elish, pull those NOBTS articles...
 (model this with Gen. 1-2, using the observations already made)
 
 ## Summary of Genesis
-upon completion, prompt the larger units of Genesis. Group the chapters into no more than 5
+upon completion, prompt the larger units of Genesis. Group the chapters into no more than 5 groups and provide a 1-2 sentence summary of each group.
 
 ## Summary of Exodus 1-18
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
 
 
-## Outline Close Reading, Leviticus
-
+## Outline Guided Skimming, Leviticus
+read Lev. 1-10 closely, then skim the rest of the book with Hill/Walton's outline as a guide. As questions about the outline as you read.
 
 ## Summary of Joel
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
