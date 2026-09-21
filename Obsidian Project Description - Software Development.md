@@ -444,6 +444,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Miller Columns: turns long nested lists into Finder-style (Apple) columns where only the children of a selected node are displayed at any given time. If you only ever want to look at one set of sub-options within a nested list, this is great, but for a lot of our lists, this is pretty lame and just further obscures the info. It seems technical elements with at least 3 levels of embedding would benefit from this, but more like a reference tool than what I typically need.
 - Preach MD: full-screen reading mode, no sidebars, timer with red/amber colors at target limits, large serif font, free scroll, no sleep mode
 - Timestamp Player: click timestamps in transcription to seek and play embedded audio -- could use alongside ATP videos
+- Armillary: 3D graph view without WebGL -- presumably faster/lighter than other options.
+- Better Embedded Canvas: 
 
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
