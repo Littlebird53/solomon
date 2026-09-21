@@ -52,3 +52,8 @@ Exod. 1-18
 Lev. 1-10, skim the rest with outline
 Num. 5-6, 11-14
 Deut. 31-34
+
+Ruth 1-4
+
+Psalms 1-5, 8, 13, 22-23, 46, 89, 100, 119, 150
+Proverbs 1-9
