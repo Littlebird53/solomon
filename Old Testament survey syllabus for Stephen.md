@@ -2,7 +2,13 @@
 
 
 # Philosophy
-- build on previous skills (summarized well, struggle to outline, beginning to grasp larger structure and purposes of writing, established motivation and some basic assignment repetitions, confidenc)
+- build on previous skills (summarized well, struggle to outline, beginning to grasp larger structure and purposes of writing, established motivation and some basic assignment repetitions, confidence)
+- develop close reading skills that can be repeated again and again
+- introduce reading philosophy
+- introduce basic genres
+- introduce major historical events/order
+- discuss why the OT matters
+- address some major OT issues (ANE similarities, repeated/conflicting accounts, long detailed boring records, confusing and strict law)
 
 # ATP Lecture Topics
 
