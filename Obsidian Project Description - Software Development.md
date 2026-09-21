@@ -436,6 +436,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Canvas CSS Class: allows adding CSS files to canvas
 - My Snippets: makes toggling CSS files available in side-menu
 - Snippetor: a UI way to modify CSS files
+- Canvas Candy: allows manually specifying CSS info in cards within canvas to change shape, color, border, header, footer, etc. but the manual CSS info is pretty tricky and I think other options support UI editing.
 
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
