@@ -28,6 +28,10 @@ read Enuma Elish, pull those NOBTS articles...
 ## Summary of Exodus 1-18
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
 
+
+## 
+
+
 ## Summary of Joel
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
 
