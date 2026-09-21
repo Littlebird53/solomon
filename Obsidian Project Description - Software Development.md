@@ -450,7 +450,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Minimap: adds a minimap of notes -- this seems navigational overkill for just scrolling through a long note and less precise/useful directions than using outlines.
 - Running Header: display title and select metadata, progress bar, clickable Windows style file structure tree always visible at the top of each page. -- This looks pretty nice and could provide a small selection of relevant properties, plus add some navigation options, show reading progress, 
 - Scroll Offset: copies Vim scrolloff to prevent the cursor from moving at the very edge of the screen
-- 
+- STOMP: allow hands-free reading by controlling obsidian with a foot pedal, useful for cord sheets or other reading tasks, accessibility devices, 
 
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
