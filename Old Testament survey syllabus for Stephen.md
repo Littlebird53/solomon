@@ -42,7 +42,7 @@ similar to before, 2-3 sentences describing what is happening in each chapter. L
 
 
 ## Old Testament Timeline
-
+be able to give a basic oral description of the major events of the Old Te
 
 
 # Reading
@@ -57,7 +57,9 @@ Ruth 1-4
 
 Psalms 1-5, 8, 13, 22-23, 46, 89, 100, 119, 150
 Proverbs 1-9
+Hosea 1-14
 Joel 1-4
 Jonah 1-4
 Lamentations 1-5
-Esther 1-10
+Esther 1-10 (extreme irony)
+
