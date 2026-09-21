@@ -25,6 +25,8 @@ read Enuma Elish, pull those NOBTS articles...
 ## Flood Stories Comparison
 (model this with Gen. 1-2, using the observations already made)
 
+## Summary of Joel
+similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
 
 ## Psalm Memorization
 
