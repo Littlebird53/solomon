@@ -455,7 +455,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Horizontal Swipe Gestures: map trackpad swipes to any command
 - Advanced Maps:
 - SyncScroll: like LOGOS feature
-- Wayfarer: 
+- Wayfarer: converts pasted Google Maps links into stops, drag-and-drop to reorder, headers are days of the trip, the map view moves to align with the cursor location in the note, timeline, 
 - Blink: says it improves paragraph references -- not sure I experienced these problems, perhaps the features got incorporated into it by default?
 - Place Notes: turn a note into a place note by adding country/coordinates to properties
 - Places: allows adding routes & heatmaps, GPX, GeoJSON, CSV import, geocoding, routing, isochrones, elevation, environment data; requires at least 1 other map plugin
