@@ -57,3 +57,7 @@ Ruth 1-4
 
 Psalms 1-5, 8, 13, 22-23, 46, 89, 100, 119, 150
 Proverbs 1-9
+Joel 1-4
+Jonah 1-4
+Lamentations 1-5
+Esther 1-10
