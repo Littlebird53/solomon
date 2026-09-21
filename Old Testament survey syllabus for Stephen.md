@@ -43,3 +43,12 @@ similar to before, 2-3 sentences describing what is happening in each chapter. L
 
 ## Old Testament Timeline
 
+
+
+# Reading
+
+Gen. 1-50
+Exod. 1-18
+Lev. 1-10, skim the rest with outline
+Num. 5-6, 11-14
+Deut. 31-34
