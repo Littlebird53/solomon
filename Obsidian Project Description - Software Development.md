@@ -435,7 +435,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - 
 
 Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
-
+- Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properti
 - I should use "display title" workaround for file names to include colons, ?, and other punctuation not allowed in titles.
 
 #### Non-obsidian
