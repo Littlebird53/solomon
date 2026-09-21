@@ -29,11 +29,14 @@ read Enuma Elish, pull those NOBTS articles...
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
 
 
-## 
+## Outline Close Reading, Leviticus
 
 
 ## Summary of Joel
 similar to before, 2-3 sentences describing what is happening in each chapter. Leave out any discussion of "theme" or application.
+
+## Outline Close Reading, Ezekiel
+
 
 ## Psalm Memorization
 
