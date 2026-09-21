@@ -437,6 +437,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Custom Calendar: can repurpose fantasy TTRPG calendar option to make each year a single note for church history, history of Bible, DSS, etc. courses 
 - Somehow Danny Hatcher is using drag-and-drop in canvas groups to change properties in files. A query tells him what books haven't been sorted and as he adds them to the canvas they disappear from that list, plus he can move them into to-read, read, low/high priority cross-sections, and more. -- This is SICK! but would get out of hand with too large things. Could define a class though and drag-and-drop change properties also used by virtual folders/tag folders that would reflect in the file navigator. Groups + Edges allow for specifying different kinds of relationships within a canvas.
 - I should use "display title" workaround for file names to include colons, ?, and other punctuation not allowed in titles.
+- Mike Schmitz uses Person notes to track questions, to-do's and waiting items for all his co-workers, plus a query for every meeting note this person was in. Tasks that take the combo tag of name and question/to-do/waiting appear in collapsible callouts on the Person page. 
 
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
