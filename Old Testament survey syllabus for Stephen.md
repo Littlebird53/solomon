@@ -14,4 +14,9 @@
 
 
 ## Flood Stories Comparison
-(demo )
+(model this with Gen. 1-2, using the observations already made)
+
+## Lamentations
+
+
+## Joel
