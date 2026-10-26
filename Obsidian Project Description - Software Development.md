@@ -486,6 +486,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Paragraph exploder: break sentences of a paragraph up and allow re-ordering -- Shifting between normal and drag-and-drop is a nice idea
 - Codename: generate random placeholder names -- incorporate into case study creation tool, anonymizer
 - Achievement: tracks some set things and awards achievements for finishing them -- Once we figure out how to handle individual instances of the Vault, this would be great.
+- Penseed: open foreshadowing issues as you write and require them all to be resolved before you are done -- This is an interesting idea for pedagogical tools but I'm not sure how yet.
+- Heraldry Weaver: auto-generate coat of arms image
+- 
 
 
 #### Non-obsidian
