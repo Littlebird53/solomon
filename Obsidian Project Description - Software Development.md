@@ -469,7 +469,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Canvas2Document: turns all canvas components into a single document file. Only works with certain relationships between elements of a canvas but could convert a visual canvas syllabus worksheet into a downloadable pdf syllabus!
 - Arbor: structure a single text doc in branches arranged spatially for easy arrow-key navigation and non-linear structure. Supports headings, call-outs, etc. Not a canvas or graph, still just 1 doc. -- Could create branching scenario response, or reference info access like (?? table view from Mac Finder). Might be the middle-ground between headers/columns in a note and separate notes for everything; but more constrained for uniformity and easy navigation that a true canvas/flow chart that needs less visual structuring (has uniform relationships, grid layout, etc.)
 - World Builder: tracks characters, locations, factions, lore entries, timeline events, etc. -- Location/faction might provide the level of overlap I need for a physical representation of fields, domains, schools of thought, etc.
-- Narrative Canvas: node-base canvas workspace for 
+- Narrative Canvas: node-base canvas workspace for creating complex narratives. Supports beats, dialogue, branching choices, conditions, variables, routing, cast, note, speaker roles.
 
 
 
