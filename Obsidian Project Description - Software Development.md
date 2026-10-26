@@ -493,6 +493,10 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Unique Word Tracker: pulls word-usage statistics on only a set "watch list" of words -- Don't think this direct use is helpful, but something similar might be.
 - Dialogue Stats: calculates percent of total text entered between "." and displays a color in the status bar based on the acceptable range you set. -- Don't care about quotes, but some indicator of image/callout/structure to text ratio might be cool. It would encourage our writing to be structured and enhance consistency, plus could give clear guidelines for submitted writing from professors or center instructors. Not sure how aggravating/arbitrary that would be.
 - Tell-a-Tale: organizes all writing content into blocks that have a type + speaker with fuzzy search and avatar. Designed for easy, beautiful dialogue construction. -- I could repurpose avatars/characters to represent different types of learning activities.
+- RPG Stat Tracker: gamification for Obsidian use
+- Book and Quill: gamification for Obsidian use, uses physical book brown theme
+- Hexcrawl: simple hexmapper alternative
+- 
 
 
 #### Non-obsidian
