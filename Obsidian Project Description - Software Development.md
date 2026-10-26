@@ -478,7 +478,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Dialogue: visually create dialogue boxes, like chat message designer. -- Could be great for static evangelism/apologetics scenarios, summaries of theological debates, etc.
 - Tavernus: auto-generate atmosphere, name, size, drinks, prices, prestige, rumors, patrons, rooms, etc. for DD campaigns -- Create role-play scenarios, case study assignments, mad lib biblical language creation, ...
 - Ink Player: ink is a way of writing branching dialogue for games, "interactive fiction" or "choose-your-own-adventure". Allows playing ink games in Obsidian (Ink is open-source too.) -- The question here is whether I can (a) collect inputs from the user, and (b) save outputs to separate files upon each run. This seems pretty doable, but not sure how hard developing this would be.
-- 
+- Pokemon Typing Pokedex: earn points by typing that triggers random Pokeman appearance and catch animation, with Pokedex tracking, rarity levels, shiny chance, etc.
+- U+13080 Weather: Define worlds, regions, climates, seeds, and get stochastic weather data auto-generated for each location.
 
 
 
