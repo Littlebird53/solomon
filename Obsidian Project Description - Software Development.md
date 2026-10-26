@@ -484,7 +484,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - U+13080 Weather: Define worlds, regions, climates, seeds, and get stochastic weather data auto-generated for each location. Neighboring zones don't talk to one another, it does not generate weather fronts that cover different locations.
 - Paragraph exploder: break sentences of a paragraph up and allow re-ordering -- Shifting between normal and drag-and-drop is a nice idea
 - Codename: generate random placeholder names -- incorporate into case study creation tool, anonymizer
-- Achievement: tracks some set things and awards achievements f
+- Achievement: tracks some set things and awards achievements for finishing them -- Once we figure out how to handle individual instances of the Vault, this would be great.
 
 
 #### Non-obsidian
