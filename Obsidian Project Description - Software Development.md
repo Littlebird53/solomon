@@ -496,7 +496,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - RPG Stat Tracker: gamification for Obsidian use
 - Book and Quill: gamification for Obsidian use, uses physical book brown theme
 - Hexcrawl: simple hexmapper alternative
-- 
+- Lexinote: highlight difficult English words and provide mouse-over definitions -- Not sure what the benefit of only supporting difficult words is. I guess highlighting might aid retention like the red text/margin of Orberg...
+- Placeholder Manager: for tracking placeholder names and other stuff in writing projects.
 
 
 #### Non-obsidian
