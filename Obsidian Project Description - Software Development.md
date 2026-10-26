@@ -491,7 +491,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Atlas VTT: create and play TTRPG within Obsidian.
 - Semoi: produces human authorship token based on keystrokes using semoi.net
 - Unique Word Tracker: pulls word-usage statistics on only a set "watch list" of words -- Don't think this direct use is helpful, but something similar might be.
-- Dialogue Stats: calculates percent of total text entered between "." and displays a color in the status bar based on the acceptable range you set. -- Don't care about quotes, but
+- Dialogue Stats: calculates percent of total text entered between "." and displays a color in the status bar based on the acceptable range you set. -- Don't care about quotes, but some indicator of image/callout/structure to text ratio might be cool. It would encourage our writing to be structured and enhance consistency, plus could give clear guidelines for submitted writing from professors or center instructors. Not sure how aggravating/arbitrary that would be.
+- 
 
 
 #### Non-obsidian
