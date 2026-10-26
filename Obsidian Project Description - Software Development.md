@@ -498,7 +498,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Hexcrawl: simple hexmapper alternative
 - Lexinote: highlight difficult English words and provide mouse-over definitions -- Not sure what the benefit of only supporting difficult words is. I guess highlighting might aid retention like the red text/margin of Orberg...
 - Placeholder Manager: for tracking placeholder names and other stuff in writing projects.
-
+- Your Pulse: github style submission map but for writing progress
+- 
 
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
