@@ -502,7 +502,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Git Revision Tracker: modified date tracker, heat map, but identifies delete, rewording, and new writing separately
 - Sermon Studio Public: start writing sermons from templates based on message type, preview page divisions, change text size, 
 - Spherical Graph: folders are continents, notes are cities, ocean as divider between owners, 
-
+- Auto-glossary: 
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
 - 
