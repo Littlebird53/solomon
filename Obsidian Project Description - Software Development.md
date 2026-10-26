@@ -466,6 +466,9 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - I should use "display title" workaround for file names to include colons, ?, and other punctuation not allowed in titles.
 - Mike Schmitz uses Person notes to track questions, to-do's and waiting items for all his co-workers, plus a query for every meeting note this person was in. Tasks that take the combo tag of name and question/to-do/waiting appear in collapsible callouts on the Person page. 
 - you can reference groups in canvas and embed in notes just like you can reference headings... I really have to think about this.
+- Canvas2Document: turns all canvas components into a single document file
+
+
 
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
