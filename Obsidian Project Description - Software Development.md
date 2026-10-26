@@ -490,7 +490,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Heraldry Weaver: auto-generate coat of arms image
 - Atlas VTT: create and play TTRPG within Obsidian.
 - Semoi: produces human authorship token based on keystrokes using semoi.net
-- 
+- Unique Word Tracker: pulls word-usage statistics on only a set "watch list" of words -- 
 
 
 #### Non-obsidian
