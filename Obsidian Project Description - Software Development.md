@@ -477,7 +477,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Shared Blocks: allows displaying the same text in lots of locations with unified editing. Creates its own class using ==share:\[name]==-- not sure how this is different from linking to paragraphs in any other document, but the separate format might allow naming easier (rather than hexcode) and/or could make formatting separately via CSS easier so you couldn't tell it was embedded but this is only useful if you wanted other embedded texts to display separately.
 - Dialogue: visually create dialogue boxes, like chat message designer. -- Could be great for static evangelism/apologetics scenarios, summaries of theological debates, etc.
 - Tavernus: auto-generate atmosphere, name, size, drinks, prices, prestige, rumors, patrons, rooms, etc. for DD campaigns -- Create role-play scenarios, case study assignments, mad lib biblical language creation, ...
-- Ink Player: ink is a way of writing branching dialogue for games
+- Ink Player: ink is a way of writing branching dialogue for games, "interactive fiction" or "choose-your-own-adventure". Allows playing ink games in Obsidian (Ink is open-source too.) -- The question here is whether I can (a) collect inputs from the user, and (b) save outputs to separate files upon each run. This seems pretty doable, but not sure how hard developing this would be.
+- 
 
 
 
