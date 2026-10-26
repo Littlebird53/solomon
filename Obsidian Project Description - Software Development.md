@@ -476,7 +476,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Note Reading Time: displays time in the file data like wordcount. Excludes code blocks and other parts of a document. Shows time left to finish as you scroll. Supports Chinese, Korean, Japanese by character/minute, other languages at WPM. -- What I really want is a metadata value, but Daniel can probably make this happen
 - Shared Blocks: allows displaying the same text in lots of locations with unified editing. Creates its own class using ==share:\[name]==-- not sure how this is different from linking to paragraphs in any other document, but the separate format might allow naming easier (rather than hexcode) and/or could make formatting separately via CSS easier so you couldn't tell it was embedded but this is only useful if you wanted other embedded texts to display separately.
 - Dialogue: visually create dialogue boxes, like chat message designer. -- Could be great for static evangelism/apologetics scenarios, summaries of theological debates, etc.
-- Tavernus: auto-generate atmosphere, name, size, drinks, prices, prestige, rumors, patrons, rooms, etc. for DD campaigns -- Create role-play scenarios, case study assignments, mad lib biblical language creation
+- Tavernus: auto-generate atmosphere, name, size, drinks, prices, prestige, rumors, patrons, rooms, etc. for DD campaigns -- Create role-play scenarios, case study assignments, mad lib biblical language creation, ...
 
 
 
