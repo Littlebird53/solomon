@@ -467,7 +467,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Mike Schmitz uses Person notes to track questions, to-do's and waiting items for all his co-workers, plus a query for every meeting note this person was in. Tasks that take the combo tag of name and question/to-do/waiting appear in collapsible callouts on the Person page. 
 - you can reference groups in canvas and embed in notes just like you can reference headings... I really have to think about this.
 - Canvas2Document: turns all canvas components into a single document file. Only works with certain relationships between elements of a canvas but could convert a visual canvas syllabus worksheet into a downloadable pdf syllabus!
-- Arbor: structure a single text doc in branches arranged spatially for easy arrow-key navigation and non-linear structure. Supports headings, call-outs, etc. Not a canvas or graph, still just 1 doc. -- Could create branching scenario response, or reference info access like ()
+- Arbor: structure a single text doc in branches arranged spatially for easy arrow-key navigation and non-linear structure. Supports headings, call-outs, etc. Not a canvas or graph, still just 1 doc. -- Could create branching scenario response, or reference info access like (?? table view from Mac Finder). Might be the middle-ground between headers/columns in a note and separate notes for everything; but more constrained for uniformity and easy navigation that a true canvas/flow chart that needs less visual structuring
 
 
 
