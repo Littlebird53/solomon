@@ -480,7 +480,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Ink Player: ink is a way of writing branching dialogue for games, "interactive fiction" or "choose-your-own-adventure". Allows playing ink games in Obsidian (Ink is open-source too.) -- The question here is whether I can (a) collect inputs from the user, and (b) save outputs to separate files upon each run. This seems pretty doable, but not sure how hard developing this would be.
 - Pokemon Typing Pokedex: earn points by typing that triggers random Pokeman appearance and catch animation, with Pokedex tracking, rarity levels, shiny chance, etc.
 - U+13080 Weather: Define worlds, regions, climates, seeds, and get stochastic weather data auto-generated for each location. Neighboring zones don't talk to one another, it does not generate weather fronts that cover different locations.
-- Paragraph exploder: break sentences of a paragraph up and allow re-o
+- Paragraph exploder: break sentences of a paragraph up and allow re-ordering -- Shifting between normal and drag-and-drop is a nice idea
 
 
 #### Non-obsidian
