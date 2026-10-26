@@ -488,6 +488,8 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Achievement: tracks some set things and awards achievements for finishing them -- Once we figure out how to handle individual instances of the Vault, this would be great.
 - Penseed: open foreshadowing issues as you write and require them all to be resolved before you are done -- This is an interesting idea for pedagogical tools but I'm not sure how yet.
 - Heraldry Weaver: auto-generate coat of arms image
+- Atlas VTT: create and play TTRPG within Obsidian.
+- Semoi: produces human authorship token based on keystrokes using semoi.net
 - 
 
 
