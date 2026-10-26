@@ -471,7 +471,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - World Builder: tracks characters, locations, factions, lore entries, timeline events, etc. -- Location/faction might provide the level of overlap I need for a physical representation of fields, domains, schools of thought, etc.
 - Narrative Canvas: node-base canvas workspace for creating complex narratives. Supports beats, dialogue, branching choices, conditions, variables, routing, cast, note, speaker roles. -- I think this is almost everything I need for the syllabus building all by itself. I'm not sure how to make this render visually on the UX side, but all of the design feature is here, just need to rename a few things.
 - Readability Score: uses Flesch Reading Ease formula, fork of "better word count"
-- Text Analysis: uses over 30 metrics to calculate reading 
+- Text Analysis: uses over 30 metrics to calculate reading difficulty: character, glyph, word, sentence, paragraph, syllable, avg. syllable/word, avg. word/sentence, clauses/sentence, unique words, includes reading time calculation
 - Readability Compass: set a target reading level (CEFR: C1/B2/A3 etc.) and see it tracked automatically as you write so you can keep the level audience-appropriate. This metric is language independent (+) but limited to sentence length and the share of long words (-). As long as languages separate words with spaces, this will calculate something, but doesn't use any smarter word recognition. -- Calculating word and morph freq. against some standard large corpus freq. could create a super smart, language-specific version of this. Probably not worth implementing as it currently exists, but I should look into a numeric English readability score to enter into metadata for resources.
 - WPM Reading Time: calculates based on given WPM reading speed and handles different presets. -- presets could divide between different levels of reading like we want in the workhour formula.
 - Reading Time: adds to the status bar
@@ -484,7 +484,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - U+13080 Weather: Define worlds, regions, climates, seeds, and get stochastic weather data auto-generated for each location. Neighboring zones don't talk to one another, it does not generate weather fronts that cover different locations.
 - Paragraph exploder: break sentences of a paragraph up and allow re-ordering -- Shifting between normal and drag-and-drop is a nice idea
 - Codename: generate random placeholder names -- incorporate into case study creation tool, anonymizer
-- 
+- Achievement: tracks some set things and awards achievements f
 
 
 #### Non-obsidian
