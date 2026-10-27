@@ -117,12 +117,22 @@
 		{
 			"id":"18d4395c108d6514",
 			"type":"text",
-			"text":"# Future Questions\n- Standardized treatment of the relationships between units\n\t- folder, type, subtype, tag, link\n\t- book, chapter, note, summary, header, section, tip\n\t- text, image, video, slideshow, audio\n\t- reading, lecture, assignment, assessment, discussion\n\t- Visual Layout: horizontal, vertical, embedded, hidden/reveal, sequential\n\t- \n1. ",
+			"text":"# Future Questions\n- Standardized treatment of the relationships between units\n\t- Relationship Indicators: folder, type, subtype, tag, link\n\t- Magnitude: book, chapter, note, summary, header, section, tip\n\t- File Type: text, image, video, slideshow, audio\n\t- Task: reading, lecture, assignment, assessment, discussion\n\t- Visual Layout: horizontal, vertical, embedded, hidden/reveal, sequential\n\t- \n1. ",
 			"styleAttributes":{},
-			"x":-580,
-			"y":540,
-			"width":360,
-			"height":320
+			"x":-810,
+			"y":480,
+			"width":620,
+			"height":540
+		},
+		{
+			"id":"80075620b607cff6",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":0,
+			"y":480,
+			"width":460,
+			"height":600
 		}
 	],
 	"edges":[],
