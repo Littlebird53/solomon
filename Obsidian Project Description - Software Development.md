@@ -505,6 +505,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - Auto-glossary: 
 - Black Hole Graph: 
 - Memory Palace: 
+- Folder Reader: allows continuous scroll reading of multiple different files within a folder -- 
 #### Non-obsidian
 - Pengram ([here](https://github.com/penfieldlabs/pengram)): auto-extracts logic structure and mindmaps from videos, papers, etc. -- same functionality as NotebookLM
 - 
