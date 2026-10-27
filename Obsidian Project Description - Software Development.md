@@ -173,13 +173,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 #### Other Relevant
-- Knowledge Regression: allows specifying tests for the vault that must pass or an error is thrown. Can identify broken links, orphans, etc.
-- Fold Properties by Default: 
-- Markdown Chat Blocks: for creating artificial conversations, make speaker tracking clear, simulated dialogues, responses, etc.
-- Living Mindmap / Canvas From Headings: turns headers into editable mindmaps 
-- Ribbon Groups: allows grouping ribbon buttons, adding colors, labels, etc.
-- Colorful Folders:
-- Pandoc Plugin: 
 - Omni Book Reader: optimized epub reader environment, could replace default embedded pdf viewer to remember reading position, table of contents, page/scroll reading, bookmarks, notes attached to highlights
 - Paper PDF Translator: AI-assisted format-aware translation for academic papers
 - Virtual Footer: put results of dataview/bases at the bottom or other window of notes
