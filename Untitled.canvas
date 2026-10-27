@@ -76,7 +76,7 @@
 		{
 			"id":"b245af463a03a886",
 			"type":"text",
-			"text":"# UX\n\n## Interface Navigation\n\n\n## Homepage\n- Apex Dashboard: classes, projects, calendar, Pomodoro timer\n\n## Division between notes/sections\n- Longform: allows manually setting order of files within a \"project\"\n- Breadcrumbs: different relationships between notes by classes in metadata, can be slow, displays in dedicated side-bar which I don't really love\n## Navigation\n\n\n## Appearance\n- Unseen Changes Dot: marks files that have been updated, might be nice to let students/centers see, especially for documentation\n\n",
+			"text":"# UX\n\n## Interface Navigation\n\n\n## Homepage\n- Apex Dashboard: classes, projects, calendar, Pomodoro timer\n\n## Division between notes/sections\n- Longform: allows manually setting order of files within a \"project\"\n- Breadcrumbs: different relationships between notes by classes in metadata, can be slow, displays in dedicated side-bar which I don't really love.\n## Appearance\n- Unseen Changes Dot: marks files that have been updated, might be nice to let students/centers see, especially for documentation\n- Cornell Marginalia: add marginal notes, great; but makes cursor freak out with arrow key use (Heather didn't have this problem)\n\n",
 			"styleAttributes":{},
 			"x":-1630,
 			"y":-328,
