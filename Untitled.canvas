@@ -1,14 +1,57 @@
 {
 	"nodes":[
-		{"id":"d1ff314db8d74096","type":"text","text":"# Resource Creation","x":-1600,"y":-380,"width":420,"height":600},
+		{"id":"addb1f80c3fc7026","type":"group","x":-1640,"y":-1160,"width":1880,"height":720,"label":"Features"},
+		{"id":"110818f72b301023","type":"group","x":-1660,"y":-360,"width":1880,"height":720,"label":"Existing Resources"},
+		{"id":"88dcd3bbb1615ee3","type":"text","text":"# Resource Creation","x":-1600,"y":-1100,"width":420,"height":600},
+		{
+			"id":"501ce4da5d1126e8",
+			"type":"text",
+			"text":"# Navigation",
+			"styleAttributes":{},
+			"x":-1140,
+			"y":-1100,
+			"width":420,
+			"height":600
+		},
+		{
+			"id":"f06d3fc71870685e",
+			"type":"text",
+			"text":"# Contextualization",
+			"styleAttributes":{},
+			"x":-160,
+			"y":-1100,
+			"width":360,
+			"height":600
+		},
+		{
+			"id":"81246753b9254c14",
+			"type":"text",
+			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- ",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-1100,
+			"width":380,
+			"height":600
+		},
+		{"id":"d1ff314db8d74096","type":"text","text":"# Resource Creation","x":-1540,"y":-300,"width":420,"height":600},
 		{
 			"id":"c364f75c3c486ee5",
 			"type":"text",
 			"text":"# Navigation",
 			"styleAttributes":{},
-			"x":-1140,
-			"y":-380,
+			"x":-1080,
+			"y":-300,
 			"width":420,
+			"height":600
+		},
+		{
+			"id":"1961a931a9d25a2d",
+			"type":"text",
+			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- ",
+			"styleAttributes":{},
+			"x":-560,
+			"y":-300,
+			"width":380,
 			"height":600
 		},
 		{
@@ -17,19 +60,19 @@
 			"text":"# Contextualization",
 			"styleAttributes":{},
 			"x":-160,
-			"y":-380,
+			"y":-300,
 			"width":360,
 			"height":600
 		},
 		{
-			"id":"1961a931a9d25a2d",
+			"id":"b33a56be0b417998",
 			"type":"text",
-			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- ",
+			"text":"# Revisit\n- ZettelFl",
 			"styleAttributes":{},
-			"x":-620,
-			"y":-380,
-			"width":380,
-			"height":600
+			"x":-1420,
+			"y":540,
+			"width":440,
+			"height":320
 		}
 	],
 	"edges":[],
