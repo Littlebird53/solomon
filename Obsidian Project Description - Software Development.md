@@ -159,16 +159,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [Default Django page on translation](https://docs.djangoproject.com/en/6.0/topics/i18n/translation/):
 #### Obsidian Plugins
 - [ZettelFlow](https://community.obsidian.md/plugins/zettelflow): a huge collection of features including an interactive workflow coach VERY similar to what I want for syllabus builder. Allows "derived projects" which may support features like LongForm, in-folder organization. Vault health dashboards that calculate orphans, connectivity, weekly progress reports, tracks "knowledge-debt", MOC builder (doesn't do everything some want, but I'm not sure right now which we need), 3-D knowledge map, evidence map that sorts relationships by for/against, etc.
-- [Astro Theme](https://github.com/aitorllj93/astro-theme-spaceship): for making vault a static website, using Astro & TailwindCSS
-- [Track Changes](https://community.obsidian.md/plugins/track-changes): for accepting/rejecting suggestions directly in markdown
-- [Longform](https://community.obsidian.md/plugins/longform): for arranging other notes within a larger project via tabs and in manually set order (not alphanumeric, etc.). Could allow for arranging the different activities of a class across different tabs for units, weeks, etc. 
-- [Apex Dashboard](https://community.obsidian.md/plugins/apex-dashboard): could collect different classes in a single view, plus writing projects/assignments, calendar with due dates, and includes a Pomodoro timer and other relevant tools. Could probably also design a custom banner using a stable URL with different images, but ADVANCE or instructor gets to set the text in the image for announcements
-- [Screen.Garden](https://screen.garden/): a collaborative tool built to make Obsidian compete with Google Docs. Shutting down Sept. 01, 2026 and open-sourcing all the code. They cite some frustration dealing with Obsidian code which might be worth looking at, but the collaborative functionality would be super important to look at. They say currently the code requires AWS hosting but that could be changed.
-- [Vault CMS](https://vaultcms.org/): makes Obsidian into a Content Management System for Astro-built websites. Includes the Bases CMS plugin which allows bulk edit of properties used for publishing, draft, etc.
-- [Quizzable](https://community.obsidian.md/plugins/quizzable): allows interactive quizzes to be created and played in Obsidian. May send results somewhere else using an API. Def needs a nicer way to edit/make quizzes but could have some useful stuff.
-- [CBT-Exam](https://community.obsidian.md/plugins/cbt-exam): creates interactive, timed quizes with smart review, score history, flagged for review, and other features.
-- [LearnKit](https://community.obsidian.md/plugins/learnkit): a variety of features for study, spaced-review, flashcards, tests, workflows, etc. Also uses optional AI-chatbot assistant.
-- [Unseen Changes Dot](https://community.obsidian.md/plugins/unseen-changes-dot): adds colored dot to files that were updated since last opened. Would demonstrate how to flag changes since last view and could be leveraged for tracking translation changes. -- Might also be nice if I could flag changed paragraphs in documentation files for center staff.
 #### Biblical Language Tools
 - ???: Whatever necessary to make mouse-over Greek/Hebrew parsing work.
 - [Torah Verse Inserter](https://community.obsidian.md/plugins/torah-verse-inserter): inserts BH text with nikkud, allows search via Hebrew text or Latinized version, supports on-screen BH keyboard. Uses "Miqra according to the Masorah" text, from Aleppo Codex via Sefaria. Translations from Sefaria.
@@ -181,18 +171,7 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [Wordbook Layout](https://community.obsidian.md/plugins/wordbook-layout): not entirely sure but for vocab lists
 - [Makarios Studio](https://community.obsidian.md/plugins/makarios-studio): smart book mapper, auto-complete verse references, side-by-side Bible versions, 
 
-- Breadcrumbs:
-- Cornell Marginalia:
-- Omnisearch:
-- Dataview
-- Charts View
-- Charted Roots: allow genealogy-style tree display, charted movements on maps, and timeline creation. VERY cool and VERY useful for lots of different activities.; a simpler version is Grafily which only draws trees.
-- Share Note
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
-- Citations
-- Templater
-- Tag Wrangler
-
 #### Other Relevant
 - Possible to upload ADVANCE logo in every vault, see [here](https://tfthacker.com/experiment-vault-logo).
 - Speech Kit: allows natural, speech-to-text
