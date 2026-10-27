@@ -25,7 +25,7 @@
 		{
 			"id":"b33a56be0b417998",
 			"type":"text",
-			"text":"# Revisit\n- ZettelFlow\n- ",
+			"text":"# Plugins to Revisit\n- ZettelFlow\n- ",
 			"styleAttributes":{},
 			"x":-1420,
 			"y":540,
@@ -113,6 +113,16 @@
 			"y":-328,
 			"width":360,
 			"height":600
+		},
+		{
+			"id":"18d4395c108d6514",
+			"type":"text",
+			"text":"# Future Questions\n- Standardized treatment of the relationships between units\n\t- folder/\n1. ",
+			"styleAttributes":{},
+			"x":-580,
+			"y":540,
+			"width":360,
+			"height":320
 		}
 	],
 	"edges":[],
