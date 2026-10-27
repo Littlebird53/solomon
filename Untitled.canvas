@@ -37,7 +37,7 @@
 		{
 			"id":"c364f75c3c486ee5",
 			"type":"text",
-			"text":"# Navigation",
+			"text":"# Structure\n\n## Interface Navigation\n\n\n## Divisions between files/sections\n- Longform: manually set order of notes within a \"project\"",
 			"styleAttributes":{},
 			"x":-1080,
 			"y":-300,
@@ -67,7 +67,7 @@
 		{
 			"id":"1961a931a9d25a2d",
 			"type":"text",
-			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- ",
+			"text":"# Writing & Maintenance\n- Track Changes: accept/reject suggestions\n- ",
 			"styleAttributes":{},
 			"x":-580,
 			"y":-300,
