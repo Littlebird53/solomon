@@ -66,7 +66,7 @@
 		{
 			"id":"1970226e2cb4f746",
 			"type":"text",
-			"text":"# Maintenance\n## Writing\n- **Track Changes:** accept/reject suggestions\n- **Screen Garden:** Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties\n- Citations: \n- **Templater:** \n- Speech Kit: speech-to-text\n- Handwriting: enter handwritten text in blocks from pen inputs\n- Note Toolbar: context-aware toolbars with MS Word with more formatting options available with a click; good for tables, slides, charts, etc.\n- Hover Editor: allows editing in preview window\n- Dragger: drag/drop paragraphs, blocks, etc.\n\n## Import, Export, Sharing\n- Share Note\n- Pandoc\n- \n## Behind the Scenes\n- **Dataview:** still supports more queries than Bases\n- **Tag Wrangler:** bulk tag editing\n- **Lazy Loader:** delays plugin loading to keep start up from getting too long\n- **Find Unlinked Files:** find broken links, orphans, unlinked files (dead ends)\n- **Metaedit:** bulk edit properties (like Vault CMS), hide select properties\n- Update Modified Date: (replaced in Obsidian?)\n- Vault Changelog: does this bring the git record inside Obsidian?\n- Time Things: put cumulative edit time in properties\n- Yearly Glance: only shows events\n- Authorship tracker",
+			"text":"# Maintenance\n## Writing\n- **Track Changes:** accept/reject suggestions\n- **Screen Garden:** Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties\n- Citations: \n- **Templater:** \n- Speech Kit: speech-to-text\n- Handwriting: enter handwritten text in blocks from pen inputs\n- Note Toolbar: context-aware toolbars with MS Word with more formatting options available with a click; good for tables, slides, charts, etc.\n- Hover Editor: allows editing in preview window\n- Dragger: drag/drop paragraphs, blocks, etc.\n\n## Import, Export, Sharing\n- Share Note\n- Pandoc\n- \n## Behind the Scenes\n- **Dataview:** still supports more queries than Bases\n- **Tag Wrangler:** bulk tag editing\n- **Lazy Loader:** delays plugin loading to keep start up from getting too long\n- **Find Unlinked Files:** find broken links, orphans, unlinked files (dead ends)\n- Knowledge Regression: specify complex query tests that identify broken links, dead ends, orphans, etc.\n- **Metaedit:** bulk edit properties (like Vault CMS), hide select properties\n- Update Modified Date: (replaced in Obsidian?)\n- Vault Changelog: does this bring the git record inside Obsidian?\n- Time Things: put cumulative edit time in properties\n- Yearly Glance: only shows events\n- Authorship tracker",
 			"styleAttributes":{},
 			"x":40,
 			"y":-328,
@@ -87,7 +87,7 @@
 		{
 			"id":"1b4fbd413c2c2799",
 			"type":"text",
-			"text":"# Design\n\n- Wizard: make choices, insert text into editable note once wizard ",
+			"text":"# Design\n\n- Wizard: make choices, insert text into editable note once wizard is done\n- ",
 			"styleAttributes":{},
 			"x":-1170,
 			"y":-328,

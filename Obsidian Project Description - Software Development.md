@@ -173,27 +173,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 #### Other Relevant
-- Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, tables, slides, etc. easier for centers. Context-aware.
-- Periodic Calendar: could be used for journals for TFE
-- Tabs: allow displaying note material in tabs for examples, more content without scrolling, hide/reveal options, tab alternation between different queries/bases like a switch or for comparison
-- Find Unlinked Files: for identifying unlinked, broken links, orphans, etc.
-- CosmoGraph 3D: replaces the unbounded canvas of OEM Graph view with a planet shape which limits total surface area. Groups notes by folders (wouldn't work for Zettelkasten). Creates arbitrary but permanent geographic features on the planet to aid spatial memorization -- need to replace this with something else but the idea is huge!
-- Waypoint: automatically create/update a Map-of-Content (MOC) based on folders, adds folders to graph view, but allows treating folders differently by specification. Waypoints all things to appear in folders or as-if in folders they don't actually live in. -- THIS would actually work for Zettelkasten. Also, folders nest unlike tags and properties (type/subtype)
-- JustFTables / Structural Tables / Advanced Tables: allows merging cells in tables
-- Creases: allows designated collapses outside of heading levels and auto-collapsing on command
-- Hover Editor: allows preview-editing
-- Dragger: allow drag/drop paragraphs, blocks, etc.
-- Tracker: creates visual graphs/charts from queries across your vault -- great for visualizing occurrences of learning objectives, type of activities, course/reading distributions, etc.
-- Metaedit: allow bulk editing properties, selection from list, hide certain properties, 
-- Update modified date: self-explanatory
-- Vault Changelog: self-explanatory
-- Time Things: records time spent editing each doc
-- Pomodoro Timer:
-- Full Calendar Remastered: syncs with Google Calendar and CalDAV, also pulls from journals and daily notes, ICS files, and more. 
-- Yearly Glance: annual calendar view for events only. -- Could be helpful for office planning.
-- Goto Position: creates a short-cut for top or bottom of page. -- Useful for docs with navigation/structure at the top, or when jumping to backlinks maybe?
-- Authorship Tracker: 
-- Wizard: inserts text/choices directly into the note, which is directly editable after the wizard is completed. -- SYLLABUS BUILDER!
 - Knowledge Regression: allows specifying tests for the vault that must pass or an error is thrown. Can identify broken links, orphans, etc.
 - Fold Properties by Default: 
 - Markdown Chat Blocks: for creating artificial conversations, make speaker tracking clear, simulated dialogues, responses, etc.
