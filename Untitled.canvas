@@ -87,11 +87,11 @@
 		{
 			"id":"2315e12a547fd062",
 			"type":"text",
-			"text":"# Core Values",
+			"text":"# Core Values\n- Easy to use\n- Easy to maintain at scale\n\n\n\n\nEasy to Use: There are many different parts of this",
 			"styleAttributes":{},
-			"x":-1450,
+			"x":-580,
 			"y":-1640,
-			"width":500,
+			"width":520,
 			"height":380
 		}
 	],
