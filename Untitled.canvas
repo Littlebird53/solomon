@@ -1,24 +1,13 @@
 {
 	"nodes":[
-		{"id":"addb1f80c3fc7026","type":"group","x":-1640,"y":-1160,"width":1880,"height":720,"label":"Features"},
+		{"id":"addb1f80c3fc7026","type":"group","x":-1640,"y":-1160,"width":2100,"height":720,"label":"Features"},
 		{"id":"110818f72b301023","type":"group","x":-1660,"y":-360,"width":1880,"height":720,"label":"Existing Resources"},
-		{"id":"88dcd3bbb1615ee3","type":"text","text":"# Teaching","x":-1600,"y":-1100,"width":420,"height":600},
-		{
-			"id":"501ce4da5d1126e8",
-			"type":"text",
-			"text":"# UX / Structu\n\n## Interface Navigation\n\n\n## Homepage\n- easiest access to active courses\n- access to previous courses\n- direct access to assignments\n- calendar with due dates & class meetings\n\n## Division between notes/sections\n",
-			"styleAttributes":{},
-			"x":-1140,
-			"y":-1100,
-			"width":420,
-			"height":600
-		},
 		{
 			"id":"f06d3fc71870685e",
 			"type":"text",
-			"text":"# Contextualization",
+			"text":"# Modify",
 			"styleAttributes":{},
-			"x":-160,
+			"x":-340,
 			"y":-1100,
 			"width":360,
 			"height":600
@@ -28,7 +17,7 @@
 			"type":"text",
 			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- Vault Health Dashboards: orphans, stubs, links to uncreated notes, % unpublished, recently modified, most used (?), last published",
 			"styleAttributes":{},
-			"x":-620,
+			"x":60,
 			"y":-1100,
 			"width":380,
 			"height":600
@@ -93,6 +82,27 @@
 			"y":-1620,
 			"width":520,
 			"height":380
+		},
+		{
+			"id":"501ce4da5d1126e8",
+			"type":"text",
+			"text":"# UX\n\n## Interface Navigation\n\n\n## Homepage\n- easiest access to active courses\n- access to previous courses\n- direct access to assignments\n- calendar with due dates & class meetings\n\n## Division between notes/sections\n",
+			"styleAttributes":{},
+			"x":-1610,
+			"y":-1100,
+			"width":420,
+			"height":600
+		},
+		{"id":"88dcd3bbb1615ee3","type":"text","text":"# Teaching","x":-760,"y":-1100,"width":400,"height":600},
+		{
+			"id":"1daa8fb50e7fc2a5",
+			"type":"text",
+			"text":"# Design",
+			"styleAttributes":{},
+			"x":-1150,
+			"y":-1100,
+			"width":360,
+			"height":600
 		}
 	],
 	"edges":[],
