@@ -66,7 +66,7 @@
 		{
 			"id":"1970226e2cb4f746",
 			"type":"text",
-			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- Screen Garden: Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties",
+			"text":"# Maintenance\n## Writing\n- Track Changes: accept/reject suggestions\n- Screen Garden: Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties\n\n## Navigation\n\n\n## Appearance\n- Unseen Changes Dot: marks files that have been updated, might be nice to let students/centers see, especially for documentation\n- ",
 			"styleAttributes":{},
 			"x":40,
 			"y":-328,
@@ -83,7 +83,7 @@
 			"width":420,
 			"height":600
 		},
-		{"id":"885c809d3326a67b","type":"text","text":"# Teaching\n## Content\n\n\n\n## Assignments\n- Quizzes:\n\t- Quizzable","x":-780,"y":-328,"width":400,"height":600},
+		{"id":"885c809d3326a67b","type":"text","text":"# Teaching\n## Content\n\n\n\n## Assignments\n- Quizzes:\n\t- Quizzable\n\t- CBT-Exam: smart review, score history, flagged for review\n\t- LearnKit: spaced-repetition, flashcards, tests\n\t- ","x":-780,"y":-328,"width":400,"height":600},
 		{
 			"id":"1b4fbd413c2c2799",
 			"type":"text",
