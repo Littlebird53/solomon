@@ -173,15 +173,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 #### Other Relevant
-- Story Line: could be rigged for super creative maps, graphs, views between learning activities, objectives, resources, etc. -- FOR SYLLABUS BUILDER
-- Folder Nodes: makes each folder a "node" with the other files represented graphically inside it as projects, albums, etc. Can view spatially or linearly (like a MOC). An option for organizing content conceptually, mind-map like, while also allowing different groupings. Since this is neither perfectly sequential (task-oriented) or conceptual (mind map), it might be best used for curriculum, rather than course or concept mapping.
-- Single File Section Cards: allows viewing each header of a document in a spatial, card, view with edit and rearrange power. Can make kanban boards within a single note, rather than as separate things. -- This could come in handy for other projects where we don't have to create separate notes, but I expect separate files is good most of the time.
-- Lazy Loader: delays plugin loading to make the main program load quicker
-- Mermaid Tools / Kroki / : markdown diagram tools, not sure which is best. Don't seem to offer easy editing (w/o accessing source code) which would be great for centers. Static (pdf, svg, etc.) and component export would be great.
-- Slideshow: 
-- Flash Cards: 
-- Excalibrain: mindmap tool using links from notes, replaces Breadcrumbs
-- Callout Tracker: collect matching type callouts in a single list while preserving their location throughout the note, e.g. for discussion questions, research topics, definitions, big ideas, etc. // Super helpful!
 - Mix Folders and Files: allow sorting equally by name.
 - : document conversion tools
 - Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, tables, slides, etc. easier for centers. Context-aware.
