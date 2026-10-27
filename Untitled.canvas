@@ -66,7 +66,7 @@
 		{
 			"id":"1970226e2cb4f746",
 			"type":"text",
-			"text":"# Maintenance\n## Writing\n- Track Changes: accept/reject suggestions\n- Screen Garden: Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties\n\n\n- ",
+			"text":"# Maintenance\n## Writing\n- Track Changes: accept/reject suggestions\n- Screen Garden: Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- Vault CMS: easily bulk update properties\n\n## Behind the Scenes\n- Dataview: still supports more queries than Bases\n- ",
 			"styleAttributes":{},
 			"x":40,
 			"y":-328,
@@ -76,14 +76,14 @@
 		{
 			"id":"b245af463a03a886",
 			"type":"text",
-			"text":"# UX\n\n## Interface Navigation\n- Omnisearch: search text within notes, results are unusually messy and unprioritized\n\n## Homepage\n- Apex Dashboard: classes, projects, calendar, Pomodoro timer\n\n## Division between notes/sections\n- Longform: allows manually setting order of files within a \"project\"\n- Breadcrumbs: different relationships between notes by classes in metadata, can be slow, displays in dedicated side-bar which I don't really love.\n## Appearance\n- Unseen Changes Dot: marks files that have been updated, might be nice to let students/centers see, especially for documentation\n- Cornell Marginalia: add marginal notes, great; but makes cursor freak out with arrow key use (Heather didn't have this problem)\n\n",
+			"text":"# UX\n\n## Interface Navigation\n- Omnisearch: search text within notes, results are still unusually messy and unprioritized\n\n## Homepage\n- Apex Dashboard: classes, projects, calendar, Pomodoro timer\n\n## Division between notes/sections\n- Longform: allows manually setting order of files within a \"project\"\n- Breadcrumbs: different relationships between notes by classes in metadata, can be slow, displays in dedicated side-bar which I don't really love.\n## Appearance\n- Unseen Changes Dot: marks files that have been updated, might be nice to let students/centers see, especially for documentation\n- Cornell Marginalia: add marginal notes, great; but makes cursor freak out with arrow key use (Heather didn't have this problem)\n\n",
 			"styleAttributes":{},
 			"x":-1630,
 			"y":-328,
 			"width":420,
 			"height":600
 		},
-		{"id":"885c809d3326a67b","type":"text","text":"# Teaching\n## Content\n\n\n\n## Assignments\n- Quizzes:\n\t- Quizzable\n\t- CBT-Exam: smart review, score history, flagged for review\n\t- LearnKit: spaced-repetition, flashcards, tests\n\n\n## Biblical Language Tools\n- Torah Verse Inserter: inserts in textblock, Aleppo Codex text via Sefaria, \n- Diacritics-Free Search: I think this feature got added in a recent update for all Obsidian\n- YouVersion Linker: \n- The Scripture Injector: inserts as callout, supports ESV if you input your own free API key\n- RTL Support: sets notes to RTL/LTR; also possibly replaced by general update\n- Wordbook Layout: ??, for vocab\n- Makarios: \"smart book mapper\"?, auto-complete verse references, side-by-side Bible versions\n- Bible Search: translations, cross-references, maps, church history family tree\n- ","x":-780,"y":-328,"width":400,"height":600},
+		{"id":"885c809d3326a67b","type":"text","text":"# Teaching\n## Content\n\n\n\n## Assignments\n- Quizzes:\n\t- Quizzable\n\t- CBT-Exam: smart review, score history, flagged for review\n\t- LearnKit: spaced-repetition, flashcards, tests\n- Maps:\n\t- Maps\n\t- Leaflet\n\t- Map View\n- Family Tree\n\n\n## Biblical Language Tools\n- Torah Verse Inserter: inserts in textblock, Aleppo Codex text via Sefaria, \n- Diacritics-Free Search: I think this feature got added in a recent update for all Obsidian\n- YouVersion Linker: \n- The Scripture Injector: inserts as callout, supports ESV if you input your own free API key\n- RTL Support: sets notes to RTL/LTR; also possibly replaced by general update\n- Wordbook Layout: ??, for vocab\n- Makarios: \"smart book mapper\"?, auto-complete verse references, side-by-side Bible versions\n- Bible Search: translations, cross-references, maps, church history family tree\n- ","x":-780,"y":-328,"width":400,"height":600},
 		{
 			"id":"1b4fbd413c2c2799",
 			"type":"text",
