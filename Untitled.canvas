@@ -40,17 +40,19 @@
 			"x":-580,
 			"y":-1640,
 			"width":520,
-			"height":380
+			"height":180,
+			"color":"6"
 		},
 		{
 			"id":"80758ccde7f6226a",
 			"type":"text",
 			"text":"# Design Principles\n1. Functionality Over Familiarity\n2. Proprietary In, Open Out\n3. 1 Source, Many Derivatives\n4. High Structure, Low Constraints\n5. 1 Process, Many Resources\n6. Layered Optionality for Zombies & Rebels",
-			"styleAttributes":{},
-			"x":-1240,
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-1300,
 			"y":-1620,
-			"width":520,
-			"height":380
+			"width":580,
+			"height":380,
+			"color":"6"
 		},
 		{
 			"id":"501ce4da5d1126e8",
@@ -137,11 +139,11 @@
 		{
 			"id":"5106a9645759a150",
 			"type":"text",
-			"text":"# Software & Pricing Trade-offs\nIn order to continue to offer reduced pricing and increased software support, ADVANCE requests the follow 3 things from Centers:\n- (-) perform any remaining manual data entry tasks\n- (+) try to improve at least 1 thing about your center\n- (+) use the time and",
+			"text":"# Software & Pricing Trade-offs\nIn order to continue to offer reduced pricing and increased software support, ADVANCE requests the follow 3 things from Centers:\n- (-) perform any remaining manual data entry tasks\n- (+) try to improve at least 1 thing about your center\n- (+) use some of the time and money you save for Jesus",
 			"styleAttributes":{},
 			"x":-1580,
 			"y":920,
-			"width":460,
+			"width":480,
 			"height":260
 		}
 	],
