@@ -87,7 +87,7 @@
 		{
 			"id":"2315e12a547fd062",
 			"type":"text",
-			"text":"# Core Values\n1. Accesible\n\t- language\n\t- ease of use\n\t- familiarity\n\t- tech support\n\t- flexibility\n\t- mouse & keyboard support\n\t- hardware sensitive (light)\n2. Comprehensive\n3. Helpful\n4. Scaleable",
+			"text":"# Core Values\n1. **Accessible**\n\t- language\n\t- ease of use\n\t- familiarity\n\t- tech support\n\t- flexibility\n\t- mouse & keyboard support\n\t- hardware sensitive (light)\n\t- \n2. Comprehensive\n\t- wide swath of features integrated into 1 tool\n\t- \n3. Helpful\n4. Scaleable",
 			"styleAttributes":{},
 			"x":-580,
 			"y":-1640,
