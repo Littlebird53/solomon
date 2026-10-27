@@ -169,7 +169,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [CBT-Exam](https://community.obsidian.md/plugins/cbt-exam): creates interactive, timed quizes with smart review, score history, flagged for review, and other features.
 - [LearnKit](https://community.obsidian.md/plugins/learnkit): a variety of features for study, spaced-review, flashcards, tests, workflows, etc. Also uses optional AI-chatbot assistant.
 - [Unseen Changes Dot](https://community.obsidian.md/plugins/unseen-changes-dot): adds colored dot to files that were updated since last opened. Would demonstrate how to flag changes since last view and could be leveraged for tracking translation changes. -- Might also be nice if I could flag changed paragraphs in documentation files for center staff.
-- 
 #### Biblical Language Tools
 - ???: Whatever necessary to make mouse-over Greek/Hebrew parsing work.
 - [Torah Verse Inserter](https://community.obsidian.md/plugins/torah-verse-inserter): inserts BH text with nikkud, allows search via Hebrew text or Latinized version, supports on-screen BH keyboard. Uses "Miqra according to the Masorah" text, from Aleppo Codex via Sefaria. Translations from Sefaria.
@@ -181,8 +180,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 - [RTL Support](https://community.obsidian.md/plugins/obsidian-rtl): sets individual documents to LTR/RTL.
 - [Wordbook Layout](https://community.obsidian.md/plugins/wordbook-layout): not entirely sure but for vocab lists
 - [Makarios Studio](https://community.obsidian.md/plugins/makarios-studio): smart book mapper, auto-complete verse references, side-by-side Bible versions, 
-
-
 
 - Breadcrumbs:
 - Cornell Marginalia:
