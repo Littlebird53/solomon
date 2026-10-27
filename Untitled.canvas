@@ -1,6 +1,31 @@
 {
 	"nodes":[
-		{"id":"d1ff314db8d74096","x":-780,"y":-260,"width":250,"height":330,"type":"text","text":"**Resource Creation**"}
+		{"id":"e33000e79d3694f5","x":-847,"y":-123,"width":260,"height":60,"type":"text","text":""},
+		{"id":"d1ff314db8d74096","type":"text","text":"# Resource Creation","x":-1420,"y":-380,"width":320,"height":330},
+		{
+			"id":"c364f75c3c486ee5",
+			"type":"text",
+			"text":"# Navigation",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":-380,
+			"width":320,
+			"height":330
+		},
+		{
+			"id":"1961a931a9d25a2d",
+			"type":"text",
+			"text":"# Maintenance\n",
+			"styleAttributes":{},
+			"x":-600,
+			"y":-380,
+			"width":320,
+			"height":330
+		}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }
