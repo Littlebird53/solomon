@@ -6,7 +6,7 @@
 		{
 			"id":"501ce4da5d1126e8",
 			"type":"text",
-			"text":"# Navigation",
+			"text":"# Structure\n\n## Interface Navigation\n\n\n## Homepage\n- \n\n## Division between notes/sections\n",
 			"styleAttributes":{},
 			"x":-1140,
 			"y":-1100,
@@ -37,7 +37,7 @@
 		{
 			"id":"c364f75c3c486ee5",
 			"type":"text",
-			"text":"# Structure\n\n## Interface Navigation\n\n\n## Divisions between files/sections\n- Longform: manually set order of notes within a \"project\"",
+			"text":"# Structure\n\n## Interface Navigation\n\n\n## Home Page\n- Apex Dashboard: classes, assignments, calendar, Pomodoro timer, etc.\n\n\n## Divisions between files/sections\n- Longform: manually set order of notes within a \"project\"",
 			"styleAttributes":{},
 			"x":-1080,
 			"y":-300,
