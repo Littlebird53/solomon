@@ -173,8 +173,6 @@ I think all of the metadata required, file formats, links, notes, etc. can be ha
 
 - Maps / Leaflet / Map View: see partial comparison [here](https://esm7.github.io/obsidian-map-view/vs-obsidian-maps.html).
 #### Other Relevant
-- Mix Folders and Files: allow sorting equally by name.
-- : document conversion tools
 - Note Toolbar: customizable toolbar within notes for easy shortcuts and clickable options. A more robust set of clickable, visual options would make editing graphs, tables, slides, etc. easier for centers. Context-aware.
 - Periodic Calendar: could be used for journals for TFE
 - Tabs: allow displaying note material in tabs for examples, more content without scrolling, hide/reveal options, tab alternation between different queries/bases like a switch or for comparison
