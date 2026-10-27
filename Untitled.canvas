@@ -6,7 +6,7 @@
 		{
 			"id":"501ce4da5d1126e8",
 			"type":"text",
-			"text":"# Structure\n\n## Interface Navigation\n\n\n## Homepage\n- \n\n## Division between notes/sections\n",
+			"text":"# Structure\n\n## Interface Navigation\n\n\n## Homepage\n- easiest access to active courses\n- access to previous courses\n- direct access to assignments\n- calendar with due dates & class meetings\n\n## Division between notes/sections\n",
 			"styleAttributes":{},
 			"x":-1140,
 			"y":-1100,
@@ -73,6 +73,26 @@
 			"y":-300,
 			"width":380,
 			"height":600
+		},
+		{
+			"id":"80758ccde7f6226a",
+			"type":"text",
+			"text":"# Design Principles",
+			"styleAttributes":{},
+			"x":-1450,
+			"y":-1640,
+			"width":520,
+			"height":380
+		},
+		{
+			"id":"2315e12a547fd062",
+			"type":"text",
+			"text":"# Core Values",
+			"styleAttributes":{},
+			"x":-1450,
+			"y":-1640,
+			"width":500,
+			"height":380
 		}
 	],
 	"edges":[],
