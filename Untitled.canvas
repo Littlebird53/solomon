@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"addb1f80c3fc7026","type":"group","x":-1640,"y":-1160,"width":2100,"height":720,"label":"Features"},
-		{"id":"110818f72b301023","type":"group","x":-1660,"y":-360,"width":1880,"height":720,"label":"Existing Resources"},
+		{"id":"fe042c66b87d1558","type":"group","x":-1640,"y":-360,"width":2100,"height":680,"label":"Plugins"},
 		{
 			"id":"f06d3fc71870685e",
 			"type":"text",
@@ -22,27 +22,6 @@
 			"width":380,
 			"height":600
 		},
-		{"id":"d1ff314db8d74096","type":"text","text":"# Resource Creation","x":-1540,"y":-300,"width":420,"height":600},
-		{
-			"id":"c364f75c3c486ee5",
-			"type":"text",
-			"text":"# Structure\n\n## Interface Navigation\n\n\n## Home Page\n- Apex Dashboard: classes, assignments, calendar, Pomodoro timer, etc.\n\n\n## Divisions between files/sections\n- Longform: manually set order of notes within a \"project\"",
-			"styleAttributes":{},
-			"x":-1080,
-			"y":-300,
-			"width":420,
-			"height":600
-		},
-		{
-			"id":"e33000e79d3694f5",
-			"type":"text",
-			"text":"# Contextualization",
-			"styleAttributes":{},
-			"x":-160,
-			"y":-300,
-			"width":360,
-			"height":600
-		},
 		{
 			"id":"b33a56be0b417998",
 			"type":"text",
@@ -52,16 +31,6 @@
 			"y":540,
 			"width":440,
 			"height":320
-		},
-		{
-			"id":"1961a931a9d25a2d",
-			"type":"text",
-			"text":"# Writing & Maintenance\n- Track Changes: accept/reject suggestions\n- ",
-			"styleAttributes":{},
-			"x":-580,
-			"y":-300,
-			"width":380,
-			"height":600
 		},
 		{
 			"id":"2315e12a547fd062",
@@ -101,6 +70,47 @@
 			"styleAttributes":{},
 			"x":-1150,
 			"y":-1100,
+			"width":360,
+			"height":600
+		},
+		{
+			"id":"99253c0a42f9e800",
+			"type":"text",
+			"text":"# Modify",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-328,
+			"width":360,
+			"height":600
+		},
+		{
+			"id":"1970226e2cb4f746",
+			"type":"text",
+			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- Vault Health Dashboards: orphans, stubs, links to uncreated notes, % unpublished, recently modified, most used (?), last published",
+			"styleAttributes":{},
+			"x":40,
+			"y":-328,
+			"width":380,
+			"height":600
+		},
+		{
+			"id":"b245af463a03a886",
+			"type":"text",
+			"text":"# UX\n\n## Interface Navigation\n\n\n## Homepage\n- Apex Dashboard: classes, projects, calendar, Pomodoro timer\n\n## Division between notes/sections\n- Longform: allows manually setting order of files within a \"project\"\n- \n\n",
+			"styleAttributes":{},
+			"x":-1630,
+			"y":-328,
+			"width":420,
+			"height":600
+		},
+		{"id":"885c809d3326a67b","type":"text","text":"# Teaching","x":-780,"y":-328,"width":400,"height":600},
+		{
+			"id":"1b4fbd413c2c2799",
+			"type":"text",
+			"text":"# Design",
+			"styleAttributes":{},
+			"x":-1170,
+			"y":-328,
 			"width":360,
 			"height":600
 		}
