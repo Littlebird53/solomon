@@ -33,28 +33,6 @@
 			"height":320
 		},
 		{
-			"id":"2315e12a547fd062",
-			"type":"text",
-			"text":"# Core Values\n1. **Accessible**\n\t- language\n\t- ease of use\n\t- familiarity\n\t- tech support\n\t- flexibility\n\t- mouse & keyboard support\n\t- hardware sensitive (light)\n2. **Comprehensive**\n\t- wide swath of features integrated into 1 tool\n\t- incorporate as many parts of the educational process as possible\n\t- accommodate all use cases\n3. **Helpful**\n\t- efficiency\n\t- improvement\n\t- innovation\n\t- transparency\n4. **Scaleable**\n\t- single structure\n\t- fixed costs only (no per user, per use)\n\t- low tech maintenance skills\n\t- distributed oversight",
-			"styleAttributes":{},
-			"x":-580,
-			"y":-1640,
-			"width":520,
-			"height":180,
-			"color":"6"
-		},
-		{
-			"id":"80758ccde7f6226a",
-			"type":"text",
-			"text":"# Design Principles\n1. Functionality Over Familiarity\n2. Proprietary In, Open Out\n3. 1 Source, Many Derivatives\n4. High Structure, Low Constraints\n5. 1 Process, Many Resources\n6. Layered Optionality for Zombies & Rebels",
-			"styleAttributes":{"textAlign":"center","shape":"pill"},
-			"x":-1300,
-			"y":-1620,
-			"width":580,
-			"height":380,
-			"color":"6"
-		},
-		{
 			"id":"501ce4da5d1126e8",
 			"type":"text",
 			"text":"# UX\n\n## Interface Navigation\n\n\n## Homepage\n- easiest access to active courses\n- access to previous courses\n- direct access to assignments\n- calendar with due dates & class meetings\n\n## Division between notes/sections\n",
@@ -145,6 +123,31 @@
 			"y":920,
 			"width":480,
 			"height":260
+		},
+		{
+			"id":"80758ccde7f6226a",
+			"type":"text",
+			"text":"# Design Principles\n1. **Functionality Over Familiarity**\n2. **Proprietary In, Open Out**\n3. **1 Source, Many Derivatives**\n4. **High Structure, Low Constraints**\n5. **1 Process, Many Resources**\n6. **Layered Optionality for Zombies & Rebels**",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-1300,
+			"y":-1550,
+			"width":380,
+			"height":260,
+			"color":"6"
+		},
+		{
+			"id":"2315e12a547fd062",
+			"type":"text",
+			"text":"# Core Values\n1. **Accessible**\n\t- language\n\t- ease of use\n\t- familiarity\n\t- tech support\n\t- flexibility\n\t- mouse & keyboard support\n\t- hardware sensitive (light)\n2. **Comprehensive**\n\t- wide swath of features integrated into 1 tool\n\t- incorporate as many parts of the educational process as possible\n\t- accommodate all use cases\n3. **Helpful**\n\t- efficiency\n\t- improvement\n\t- innovation\n\t- transparency\n4. **Scaleable**\n\t- single structure\n\t- fixed costs only (no per user, per use)\n\t- low tech maintenance skills\n\t- distributed oversight",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-360,
+			"y":-1510,
+			"width":240,
+			"height":220,
+			"color":"6"
 		}
 	],
 	"edges":[],
