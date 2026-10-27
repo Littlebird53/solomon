@@ -127,7 +127,7 @@
 		{
 			"id":"80075620b607cff6",
 			"type":"text",
-			"text":"# Write-up\nThe system will change we design, teach, and improve educational experiences through promoting increased efficiency, quality, and transparency.\n\nThe system has multiple, worthy ends and, in order to make use as easy as possible, allows multiple paths to accomplish those ends. Each additional path makes the system easier because it reduces constraints but adds complexity. To maximize the value of each path, every designed path has a unique start and end location",
+			"text":"# Write-up\nThe system will change we design, teach, and improve educational experiences through promoting increased efficiency, quality, and transparency.\n\nThe system has multiple, worthy ends and, in order to make use as easy as possible, allows multiple paths to accomplish those ends. Each additional path makes the system easier because it reduces constraints but adds complexity. To maximize the value of each path, every designed path has a unique start and end location. Effectively, there are 2 kinds of paths: main paths and short-cuts. Main paths begin from a centralized location and are clearly oriented around key tasks. Short-cuts move between end or intermediate stages and are useful when completing related, sequential tasks",
 			"styleAttributes":{},
 			"x":0,
 			"y":480,
