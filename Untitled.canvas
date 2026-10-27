@@ -66,7 +66,7 @@
 		{
 			"id":"1970226e2cb4f746",
 			"type":"text",
-			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- Vault Health Dashboards: orphans, stubs, links to uncreated notes, % unpublished, recently modified, most used (?), last published",
+			"text":"# Maintenance\n- Track Changes: accept/reject suggestions\n- Screen Garden: Google Docs style collaboration, fine tuned permissions -> scheduled to be open by Sept. 26, but no update yet\n- ",
 			"styleAttributes":{},
 			"x":40,
 			"y":-328,
