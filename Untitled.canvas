@@ -97,7 +97,7 @@
 		{
 			"id":"18d4395c108d6514",
 			"type":"text",
-			"text":"# Future Questions\n- Standardized treatment of the relationships between units \n\t- Relationship Indicators: folder, type, subtype, tag, link\n\t- Magnitude: book, chapter, note, summary, header, section, tip\n\t- File Type: text, image, video, slideshow, audio\n\t- Task: reading, lecture, assignment, assessment, discussion\n\t- Visual Layout: horizontal, vertical, embedded, hidden/reveal, sequential\n\t- \nReading: https://www.nngroup.com/articles/formatting-long-form-content/?lm=text-scanning-patterns-eyetracking&pt=article; ",
+			"text":"# Future Questions\n- Standardized treatment of the relationships between units \n\t- Relationship Indicators: folder, type, subtype, tag, link\n\t- Magnitude: book, chapter, note, summary, header, section, tip\n\t- File Type: text, image, video, slideshow, audio\n\t- Task: reading, lecture, assignment, assessment, discussion\n\t- Visual Layout: horizontal, vertical, embedded, hidden/reveal, sequential\n\t- \nReading: https://www.nngroup.com/articles/formatting-long-form-content/?lm=text-scanning-patterns-eyetracking&pt=article; \n\n- Best available, yet acceptable\n- Hick's Law: more options = more time/effort",
 			"styleAttributes":{},
 			"x":-810,
 			"y":480,
