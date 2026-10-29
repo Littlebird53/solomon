@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "skin": null,
+  "skin": "sketch",
   "view": {
     "x": 428,
     "y": 133,
@@ -14,7 +14,7 @@
       "y": 0,
       "w": 900,
       "h": 600,
-      "value": "Projects | app.example.com/projects"
+      "value": "JOSEPH | joseph.gs.edu/account/login"
     }
   ],
   "links": []
