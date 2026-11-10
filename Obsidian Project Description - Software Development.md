@@ -133,6 +133,10 @@ We need a system that
 - how-to access limited by account type (guest, student, instructor, admin) without requiring the creation and management of separate documents
 - 
 
+### Paper Document Structured OCR Import
+(This is totally unrelated to other requests)
+We need to get all info entered digitally, without requiring all students to work digitally due to technology and language constraints. 
+
 # Draft Database Structure
 I think all of the metadata required, file formats, links, notes, etc. can be handled in an Obsidian vault. This will provide
 
