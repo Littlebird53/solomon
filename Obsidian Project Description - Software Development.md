@@ -135,7 +135,7 @@ We need a system that
 
 ### Paper Document Structured OCR Import
 (This is totally unrelated to other requests)
-We need to get all info entered digitally, without requiring all students to work digitally due to technology and language constraints. 
+We need to get all info entered digitally, without requiring all students to work digitally due to technology and language constraints. One option is to create a structured OCR-friendly paper form design that centers can print, have students complete, then scan and edit the results before submitting to JOSEPH in bulk. A form with clearly marked, consistently located fields with editable labels would allow a center to translate the labels without disrupting the form. They could distribute paper copies to students, then scan each form which woul
 
 # Draft Database Structure
 I think all of the metadata required, file formats, links, notes, etc. can be handled in an Obsidian vault. This will provide
