@@ -133,9 +133,10 @@ We need a system that
 - how-to access limited by account type (guest, student, instructor, admin) without requiring the creation and management of separate documents
 - 
 
-### Paper Document Structured OCR Import
+#### Paper Document Structured OCR Import
 (This is totally unrelated to other requests)
-We need to get all info entered digitally, without requiring all students to work digitally due to technology and language constraints. One option is to create a structured OCR-friendly paper form design that centers can print, have students complete, then scan and edit the results before submitting to JOSEPH in bulk. A form with clearly marked, consistently located fields with editable labels would allow a center to translate the labels without disrupting the form. They could distribute paper copies to students, then scan each form which would OCR the written responses and enter them into separate digital fields. The inputter could modify results for when the OCR is incorrect, and then scan another form. 
+We need to get all info entered digitally, without requiring all students to work digitally due to technology and language constraints. One option is to create a structured OCR-friendly paper form design that centers can print, have students complete, then scan and edit the results before submitting to JOSEPH in bulk. A form with clearly marked, consistently located fields with editable labels would allow a center to translate the labels without disrupting the form. They could distribute paper copies to students, then scan each form which would OCR the written responses and enter them into separate digital fields. The inputter could modify results for when the OCR is incorrect, and then scan another form. (Perhaps, bulk submission of a batched pdf is better, but would need 1 page, ordered, or doubly-labeled forms).
+Hmm... How much of this can I get with an excel import template? How many centers really need individual forms for students and can't use 1 ent
 
 # Draft Database Structure
 I think all of the metadata required, file formats, links, notes, etc. can be handled in an Obsidian vault. This will provide
