@@ -134,7 +134,7 @@ We need a system that
 - 
 
 #### "Do 1 Thing" -- Random Note
-A bit like loading tips or "Feeling Lucky?", I want to make it super easy for instructors to do/read 1 thing to improve their teaching from within JOSEPH, whether it be about content or pedagogy. One click (or Home page) for "Do 1 Thing "
+A bit like loading tips or "Feeling Lucky?", I want to make it super easy for instructors to do/read 1 thing to improve their teaching from within JOSEPH, whether it be about content or pedagogy. One click (or Home page) for "Improve 1 Thing", which gives general options: in my field/courses, about teaching, that give the instructor something new from each of those categories for as long as there is something new. All info is accessible in other formats and can be easily found, but this makes the selection instant for them.
 
 #### Paper Document Structured OCR Import
 (This is totally unrelated to other requests)
